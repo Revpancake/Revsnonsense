@@ -1,0 +1,2141 @@
+debugLogStr1: 
+
+
+0: False
+GetFuzzInfo the streak nums were: 0 .. 0
+FuzzGeneral info: You say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" .. True .. 1 .. 1
+FuzzGeneral info: You say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" .. True .. 1 .. 1
+ProcessTryStrWithMaybeStatusEffect after fuzzing0: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?"
+ProcessTryStrWithMaybeStatusEffect after fuzzing1: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?"
+ProcessTryStrWithMaybeStatusEffect tryStrForAI before/after: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" .. You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?"
+wtf Colorize? <color=#ccccccff>You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?"</color>
+eloworld123 DoAiTaskWithLoadingScreenHelper 0
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+got to unfocused.
+eloworld123 DoAiTaskWithLoadingScreenHelper 1
+eloworld123 DoAiTaskWithLoadingScreenHelper 2
+eloworld123 DoAiTaskWithLoadingScreenHelper 3
+eloworld123 DoAiTaskWithLoadingScreenHelper 4
+eloworld123 DoAiTaskWithLoadingScreenHelper 5
+BuildPromptString add story turn0: StoryTurn
+BuildPromptString add story turn2: StoryTurn
+final prompt string from BuildPromptString: The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+
+[The adventure begins]
+
+You then say to the brain dead patients lying on gurneys*, "You don't mind if I steal your medicine, do you?" + Show More Shows Hide Storyboard » 0 / 3 « The Future» Episode #02 Opening (This story takes place 31 years from now)A bright red sports car speeds through traffic followed closelybya large black truck fullof men dressedin clothing similartothat worn inthe movie 12steppingoutoftruckswithapistol
+
+You and the John TriesnerUnit 22D arrive at the Dead Man Walking: Nightmare inducing yellow color tone, equipped with dozens of long needles that can be used for injecting medicines or liquids into human bodies; there are several cables coming out of its head detaching behind it, probably designed to transfer massive amounts of data from this
+
+
+getGeneratedText we are calling with prompt1: The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+
+[The adventure begins]
+
+You then say to the brain dead patients lying on gurneys*, "You don't mind if I steal your medicine, do you?" + Show More Shows Hide Storyboard » 0 / 3 « The Future» Episode #02 Opening (This story takes place 31 years from now)A bright red sports car speeds through traffic followed closelybya large black truck fullof men dressedin clothing similartothat worn inthe movie 12steppingoutoftruckswithapistol
+
+You and the John TriesnerUnit 22D arrive at the Dead Man Walking: Nightmare inducing yellow color tone, equipped with dozens of long needles that can be used for injecting medicines or liquids into human bodies; there are several cables coming out of its head detaching behind it, probably designed to transfer massive amounts of data from this
+
+You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?"
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+GenerateNpcInteractionResponse: False .. 5a94d147-aec6-4ab2-b686-fe99918885d6
+WasMaybeMentioned wordsExistingInOtherNames: EACH|BEING|ABLE||ITSELF|DETACH|APART|REVEALING|AN|EVEN|SMALLER|NOT|LISTED|YET|JOHN|TRIESNERUNIT|22D
+WasMaybeMentioned simplifiedNameWords: LARGE|MACHINE|OPERATED|BY|HUNDREDS|IF|THOUSANDS|UPON|MILLIONS|MICROSCOPIC|ROBOTS|KNOWN|AS|CUBES
+WasMaybeMentioned5: 76 .. 82 .. 0.9268293
+WasMaybeMentioned wordsExistingInOtherNames: LARGE|MACHINE|OPERATED|BY|HUNDREDS|IF|NOT|THOUSANDS|UPON|MILLIONS|MICROSCOPIC|ROBOTS|KNOWN|AS|CUBES|NOT|LISTED|YET|JOHN|TRIESNERUNIT|22D
+WasMaybeMentioned simplifiedNameWords: EACH|BEING|ABLE||ITSELF|DETACH|APART|REVEALING|AN|EVEN|SMALLER
+WasMaybeMentioned5: 0 .. 52 .. 0
+WasMaybeMentioned wordsExistingInOtherNames: LARGE|MACHINE|OPERATED|BY|HUNDREDS|IF|NOT|THOUSANDS|UPON|MILLIONS|MICROSCOPIC|ROBOTS|KNOWN|AS|CUBES|EACH|BEING|ABLE||ITSELF|DETACH|APART|REVEALING|AN|EVEN|SMALLER|JOHN|TRIESNERUNIT|22D
+WasMaybeMentioned simplifiedNameWords: LISTED|YET
+WasMaybeMentioned5: 0 .. 9 .. 0
+WasMaybeMentioned wordsExistingInOtherNames: LARGE|MACHINE|OPERATED|BY|HUNDREDS|IF|NOT|THOUSANDS|UPON|MILLIONS|MICROSCOPIC|ROBOTS|KNOWN|AS|CUBES|EACH|BEING|ABLE||ITSELF|DETACH|APART|REVEALING|AN|EVEN|SMALLER|NOT|LISTED|YET
+WasMaybeMentioned simplifiedNameWords: JOHN|TRIESNERUNIT|22D
+WasMaybeMentioned5: 0 .. 19 .. 0
+GetGameResultForStoryInteraction entity to check: large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes'
+GetGameResultForStoryInteraction entity to check: Dead Man Walking
+SplitSentenceStyle sentences: Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. |||,which says goodbyeto ya." |||Hey! |||get me OUTtahere!" |||Kenzyersonly whispers without anyone else hearingit due toreasons... |||uh... |||."
+GetStoryChunks chunk for 0, 3 is: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey!
+GetStoryChunks chunk for 3, 7 is: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ."
+the entity was null for: check_player_death
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." [You are now
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." [You are now
+debug word probs result:  in<|SEP1|>0.8096234202384949<|SEP2|> inside<|SEP1|>0.1569526493549347<|SEP2|> entering<|SEP1|>0.012683719396591187<|SEP2|> exiting<|SEP1|>0.0033608509693294764<|SEP2|> reading<|SEP1|>0.0027862433344125748<|SEP2|> getting<|SEP1|>0.0017989339539781213<|SEP2|> at<|SEP1|>0.0017435866175219417<|SEP2|> within<|SEP1|>0.0015148542588576674<|SEP2|>inside<|SEP1|>0.0013161281822249293<|SEP2|> on<|SEP1|>0.0011257441947236657<|SEP2|>
+get biased threshold for 0.115500604015542, 0: 0.115500604015542
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.115500604015542 and after bias was 0.115500604015542
+the entity was null for: check_player_injury
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." [You have been
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." [You have been
+debug word probs result:  killed<|SEP1|>0.8401838541030884<|SEP2|> terminated<|SEP1|>0.028303788974881172<|SEP2|> eliminated<|SEP1|>0.010912083089351654<|SEP2|> canceled<|SEP1|>0.010250953026115894<|SEP2|> KILL<|SEP1|>0.009781529195606709<|SEP2|> automatically<|SEP1|>0.007859678007662296<|SEP2|> warned<|SEP1|>0.0061211236752569675<|SEP2|> dismissed<|SEP1|>0.00540187256410718<|SEP2|>killed<|SEP1|>0.005074589978903532<|SEP2|> Killed<|SEP1|>0.004408880136907101<|SEP2|>
+get biased threshold for 0.854822137445299, 0: 0.854822137445299
+GetWhetherWordProbWasOverThreshold the total prob was 0.855504817329347 and threshold was 0.854822137445299 and after bias was 0.854822137445299
+char to check null? False
+GetGameResultForStoryInteraction looking at char: large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes' ..  .. 5a94d147-aec6-4ab2-b686-fe99918885d6 .. NPC .. True .. False
+GetGameResultForStoryInteraction is npc2. False .. False
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." [The Large Machine Operated By Hundreds If Not Thousands Upon Millions Microscopic Robots Known As 'Cubes' is now
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." [The Large Machine Operated By Hundreds If Not Thousands Upon Millions Microscopic Robots Known As 'Cubes' is now
+debug word probs result:  offline<|SEP1|>0.3980996906757355<|SEP2|> online<|SEP1|>0.0796249508857727<|SEP2|> Offline<|SEP1|>0.04536892846226692<|SEP2|> unable<|SEP1|>0.04003794118762016<|SEP2|> offering<|SEP1|>0.028391148895025253<|SEP2|> turning<|SEP1|>0.023907745257019997<|SEP2|> providing<|SEP1|>0.017491281032562256<|SEP2|> telling<|SEP1|>0.015802055597305298<|SEP2|> '<|SEP1|>0.014961086213588715<|SEP2|> able<|SEP1|>0.010363240726292133<|SEP2|>
+get biased threshold for 0.181752225924283, 0: 0.181752225924283
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.181752225924283 and after bias was 0.181752225924283
+getGeneratedText we are calling with prompt1: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." The dead man walking is
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." The dead man walking is
+debug word probs result:  still<|SEP1|>0.9899376630783081<|SEP2|> silent<|SEP1|>0.0027805313002318144<|SEP2|> completely<|SEP1|>0.002694983035326004<|SEP2|>still<|SEP1|>0.0008613683748990297<|SEP2|> actually<|SEP1|>0.0004468720289878547<|SEP2|> currently<|SEP1|>0.00033208707463927567<|SEP2|> wearing<|SEP1|>0.00025462001212872565<|SEP2|> now<|SEP1|>0.00020781479543074965<|SEP2|> unable<|SEP1|>0.00014968337200116366<|SEP2|> practically<|SEP1|>0.00014968337200116366<|SEP2|>
+get biased threshold for 0.0692236586660145, 0: 0.0692236586660145
+GetWhetherWordProbWasOverThreshold the total prob was 0.00020781479543075 and threshold was 0.0692236586660145 and after bias was 0.0692236586660145
+the entity was null for: check_player_finds_item
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." [You have just
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." [You have just
+debug word probs result:  revealed<|SEP1|>0.09040173143148422<|SEP2|> triggered<|SEP1|>0.07612589001655579<|SEP2|> broke<|SEP1|>0.060220539569854736<|SEP2|> broken<|SEP1|>0.04545684531331062<|SEP2|> bl<|SEP1|>0.03949359059333801<|SEP2|> mort<|SEP1|>0.020649703219532967<|SEP2|> given<|SEP1|>0.020171353593468666<|SEP2|> invoked<|SEP1|>0.018081482499837875<|SEP2|> been<|SEP1|>0.01738879270851612<|SEP2|> blown<|SEP1|>0.017253471538424492<|SEP2|>
+get biased threshold for 0.0696272011846304, 0: 0.0696272011846304
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.0696272011846304 and after bias was 0.0696272011846304
+the entity was null for: check_player_takes_item
+CapitalizeEveryWord what's null0: False .. False
+get biased threshold for 0.00424036917509511, 0: 0.00424036917509511
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.00424036917509511 and after bias was 0.00424036917509511
+the entity was null for: check_combat_started
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." [You are now under
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." [You are now under
+debug word probs result:  the<|SEP1|>0.10997018218040466<|SEP2|> a<|SEP1|>0.0626591145992279<|SEP2|> se<|SEP1|>0.057499244809150696<|SEP2|> us<|SEP1|>0.051140885800123215<|SEP2|> du<|SEP1|>0.02802289091050625<|SEP2|> marsh<|SEP1|>0.02716071717441082<|SEP2|> par<|SEP1|>0.01699674315750599<|SEP2|>gar<|SEP1|>0.0168644730001688<|SEP2|> complete<|SEP1|>0.015842707827687263<|SEP2|> protocol<|SEP1|>0.015597088262438774<|SEP2|>
+get biased threshold for 0.298226788565516, 0: 0.298226788565516
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.298226788565516 and after bias was 0.298226788565516
+the entity was null for: check_location_change
+CapitalizeEveryWord what's null0: False .. False
+get biased threshold for 0.140732131302357, 0: 0.140732131302357
+GetWhetherWordProbWasOverThreshold the total prob was 0.811367006856017 and threshold was 0.140732131302357 and after bias was 0.140732131302357
+got to before new quest check: True .. True .. 
+the entity was null for: check_new_quest
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." [You have a new
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." [You have a new
+debug word probs result:  thought<|SEP1|>0.21059365570545197<|SEP2|> friend<|SEP1|>0.08508752286434174<|SEP2|> private<|SEP1|>0.06626623123884201<|SEP2|>p<|SEP1|>0.05623941496014595<|SEP2|> hole<|SEP1|>0.04278469458222389<|SEP2|> relationship<|SEP1|>0.04212138056755066<|SEP2|> reader<|SEP1|>0.026773976162075996<|SEP2|> e<|SEP1|>0.014901962131261826<|SEP2|>'<|SEP1|>0.013150936923921108<|SEP2|>thought<|SEP1|>0.00984959676861763<|SEP2|>
+get biased threshold for 0.0119495423324406, 0: 0.0119495423324406
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.0119495423324406 and after bias was 0.0119495423324406
+the entity was null for: check_player_death
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! [You are now
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! [You are now
+debug word probs result:  alone<|SEP1|>0.43274563550949097<|SEP2|> in<|SEP1|>0.2316320538520813<|SEP2|> at<|SEP1|>0.09807918220758438<|SEP2|> inside<|SEP1|>0.056763872504234314<|SEP2|> reading<|SEP1|>0.05009394511580467<|SEP2|> on<|SEP1|>0.0328524112701416<|SEP2|> able<|SEP1|>0.010500261560082436<|SEP2|> exiting<|SEP1|>0.00756305456161499<|SEP2|> standing<|SEP1|>0.004883074667304754<|SEP2|> isolated<|SEP1|>0.004079961683601141<|SEP2|>
+get biased threshold for 0.115500604015542, 0: 0.115500604015542
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.115500604015542 and after bias was 0.115500604015542
+char to check null? False
+GetGameResultForStoryInteraction looking at char: large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes' ..  .. 5a94d147-aec6-4ab2-b686-fe99918885d6 .. NPC .. True .. False
+GetGameResultForStoryInteraction is npc2. False .. False
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! [The Large Machine Operated By Hundreds If Not Thousands Upon Millions Microscopic Robots Known As 'Cubes' is now
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! [The Large Machine Operated By Hundreds If Not Thousands Upon Millions Microscopic Robots Known As 'Cubes' is now
+debug word probs result:  offline<|SEP1|>0.503174364566803<|SEP2|> online<|SEP1|>0.06497884541749954<|SEP2|> on<|SEP1|>0.03941166400909424<|SEP2|> off<|SEP1|>0.03819909691810608<|SEP2|> able<|SEP1|>0.020446501672267914<|SEP2|> Offline<|SEP1|>0.016558082774281502<|SEP2|> in<|SEP1|>0.013409143313765526<|SEP2|> accessible<|SEP1|>0.011116569861769676<|SEP2|> available<|SEP1|>0.010121751576662064<|SEP2|> active<|SEP1|>0.009144240990281105<|SEP2|>
+get biased threshold for 0.181752225924283, 0: 0.181752225924283
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.181752225924283 and after bias was 0.181752225924283
+getGeneratedText we are calling with prompt1: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! The dead man walking is
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! The dead man walking is
+debug word probs result:  getting<|SEP1|>0.533803403377533<|SEP2|> still<|SEP1|>0.09132299572229385<|SEP2|> back<|SEP1|>0.05453145131468773<|SEP2|> trying<|SEP1|>0.03466230258345604<|SEP2|> waving<|SEP1|>0.02742013707756996<|SEP2|> following<|SEP1|>0.02203269861638546<|SEP2|> heading<|SEP1|>0.017982563003897667<|SEP2|> just<|SEP1|>0.013363507576286793<|SEP2|> that<|SEP1|>0.010246156714856625<|SEP2|> pushing<|SEP1|>0.008494362235069275<|SEP2|>
+get biased threshold for 0.0692236586660145, 0: 0.0692236586660145
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.0692236586660145 and after bias was 0.0692236586660145
+the entity was null for: check_player_finds_item
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! [You have just
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! [You have just
+debug word probs result:  realized<|SEP1|>0.27152422070503235<|SEP2|> enough<|SEP1|>0.1523112803697586<|SEP2|> noticed<|SEP1|>0.07423058897256851<|SEP2|> arrived<|SEP1|>0.06973318755626678<|SEP2|> remembered<|SEP1|>0.030943913385272026<|SEP2|> entered<|SEP1|>0.02861844189465046<|SEP2|> crossed<|SEP1|>0.021267421543598175<|SEP2|> pierced<|SEP1|>0.02029351517558098<|SEP2|> reached<|SEP1|>0.01876843348145485<|SEP2|> saved<|SEP1|>0.01269935816526413<|SEP2|>
+get biased threshold for 0.0696272011846304, 0: 0.0696272011846304
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.0696272011846304 and after bias was 0.0696272011846304
+the entity was null for: check_player_takes_item
+CapitalizeEveryWord what's null0: False .. False
+get biased threshold for 0.00424036917509511, 0: 0.00424036917509511
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.00424036917509511 and after bias was 0.00424036917509511
+the entity was null for: check_combat_started
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! [You are now under
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! [You are now under
+debug word probs result:  the<|SEP1|>0.6989928483963013<|SEP2|> a<|SEP1|>0.08748921751976013<|SEP2|> control<|SEP1|>0.01791391894221306<|SEP2|> k<|SEP1|>0.01605793461203575<|SEP2|> observation<|SEP1|>0.015442762523889542<|SEP2|>]<|SEP1|>0.013842802494764328<|SEP2|>foot<|SEP1|>0.005295344162732363<|SEP2|> se<|SEP1|>0.005295344162732363<|SEP2|> pressure<|SEP1|>0.005254135467112064<|SEP2|> attack<|SEP1|>0.005013530608266592<|SEP2|>
+get biased threshold for 0.298226788565516, 0: 0.298226788565516
+GetWhetherWordProbWasOverThreshold the total prob was 0.00501353060826659 and threshold was 0.298226788565516 and after bias was 0.298226788565516
+the entity was null for: check_new_char
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! [new
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! [new
+debug word probs result:  emotion<|SEP1|>0.17263507843017578<|SEP2|> voice<|SEP1|>0.11681074649095535<|SEP2|>]<|SEP1|>0.10308511555194855<|SEP2|> noise<|SEP1|>0.09683950245380402<|SEP2|> text<|SEP1|>0.035625260323286057<|SEP2|> tear<|SEP1|>0.02606399916112423<|SEP2|> tone<|SEP1|>0.020943012088537216<|SEP2|> word<|SEP1|>0.020943012088537216<|SEP2|> tears<|SEP1|>0.020298663526773453<|SEP2|> sound<|SEP1|>0.019674137234687805<|SEP2|>
+get biased threshold for 0.005, 5.960464E-08: 0.00500005930662155
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.005 and after bias was 0.00500005930662155
+got to before new quest check: True .. True .. 
+the entity was null for: check_new_quest
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! [You have a new
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! [You have a new
+debug word probs result:  voice<|SEP1|>0.08012152463197708<|SEP2|> message<|SEP1|>0.07070699334144592<|SEP2|> thought<|SEP1|>0.07070699334144592<|SEP2|> voic<|SEP1|>0.04288596287369728<|SEP2|> companion<|SEP1|>0.039974112063646317<|SEP2|> friend<|SEP1|>0.03725996986031532<|SEP2|> e<|SEP1|>0.02662849612534046<|SEP2|> attendant<|SEP1|>0.025409091264009476<|SEP2|> neighbor<|SEP1|>0.022599313408136368<|SEP2|> headache<|SEP1|>0.019788619130849838<|SEP2|>
+get biased threshold for 0.0119495423324406, 0: 0.0119495423324406
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.0119495423324406 and after bias was 0.0119495423324406
+GetGameEventResultFromEventCheckResult begin.
+getGeneratedText we are calling with prompt1: Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse.,which says goodbyeto ya."Hey! get me OUTtahere!"Kenzyersonly whispers without anyone else hearingit due toreasons... uh...."" [New location:
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+GetGameEventResultFromEventCheckResult location finished.
+eloworld123 DoAiTaskWithLoadingScreenHelper 6
+eloworld123 DoAiTaskWithLoadingScreenHelper 7
+eloworld playerstatus ProcessTryStrWithMaybeStatusEffect1: False
+eloworld playerstatus ProcessTryStrWithMaybeStatusEffect2: False
+ProcessResultForStoryInteraction invoking turn events.
+eloworld playerstatus ProcessResultForStoryInteraction0: False
+eloworld playerstatus ProcessResultForStoryInteraction1: PcGameEntity .. Player (PlayerCharacter)
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+ProcessResultForStoryInteraction tryStr Before: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?"
+ProcessResultForStoryInteraction tryStr After: You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?"
+ProcessResultForStoryInteraction1:  Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse.,which says goodbyeto ya."Hey! get me OUTtahere!"Kenzyersonly whispers without anyone else hearingit due toreasons... uh....""
+GetFuzzInfo the streak nums were: 0 .. 0
+dmgProt: 0
+dmgProt: 0
+dmgProt: 0
+dmgProt: 0
+wtf Colorize? <color=#dd3333ff>You take 68 damage (was 68 before damage protection).</color>
+wtf Colorize? <color=#ffcc99ff>The AI decides that you were injured. <color=#dd3333ff>You take 68 damage (was 68 before damage protection).</color></color>
+wtf20: -68
+wtf2 zero sense. 28
+wtf21: 130
+wtf3: 130
+wtf Colorize? <color=#ffcc99ff>In roguelite mode, you wake up after dying and lose most of your items.</color>
+wtf3: 130
+BuildPromptString add story turn2: StoryTurn
+BuildPromptString add story turn0: StoryTurn
+final prompt string from BuildPromptString: The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+
+[The adventure begins]
+
+You and the John TriesnerUnit 22D arrive at the Dead Man Walking: Nightmare inducing yellow color tone, equipped with dozens of long needles that can be used for injecting medicines or liquids into human bodies; there are several cables coming out of its head detaching behind it, probably designed to transfer massive amounts of data from this
+
+You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse.,which says goodbyeto ya."Hey! get me OUTtahere!"Kenzyersonly whispers without anyone else hearingit due toreasons... uh....""
+
+
+eloworld123 DoAiTaskWithLoadingScreenHelper 0
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+eloworld123 DoAiTaskWithLoadingScreenHelper 1
+eloworld123 DoAiTaskWithLoadingScreenHelper 2
+eloworld123 DoAiTaskWithLoadingScreenHelper 3
+eloworld123 DoAiTaskWithLoadingScreenHelper 4
+eloworld123 DoAiTaskWithLoadingScreenHelper 5
+getGeneratedText we are calling with prompt1: The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+
+[The adventure begins]
+
+You and the John TriesnerUnit 22D arrive at the Dead Man Walking: Nightmare inducing yellow color tone, equipped with dozens of long needles that can be used for injecting medicines or liquids into human bodies; there are several cables coming out of its head detaching behind it, probably designed to transfer massive amounts of data from this
+
+You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse.,which says goodbyeto ya."Hey! get me OUTtahere!"Kenzyersonly whispers without anyone else hearingit due toreasons... uh....""
+
+
+
+You awaken in a
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+eloworld123 DoAiTaskWithLoadingScreenHelper 6
+eloworld123 DoAiTaskWithLoadingScreenHelper 7
+eloworld123 DoAiTaskWithLoadingScreenHelper 0
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+eloworld123 DoAiTaskWithLoadingScreenHelper 1
+eloworld123 DoAiTaskWithLoadingScreenHelper 2
+eloworld123 DoAiTaskWithLoadingScreenHelper 3
+eloworld123 DoAiTaskWithLoadingScreenHelper 4
+eloworld123 DoAiTaskWithLoadingScreenHelper 5
+eloworld123 DoAiTaskWithLoadingScreenHelper 6
+eloworld123 DoAiTaskWithLoadingScreenHelper 7
+NumCharsMatching: DEAD MAN WALKING .. SMALL HOSPITAL ROOM
+NumCharsMatching fdsa. 0
+NumCharsMatching: MORGUE WORKERS MASSACRE .. SMALL HOSPITAL ROOM
+NumCharsMatching fdsa. 0
+MakeAndVisitNewLocation did not detect pre-existing child location.
+eloworld123 DoAiTaskWithLoadingScreenHelper 0
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+eloworld123 DoAiTaskWithLoadingScreenHelper 1
+eloworld123 DoAiTaskWithLoadingScreenHelper 2
+eloworld123 DoAiTaskWithLoadingScreenHelper 3
+eloworld123 DoAiTaskWithLoadingScreenHelper 4
+eloworld123 DoAiTaskWithLoadingScreenHelper 5
+final prompt string from BuildPromptString: The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+
+
+getGeneratedText we are calling with prompt1: The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+
+
+
+You have arrived at the   small hospital room in the Neurosurgeon Martin Bruxel may have been assassinated during one operation - no other surgeon has had experience as extensive training using high tech biotechnology at. Detailed visual description of the   small hospital room:
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+final prompt string from BuildPromptString: The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+
+
+getGeneratedText we are calling with prompt1: The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+
+
+
+You have arrived at the   small hospital room in the Neurosurgeon Martin Bruxel may have been assassinated during one operation - no other surgeon has had experience as extensive training using high tech biotechnology at. Detailed visual description of the   small hospital room:
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+initEntities place:   small hospital room
+initEntities MaybeGenerateCraftingOrResource done
+getGeneratedText we are calling with prompt1: Bustling food court in the Millenium shopping mall: The food court comprises the entire bottom floor of the shopping mall. There are diverse types of cuisine including Asian, Western, and fusion foods. In the center there's a large eating area with plenty of tables.
+List of places: Expensive Italian restaurant, Malaysian food stall, Burt's pizza stall, condiments area, open-air dining area, beer garden bar, painted mural of children playing in a park.
+
+Medieval village: A large medieval village with numerous people on the streets going about their daily tasks. It is enclosed by stone walls, but most buildings are made of straw, brick and wood.
+List of places: Blacksmith's station, Grain-churning wind mill, Stinking Rose Tavern, gothic church, peasant's home, whorehouse, statue of King Avalon, guard's barracks.
+
+Andromeda space station: A central galactic hub where multiple species stop to eat or rest.
+List of places: Ship docking station, oxygen maintenance room, restaurant plaza, Asari gentleman's club, cargo hold, centrifugal gravity generator, quantum communications room.
+
+  small hospital room: The size of the coffee table you used to own that broke down after only two years use; the blue color found on almost all objects inside an unnerving synthetic plastic smell always present ; there are four metal operating tables each with several surgical instruments available for
+List of places:
+getGeneratedText we are calling with prompt1: Eiffel tower: One of the largest structures in France and a great tourist attraction. It contains four legs and a long spire.
+List of friendly characters: Blonde man with a French accent, American tourist shouting loudly, well-dressed butler, Eiffel cafe chef, elevator doorman.
+
+Giant centipede's stomach: The insides of a giant centipede, with acid dripping down the stomach walls.
+List of friendly characters: The tapeworm, the good gut bacterium, the beetle, the slime entity, the talking hair follicle.
+
+Underwater city of Atlantis: Various creatures of all types, including octopii, mermaids and humans, congregate and trade goods in this butling underwater city.
+List of friendly characters: The Benevolent Octopus, the red-haired mermaid, the merchant selling exotic fish, the woman in scuba diving gear, the treasure-hunting mermaid.
+
+  small hospital room: The size of the coffee table you used to own that broke down after only two years use; the blue color found on almost all objects inside an unnerving synthetic plastic smell always present ; there are four metal operating tables each with several surgical instruments available for
+List of friendly characters:
+WaitForGptToBeReady0
+WaitForGptToBeReady0
+getGeneratedText we are calling with prompt1: Eiffel tower: One of the largest structures in France and a great tourist attraction. It contains four legs and a long spire.
+List of evil enemies: The loud bratty child, the narcissistic tourist with selfie stick, the stealthy pickpocket, the scammers with a French accent.
+
+Giant centipede's stomach: The insides of a giant centipede, with acid dripping down the stomach walls.
+List of evil enemies: The stomach parasite, the gut bacteria, the acid reflux golem, the centipede larva.
+
+Bathroom in Chicago subway station: A large underground tunnel system that connects the various stations in the city. Bullet trains speed to and from the stations, and each platform is crowded with pedestrians, commuters and tourists.
+List of evil enemies: The hobo poop, the toilet monster, the large black widow spider, the belligerent person with constipation.
+
+  small hospital room: The size of the coffee table you used to own that broke down after only two years use; the blue color found on almost all objects inside an unnerving synthetic plastic smell always present ; there are four metal operating tables each with several surgical instruments available for
+List of evil enemies:
+WaitForGptToBeReady2
+WaitForGptToBeReady2
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+generateImage fdsa22 C:/Users/Brad/AppData/LocalLow/MaxLoh/AI Roguelite\save\74ba8b8e-09b7-4947-9b11-bb27b605a334
+generateImage proposed path is C:/Users/Brad/AppData/LocalLow/MaxLoh/AI Roguelite\save\74ba8b8e-09b7-4947-9b11-bb27b605a334\ad5390d8-0086-4824-95e8-c7e459c7a1ea.png
+generateImage prompt: (Ultra HD Airbrushed Oil Painting)   small hospital room: Small bed against wall; Against opposite wall stand two long cabinets; A large chair stands before desk upon which sits a laptop; Several books lay on the lap of the chairs; There is also a chest Of drawers MATCHING THE DESCRIPTION OF 
+UpdateAndFinishImgGen0:   small hospital room .. ad5390d8-0086-4824-95e8-c7e459c7a1ea
+AIAsker GetGeneratedImage 5 ad5390d8-0086-4824-95e8-c7e459c7a1ea .. (Ultra HD Airbrushed Oil Painting)   small hospital room: Small bed against wall; Against opposite wall stand two long cabinets; A large chair stands before desk upon which sits a laptop; Several books lay on the lap of the chairs; There is also a chest Of drawers MATCHING THE DESCRIPTION OF
+the range debug: 6 1.48211026875
+initEntities generateNpcs done
+final prompt string from BuildPromptString: The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+
+
+getGeneratedText we are calling with prompt1: Hipster pelican description: A pelican with an enormous yellow beak. It seems to be eyeing you with a condescending stare, and it's wearing a pair of hipster aviator sunglasses.
+Talking cactus in fantasy desert description: A large red cactus with branches on each side and a strange orifice in the middle comprising of two "lips", through which it can speak. Its spines are blue in color, and are much longer and thicker than those of a regular cactus.
+Street vendor in Istanbul description: A nice-looking lady wearing a purple turban frying up some lamb shishkebab on the grill. She's wearing an apron and blue jeans and seemes exhausted.
+brain removed from patient number 23 sufferingfrom multiple sclerosis during routine surgery at 11am having been scheduled 45 minutes ago according our internal schedule which follows chron in   small hospital room description:
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+GetCurrentTaskInd0 True .. True
+GetCurrentTaskInd0 True .. True
+initEntities GenerateChildPlaces done
+the range debug: 6 1.48211026875
+initEntities generateEnemies done
+initEntities wtf3.0.
+initEntities Done initializing place:   small hospital room
+eloworld123 DoAiTaskWithLoadingScreenHelper 6
+eloworld123 DoAiTaskWithLoadingScreenHelper 7
+done waiting for palce stuffs supposedly: True
+got update grid selections.
+clearyo
+a child place is being added: Human brain washing facility
+got to ADD GRID ELE. Human brain washing facility
+selectablethingy awake.
+what's null? False
+got to ADD GRID ELE end.
+a child place is being added: Biocopying machine
+got to ADD GRID ELE. Biocopying machine
+selectablethingy awake.
+what's null? False
+got to ADD GRID ELE end.
+clearyo
+got to ADD GRID ELE. brain removed from patient number 23 sufferingfrom multiple sclerosis during routine surgery at 11am having been scheduled 45 minutes ago according our internal schedule which follows chron
+selectablethingy awake.
+what's null? False
+got to ADD GRID ELE end.
+clearyo
+got to ADD GRID ELE. No one knows what happens here exactly but patients simply disappear at best
+selectablethingy awake.
+what's null? False
+got to ADD GRID ELE end.
+UpdateQuestButton null1 False
+GetCurrentTaskInd0 True .. True
+Tab Button Pressed: 1
+tabContentTransforms size: 3
+what's going on: 
+what is follower status? True
+wat happen 76
+what is follower status? True
+eloworld got to save game.
+started lerp.
+MovePlayerToNewLocationAfterDeath2
+eloworld123 DoAiTaskWithLoadingScreenHelper 0
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+alpha debug: 0.2868652 .. 0.627451 .. 0.7343224
+eloworld123 DoAiTaskWithLoadingScreenHelper 1
+eloworld123 DoAiTaskWithLoadingScreenHelper 2
+eloworld123 DoAiTaskWithLoadingScreenHelper 3
+eloworld123 DoAiTaskWithLoadingScreenHelper 4
+eloworld123 DoAiTaskWithLoadingScreenHelper 5
+WasMaybeMentioned wordsExistingInOtherNames: NO|ONE|KNOWS|WHAT|HAPPENS|HERE|EXACTLY|BUT|PATIENTS|SIMPLY|DISAPPEAR|AT|BEST|JOHN|TRIESNERUNIT|22D
+alpha debug: 0.3070068 .. 0.627451 .. 0.7418261
+WasMaybeMentioned simplifiedNameWords: BRAIN|REMOVED|FROM|PATIENT|NUMBER|23|SUFFERINGFROM|MULTIPLE|SCLEROSIS|DURING|ROUTINE|SURGERY|11AM|HAVING|BEEN|SCHEDULED|45|MINUTES|AGO|ACCORDING|OUR|INTERNAL|SCHEDULE|WHICH|FOLLOWS|CHRON
+WasMaybeMentioned5: 0 .. 161 .. 0
+WasMaybeMentioned wordsExistingInOtherNames: BRAIN|REMOVED|FROM|PATIENT|NUMBER|23|SUFFERINGFROM|MULTIPLE|SCLEROSIS|DURING|ROUTINE|SURGERY|AT|11AM|HAVING|BEEN|SCHEDULED|45|MINUTES|AGO|ACCORDING|OUR|INTERNAL|SCHEDULE|WHICH|FOLLOWS|CHRON|JOHN|TRIESNERUNIT|22D
+WasMaybeMentioned simplifiedNameWords: NO|ONE|KNOWS|WHAT|HAPPENS|HERE|EXACTLY|BUT|PATIENTS|SIMPLY|DISAPPEAR|BEST
+alpha debug: 0.3198242 .. 0.627451 .. 0.7466012
+WasMaybeMentioned5: 0 .. 62 .. 0
+WasMaybeMentioned wordsExistingInOtherNames: BRAIN|REMOVED|FROM|PATIENT|NUMBER|23|SUFFERINGFROM|MULTIPLE|SCLEROSIS|DURING|ROUTINE|SURGERY|AT|11AM|HAVING|BEEN|SCHEDULED|45|MINUTES|AGO|ACCORDING|OUR|INTERNAL|SCHEDULE|WHICH|FOLLOWS|CHRON|NO|ONE|KNOWS|WHAT|HAPPENS|HERE|EXACTLY|BUT|PATIENTS|SIMPLY|DISAPPEAR|AT|BEST
+WasMaybeMentioned simplifiedNameWords: JOHN|TRIESNERUNIT|22D
+WasMaybeMentioned5: 0 .. 19 .. 0
+SplitSentenceStyle sentences: You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! |||, we need your help once again." |||"What happened? |||Where amI"?
+GetStoryChunks chunk for 0, 2 is: You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again."
+GetStoryChunks chunk for 2, 4 is: You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." "What happened? Where amI"?
+the entity was null for: check_player_item_heal
+alpha debug: 0.3442383 .. 0.627451 .. 0.7556967
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." "What happened? Where amI"? [You feel very
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+alpha debug: 0.3851318 .. 0.627451 .. 0.7709315
+alpha debug: 0.4272461 .. 0.627451 .. 0.7866211
+alpha debug: 0.4675293 .. 0.627451 .. 0.8016286
+alpha debug: 0.5841064 .. 0.627451 .. 0.8450593
+alpha debug: 0.5883789 .. 0.627451 .. 0.846651
+alpha debug: 0.5963135 .. 0.627451 .. 0.849607
+alpha debug: 0.6359863 .. 0.627451 .. 0.8643871
+alpha debug: 0.6762695 .. 0.627451 .. 0.8793945
+alpha debug: 0.7177734 .. 0.627451 .. 0.8948568
+alpha debug: 0.7592773 .. 0.627451 .. 0.910319
+alpha debug: 0.8007813 .. 0.627451 .. 0.9257813
+alpha debug: 0.8422852 .. 0.627451 .. 0.9412435
+alpha debug: 0.8843994 .. 0.627451 .. 0.9569331
+alpha debug: 0.925293 .. 0.627451 .. 0.972168
+alpha debug: 0.9674072 .. 0.627451 .. 0.9878576
+alpha debug: 0.9904785 .. 0.627451 .. 0.9964528
+alpha debug: 0.9489746 .. 0.627451 .. 0.9809905
+alpha debug: 0.9074707 .. 0.627451 .. 0.9655283
+alpha debug: 0.8653564 .. 0.627451 .. 0.9498387
+alpha debug: 0.8238525 .. 0.627451 .. 0.9343764
+alpha debug: 0.7823486 .. 0.627451 .. 0.9189142
+alpha debug: 0.7408447 .. 0.627451 .. 0.903452
+alpha debug: 0.6987305 .. 0.627451 .. 0.8877624
+alpha debug: 0.6566162 .. 0.627451 .. 0.8720727
+alpha debug: 0.6157227 .. 0.627451 .. 0.8568379
+alpha debug: 0.5736084 .. 0.627451 .. 0.8411483
+alpha debug: 0.5321045 .. 0.627451 .. 0.825686
+alpha debug: 0.4906006 .. 0.627451 .. 0.8102238
+alpha debug: 0.4490967 .. 0.627451 .. 0.7947615
+alpha debug: 0.4069825 .. 0.627451 .. 0.7790719
+alpha debug: 0.3654785 .. 0.627451 .. 0.7636096
+alpha debug: 0.3239746 .. 0.627451 .. 0.7481474
+alpha debug: 0.2818604 .. 0.627451 .. 0.7324578
+alpha debug: 0.2397461 .. 0.627451 .. 0.7167682
+alpha debug: 0.1988526 .. 0.627451 .. 0.7015333
+alpha debug: 0.1207276 .. 0.627451 .. 0.672428
+alpha debug: 0.1152344 .. 0.627451 .. 0.6703815
+alpha debug: 0.07312015 .. 0.627451 .. 0.6546918
+alpha debug: 0.03161624 .. 0.627451 .. 0.6392296
+alpha debug: 0.01049802 .. 0.627451 .. 0.631362
+alpha debug: 0.05200192 .. 0.627451 .. 0.6468242
+alpha debug: 0.09350583 .. 0.627451 .. 0.6622865
+alpha debug: 0.1350097 .. 0.627451 .. 0.6777487
+alpha debug: 0.177124 .. 0.627451 .. 0.6934384
+alpha debug: 0.2186279 .. 0.627451 .. 0.7089006
+alpha debug: 0.2607422 .. 0.627451 .. 0.7245902
+alpha debug: 0.3016357 .. 0.627451 .. 0.7398251
+alpha debug: 0.34375 .. 0.627451 .. 0.7555147
+alpha debug: 0.3852539 .. 0.627451 .. 0.770977
+alpha debug: 0.4273681 .. 0.627451 .. 0.7866666
+alpha debug: 0.468872 .. 0.627451 .. 0.8021288
+alpha debug: 0.5103759 .. 0.627451 .. 0.817591
+alpha debug: 0.5518798 .. 0.627451 .. 0.8330533
+alpha debug: 0.5939941 .. 0.627451 .. 0.8487429
+alpha debug: 0.635498 .. 0.627451 .. 0.8642051
+alpha debug: 0.6776122 .. 0.627451 .. 0.8798948
+alpha debug: 0.7185058 .. 0.627451 .. 0.8951296
+alpha debug: 0.7606201 .. 0.627451 .. 0.9108192
+alpha debug: 0.802124 .. 0.627451 .. 0.9262815
+alpha debug: 0.8442382 .. 0.627451 .. 0.9419711
+alpha debug: 0.8857421 .. 0.627451 .. 0.9574333
+alpha debug: 0.927246 .. 0.627451 .. 0.9728956
+alpha debug: 0.9693603 .. 0.627451 .. 0.9885852
+alpha debug: 0.9891358 .. 0.627451 .. 0.9959525
+alpha debug: 0.9482422 .. 0.627451 .. 0.9807177
+alpha debug: 0.9055176 .. 0.627451 .. 0.9648007
+alpha debug: 0.8640137 .. 0.627451 .. 0.9493384
+alpha debug: 0.7834473 .. 0.627451 .. 0.9193235
+alpha debug: 0.7785645 .. 0.627451 .. 0.9175044
+alpha debug: 0.739502 .. 0.627451 .. 0.9029517
+alpha debug: 0.6973878 .. 0.627451 .. 0.8872621
+alpha debug: 0.6552735 .. 0.627451 .. 0.8715725
+alpha debug: 0.6143799 .. 0.627451 .. 0.8563376
+alpha debug: 0.5722657 .. 0.627451 .. 0.840648
+alpha debug: 0.5307618 .. 0.627451 .. 0.8251858
+alpha debug: 0.4886475 .. 0.627451 .. 0.8094962
+alpha debug: 0.4471436 .. 0.627451 .. 0.7940339
+alpha debug: 0.4056397 .. 0.627451 .. 0.7785717
+alpha debug: 0.3641358 .. 0.627451 .. 0.7631094
+alpha debug: 0.3220215 .. 0.627451 .. 0.7474198
+alpha debug: 0.2805176 .. 0.627451 .. 0.7319576
+alpha debug: 0.2390137 .. 0.627451 .. 0.7164953
+alpha debug: 0.1975098 .. 0.627451 .. 0.7010331
+alpha debug: 0.1553956 .. 0.627451 .. 0.6853434
+alpha debug: 0.1132813 .. 0.627451 .. 0.6696538
+alpha debug: 0.0717774 .. 0.627451 .. 0.6541916
+alpha debug: 0.0302735 .. 0.627451 .. 0.6387293
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+alpha debug: 0 .. 0.627451 .. 0.627451
+generateImage fdsa22 C:/Users/Brad/AppData/LocalLow/MaxLoh/AI Roguelite\save\74ba8b8e-09b7-4947-9b11-bb27b605a334
+generateImage proposed path is C:/Users/Brad/AppData/LocalLow/MaxLoh/AI Roguelite\save\74ba8b8e-09b7-4947-9b11-bb27b605a334\bd44321c-ec77-4f93-b330-ece3df305a8d.png
+generateImage prompt: (Ultra HD Airbrushed Oil Painting) brain removed from patient number 23 sufferingfrom multiple sclerosis during routine surgery at 11am having been scheduled 45 minutes ago according our internal schedule which follows chron: Small white box covered by heavy draping; there is no other furniture except fora table drawer loadedwith booksand another containing old fashioned radiophonespeakers connectedby wiresto what looks likean outdated microwave oven - although this one has gone 
+UpdateAndFinishImgGen0: brain removed from patient number 23 sufferingfrom multiple sclerosis during routine surgery at 11am having been scheduled 45 minutes ago according our internal schedule which follows chron .. bd44321c-ec77-4f93-b330-ece3df305a8d
+SetProgressAmount setting to active
+debug word probs prompt: You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." "What happened? Where amI"? [You feel very
+debug word probs result:  weak<|SEP1|>0.17480455338954926<|SEP2|> gro<|SEP1|>0.11286230385303497<|SEP2|> d<|SEP1|>0.09503958374261856<|SEP2|> strange<|SEP1|>0.09211552888154984<|SEP2|> drained<|SEP1|>0.08789724856615067<|SEP2|> tired<|SEP1|>0.0865345224738121<|SEP2|> sick<|SEP1|>0.05500468984246254<|SEP2|> dizz<|SEP1|>0.05500468984246254<|SEP2|> sleepy<|SEP1|>0.04778890311717987<|SEP2|> woo<|SEP1|>0.028536058962345123<|SEP2|>
+get biased threshold for 0.0649904957739636, 0: 0.0649904957739636
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.0649904957739636 and after bias was 0.0649904957739636
+char to check null? False
+the entity was null for: check_player_finds_item
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." "What happened? Where amI"? [You have just
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." "What happened? Where amI"? [You have just
+debug word probs result:  w<|SEP1|>0.1623457968235016<|SEP2|> rec<|SEP1|>0.12064515054225922<|SEP2|> regained<|SEP1|>0.06874153763055801<|SEP2|> been<|SEP1|>0.05108436942100525<|SEP2|> awoken<|SEP1|>0.05029238015413284<|SEP2|> completed<|SEP1|>0.04951266944408417<|SEP2|> arrived<|SEP1|>0.04508179798722267<|SEP2|> read<|SEP1|>0.04301735758781433<|SEP2|> passed<|SEP1|>0.0340295284986496<|SEP2|> come<|SEP1|>0.02865573577582836<|SEP2|>
+get biased threshold for 0.0696272011846304, 0: 0.0696272011846304
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.0696272011846304 and after bias was 0.0696272011846304
+the entity was null for: check_player_takes_item
+CapitalizeEveryWord what's null0: False .. False
+get biased threshold for 0.00424036917509511, 0: 0.00424036917509511
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.00424036917509511 and after bias was 0.00424036917509511
+the entity was null for: check_new_char
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." "What happened? Where amI"? [new
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." "What happened? Where amI"? [new
+debug word probs result:  patient<|SEP1|>0.15497133135795593<|SEP2|>sc<|SEP1|>0.10485885292291641<|SEP2|> voice<|SEP1|>0.0829501822590828<|SEP2|>sp<|SEP1|>0.028222376480698586<|SEP2|> confusion<|SEP1|>0.02232573740184307<|SEP2|> information<|SEP1|>0.0188001561909914<|SEP2|> doctor<|SEP1|>0.01510634832084179<|SEP2|> vocal<|SEP1|>0.014527633786201477<|SEP2|>]<|SEP1|>0.013331306166946888<|SEP2|> y<|SEP1|>0.01054593175649643<|SEP2|>
+get biased threshold for 0.005, 5.960464E-08: 0.00500005930662155
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.005 and after bias was 0.00500005930662155
+got to before new quest check: True .. True .. 
+the entity was null for: check_new_quest
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." "What happened? Where amI"? [You have a new
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." "What happened? Where amI"? [You have a new
+debug word probs result:  am<|SEP1|>0.2918296754360199<|SEP2|> b<|SEP1|>0.11428213119506836<|SEP2|> circle<|SEP1|>0.052322179079055786<|SEP2|> range<|SEP1|>0.037101976573467255<|SEP2|> set<|SEP1|>0.026309240609407425<|SEP2|> metal<|SEP1|>0.01880236715078354<|SEP2|> memory<|SEP1|>0.015346044674515724<|SEP2|> l<|SEP1|>0.013649055734276772<|SEP2|> arm<|SEP1|>0.012045249342918396<|SEP2|> partner<|SEP1|>0.009021474979817867<|SEP2|>
+get biased threshold for 0.0119495423324406, 0: 0.0119495423324406
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.0119495423324406 and after bias was 0.0119495423324406
+the entity was null for: check_player_item_heal
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." [You feel very
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." [You feel very
+debug word probs result:  weak<|SEP1|>0.49344462156295776<|SEP2|> drained<|SEP1|>0.1732153594493866<|SEP2|> gro<|SEP1|>0.09716500341892242<|SEP2|> sick<|SEP1|>0.06176184117794037<|SEP2|> tired<|SEP1|>0.04114225506782532<|SEP2|> ill<|SEP1|>0.03464524820446968<|SEP2|> dizz<|SEP1|>0.023811308667063713<|SEP2|> frail<|SEP1|>0.009620639495551586<|SEP2|> d<|SEP1|>0.008101389743387699<|SEP2|> confused<|SEP1|>0.00454446766525507<|SEP2|>
+get biased threshold for 0.0649904957739636, 0: 0.0649904957739636
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.0649904957739636 and after bias was 0.0649904957739636
+char to check null? False
+the entity was null for: check_player_finds_item
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." [You have just
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." [You have just
+debug word probs result:  been<|SEP1|>0.4939427375793457<|SEP2|> one<|SEP1|>0.1051664724946022<|SEP2|> broken<|SEP1|>0.03634456545114517<|SEP2|> finished<|SEP1|>0.03468022122979164<|SEP2|> w<|SEP1|>0.03414255753159523<|SEP2|> escaped<|SEP1|>0.0320739671587944<|SEP2|> remembered<|SEP1|>0.022044092416763306<|SEP2|> arrived<|SEP1|>0.020071374252438545<|SEP2|> spent<|SEP1|>0.011084466241300106<|SEP2|> completed<|SEP1|>0.009782006032764912<|SEP2|>
+get biased threshold for 0.0696272011846304, 0: 0.0696272011846304
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.0696272011846304 and after bias was 0.0696272011846304
+the entity was null for: check_player_takes_item
+CapitalizeEveryWord what's null0: False .. False
+get biased threshold for 0.00424036917509511, 0: 0.00424036917509511
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.00424036917509511 and after bias was 0.00424036917509511
+the entity was null for: check_new_char
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." [new
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." [new
+debug word probs result: ]<|SEP1|>0.09654589742422104<|SEP2|> details<|SEP1|>0.0812997967004776<|SEP2|>sp<|SEP1|>0.04184954985976219<|SEP2|> e<|SEP1|>0.03085792250931263<|SEP2|> intro<|SEP1|>0.02618877775967121<|SEP2|> layer<|SEP1|>0.019011013209819794<|SEP2|> and<|SEP1|>0.017041362822055817<|SEP2|> information<|SEP1|>0.01256551407277584<|SEP2|> sp<|SEP1|>0.011896788142621517<|SEP2|> theme<|SEP1|>0.011263652704656124<|SEP2|>
+get biased threshold for 0.005, 5.960464E-08: 0.00500005930662155
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.005 and after bias was 0.00500005930662155
+got to before new quest check: True .. True .. 
+the entity was null for: check_new_quest
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." [You have a new
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+debug word probs prompt: You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." [You have a new
+debug word probs result:  nurse<|SEP1|>0.1422172486782074<|SEP2|> patient<|SEP1|>0.1142747700214386<|SEP2|> friend<|SEP1|>0.07732217758893967<|SEP2|> skill<|SEP1|>0.07612340897321701<|SEP2|> ability<|SEP1|>0.02911979891359806<|SEP2|> partner<|SEP1|>0.026307545602321625<|SEP2|> disease<|SEP1|>0.02589968405663967<|SEP2|> pet<|SEP1|>0.01865484192967415<|SEP2|> relationship<|SEP1|>0.017524603754281998<|SEP2|> range<|SEP1|>0.015586704947054386<|SEP2|>
+get biased threshold for 0.0119495423324406, 0: 0.0119495423324406
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.0119495423324406 and after bias was 0.0119495423324406
+GetGameEventResultFromEventCheckResult begin.
+eloworld123 DoAiTaskWithLoadingScreenHelper 6
+eloworld123 DoAiTaskWithLoadingScreenHelper 7
+ProcessResultForStoryInteraction invoking turn events.
+eloworld playerstatus ProcessResultForStoryInteraction0: False
+eloworld playerstatus ProcessResultForStoryInteraction1: PcGameEntity .. Player (PlayerCharacter)
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+ProcessResultForStoryInteraction tryStr Before: 
+ProcessResultForStoryInteraction tryStr After: 
+ProcessResultForStoryInteraction1: You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake!, we need your help once again.""What happened? Where amI"?
+GetFuzzInfo the streak nums were: 0 .. 0
+MovePlayerToNewLocationAfterDeath3
+AIAsker GetGeneratedImage 5 bd44321c-ec77-4f93-b330-ece3df305a8d .. (Ultra HD Airbrushed Oil Painting) brain removed from patient number 23 sufferingfrom multiple sclerosis during routine surgery at 11am having been scheduled 45 minutes ago according our internal schedule which follows chron: Small white box covered by heavy draping; there is no other furniture except fora table drawer loadedwith booksand another containing old fashioned radiophonespeakers connectedby wiresto what looks likean outdated microwave oven - although this one has gone
+final prompt string from BuildPromptString: The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+
+
+getGeneratedText we are calling with prompt1: Giant insectoid queen in cavern description: A giant insectoid queen has a soft, throbbing pulsing torso. Its long antennae twitch and quiver, the sharp claws on its front limbs dig into the ground, and its three compound eyes open and close as it breathing.
+Monkey king in lush jungle description: Monkey with long slick fur and a pompous expression wearing a silver spiky crown. It smiles menacingly, and has long talons instead of fingernails.
+Belligerent drunk woman description: This old woman with tangled white hair reeks of alcohol and smells as if she hasn't showered in weeks. Her right hand is raised in the air holding a butcher's knife, and in her left hand is a screwdriver.
+No one knows what happens here exactly but patients simply disappear at best in   small hospital room description:
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+generateImage fdsa22 C:/Users/Brad/AppData/LocalLow/MaxLoh/AI Roguelite\save\74ba8b8e-09b7-4947-9b11-bb27b605a334
+generateImage proposed path is C:/Users/Brad/AppData/LocalLow/MaxLoh/AI Roguelite\save\74ba8b8e-09b7-4947-9b11-bb27b605a334\64f97b29-8e80-4f95-afa4-a70c8f382173.png
+generateImage prompt: (Ultra HD Airbrushed Oil Painting) No one knows what happens here exactly but patients simply disappear at best: An ordinary concrete bathroom without any distinctive features other than an metal door describing itself blue."Well...you seem to be quite knowledgeable about Hell,"Father Harrison says after hearing your report."" 
+UpdateAndFinishImgGen0: No one knows what happens here exactly but patients simply disappear at best .. 64f97b29-8e80-4f95-afa4-a70c8f382173
+AIAsker GetGeneratedImage 5 64f97b29-8e80-4f95-afa4-a70c8f382173 .. (Ultra HD Airbrushed Oil Painting) No one knows what happens here exactly but patients simply disappear at best: An ordinary concrete bathroom without any distinctive features other than an metal door describing itself blue."Well...you seem to be quite knowledgeable about Hell,"Father Harrison says after hearing your report.""
+final prompt string from BuildPromptString: The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+
+
+getGeneratedText we are calling with prompt1: The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+
+
+
+You have arrived at the Biocopying machine in the   small hospital room. Detailed visual description of the Biocopying machine:
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+generateImage fdsa22 C:/Users/Brad/AppData/LocalLow/MaxLoh/AI Roguelite\save\74ba8b8e-09b7-4947-9b11-bb27b605a334
+generateImage proposed path is C:/Users/Brad/AppData/LocalLow/MaxLoh/AI Roguelite\save\74ba8b8e-09b7-4947-9b11-bb27b605a334\d78bf61f-9833-46f7-a0bc-3522d1b58bcd.png
+generateImage prompt: (Ultra HD Airbrushed Oil Painting) Biocopying machine: it's basically just a mechanical arm with some surgical instruments attached kind of like what space marines use but smaller. The technology was removed from the ship after we landed on Earth and became the property of the Galactic Trade Alliance until its destruction. 
+UpdateAndFinishImgGen0: Biocopying machine .. d78bf61f-9833-46f7-a0bc-3522d1b58bcd
+AIAsker GetGeneratedImage 5 d78bf61f-9833-46f7-a0bc-3522d1b58bcd .. (Ultra HD Airbrushed Oil Painting) Biocopying machine: it's basically just a mechanical arm with some surgical instruments attached kind of like what space marines use but smaller. The technology was removed from the ship after we landed on Earth and became the property of the Galactic Trade Alliance until its destruction.
+final prompt string from BuildPromptString: The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+
+
+getGeneratedText we are calling with prompt1: The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+
+
+
+You have arrived at the Human brain washing facility in the   small hospital room. Detailed visual description of the Human brain washing facility:
+WaitForGptToBeReady0
+WaitForGptToBeReady2
+
+
+gptLogStr: 
+
+
+ing to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=15
+maxTokens=30
+minTokens=30
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|> He<|SEP|> Him<|SEP|> His<|SEP|> She<|SEP|> Her<|SEP|> Hers<|SEP|> They<|SEP|> Them<|SEP|> Their<|SEP|> Theirs<|SEP|> It<|SEP|> Its<|SEP|> This<|SEP|> There<|SEP|> he<|SEP|> him<|SEP|> his<|SEP|> she<|SEP|> her<|SEP|> hers<|SEP|> they<|SEP|> them<|SEP|> their<|SEP|> theirs<|SEP|> it<|SEP|> its<|SEP|> this<|SEP|> there<|SEP|>:<|SEP|>...<|SEP|> 0<|SEP|> 1<|SEP|> 2<|SEP|> 3<|SEP|> 4<|SEP|> 5<|SEP|> 6<|SEP|> 7<|SEP|> 8<|SEP|> 9<|SEP|> 10<|SEP|>0<|SEP|>1<|SEP|>2<|SEP|>3<|SEP|>4<|SEP|>5<|SEP|>6<|SEP|>7<|SEP|>8<|SEP|>9<|SEP|>10<|SEP|> you<|SEP|> You<|SEP|> There<|SEP|> This<|SEP|> That<|SEP|> His<|SEP|> Her<|SEP|> Their<|SEP|> In<|SEP|> None<|SEP|> Nobody<|SEP|> Nothing<|SEP|>, as<|SEP|>, who<|SEP|>, which<|SEP|>, is<|SEP|>, are<|SEP|>, both<|SEP|>, one<|SEP|>, his<|SEP|>, her<|SEP|>, their<|SEP|>, wearing<|SEP|>, with<|SEP|>"<|SEP|>'<|SEP|> is<|SEP|> are<|SEP|>(
+topP=0.9
+typicalP=0.9
+Bustling food court in the Millenium shopping mall: The food court comprises the entire bottom floor of the shopping mall. There are diverse types of cuisine including Asian, Western, and fusion foods. In the center there's a large eating area with plenty of tables.
+List of places: Expensive Italian restaurant, Malaysian food stall, Burt's pizza stall, condiments area, open-air dining area, beer garden bar, painted mural of children playing in a park.
+Medieval village: A large medieval village with numerous people on the streets going about their daily tasks. It is enclosed by stone walls, but most buildings are made of straw, brick and wood.
+List of places: Blacksmith's station, Grain-churning wind mill, Stinking Rose Tavern, gothic church, peasant's home, whorehouse, statue of King Avalon, guard's barracks.
+Andromeda space station: A central galactic hub where multiple species stop to eat or rest.
+List of places: Ship docking station, oxygen maintenance room, restaurant plaza, Asari gentleman's club, cargo hold, centrifugal gravity generator, quantum communications room.
+Dead Man Walking: Nightmare inducing yellow color tone, equipped with dozens of long needles that can be used for injecting medicines or liquids into human bodies; there are several cables coming out of its head detaching behind it, probably designed to transfer massive amounts of data from this
+List of places:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', ' He', ' Him', ' His', ' She', ' Her', ' Hers', ' They', ' Them', ' Their', ' Theirs', ' It', ' Its', ' This', ' There', ' he', ' him', ' his', ' she', ' her', ' hers', ' they', ' them', ' their', ' theirs', ' it', ' its', ' this', ' there', ':', '...', ' 0', ' 1', ' 2', ' 3', ' 4', ' 5', ' 6', ' 7', ' 8', ' 9', ' 10', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', ' you', ' You', ' There', ' This', ' That', ' His', ' Her', ' Their', ' In', ' None', ' Nobody', ' Nothing', ', as', ', who', ', which', ', is', ', are', ', both', ', one', ', his', ', her', ', their', ', wearing', ', with', '"', "'", ' is', ' are', '(']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 341 and do sample of True
+pipe server returning text:  Abandoned part one,abandonned apart two,.
+  12.. Space Station Andromeda - Hub City Galloway 23 March 0001 / 3000 GMT
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=3
+maxTokens=50
+minTokens=50
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+Hipster pelican description: A pelican with an enormous yellow beak. It seems to be eyeing you with a condescending stare, and it's wearing a pair of hipster aviator sunglasses.
+Talking cactus in fantasy desert description: A large red cactus with branches on each side and a strange orifice in the middle comprising of two "lips", through which it can speak. Its spines are blue in color, and are much longer and thicker than those of a regular cactus.
+Street vendor in Istanbul description: A nice-looking lady wearing a purple turban frying up some lamb shishkebab on the grill. She's wearing an apron and blue jeans and seemes exhausted.
+each being able  itself detach apart revealing an even smaller in Dead Man Walking description:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 223 and do sample of True
+pipe server returning text:  An old man smoking pipe sitting next ot fire thinking everyone around him is his child. He gives all visitors he doesn't let them enter by saying:"Listen kid! Doesn 't matter if donkeys like sweet honey - Don' t fucking disturb bees
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=1.3
+maxTokens=50
+minTokens=50
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+You have arrived at the Abandoned part one in the Dead Man Walking. Detailed visual description of the Abandoned part one:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 148 and do sample of True
+pipe server returning text:  The elevator door opens up on platform 1AofB. You remember this because it was here that you first got your nose blasted off by an excited user who thought he had won a prize pumpking juice token. This isn't too surprising considering there
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=1.3
+maxTokens=50
+minTokens=50
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+You have arrived at the abandonned apart two in the Dead Man Walking. Detailed visual description of the abandonned apart two:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 148 and do sample of True
+pipe server returning text:  there's no water or food inside, only dust and an old man sealed into glass coffin; doctors don't know why he is like that yet) The apartment has been robbed many times over the years. Decrepit flowerpots sit on either side
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=15
+maxTokens=12
+minTokens=12
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|> He<|SEP|> Him<|SEP|> His<|SEP|> She<|SEP|> Her<|SEP|> Hers<|SEP|> They<|SEP|> Them<|SEP|> Their<|SEP|> Theirs<|SEP|> It<|SEP|> Its<|SEP|> This<|SEP|> There<|SEP|> he<|SEP|> him<|SEP|> his<|SEP|> she<|SEP|> her<|SEP|> hers<|SEP|> they<|SEP|> them<|SEP|> their<|SEP|> theirs<|SEP|> it<|SEP|> its<|SEP|> this<|SEP|> there<|SEP|>:<|SEP|>...<|SEP|> 0<|SEP|> 1<|SEP|> 2<|SEP|> 3<|SEP|> 4<|SEP|> 5<|SEP|> 6<|SEP|> 7<|SEP|> 8<|SEP|> 9<|SEP|> 10<|SEP|>0<|SEP|>1<|SEP|>2<|SEP|>3<|SEP|>4<|SEP|>5<|SEP|>6<|SEP|>7<|SEP|>8<|SEP|>9<|SEP|>10<|SEP|> you<|SEP|> You<|SEP|> There<|SEP|> This<|SEP|> That<|SEP|> His<|SEP|> Her<|SEP|> Their<|SEP|> In<|SEP|> None<|SEP|> Nobody<|SEP|> Nothing<|SEP|>, as<|SEP|>, who<|SEP|>, which<|SEP|>, is<|SEP|>, are<|SEP|>, both<|SEP|>, one<|SEP|>, his<|SEP|>, her<|SEP|>, their<|SEP|>, wearing<|SEP|>, with<|SEP|>"<|SEP|>'<|SEP|> is<|SEP|> are<|SEP|>(
+topP=0.9
+typicalP=0.9
+In genetics research laboratory, you find and pick up: Test tube, DNA sample.
+In hipster coffee house, you find and pick up: Coffee grounds, coffee filter.
+In cowboy's saloon, you find and pick up: Empty whiskey bottle, old cowboy hat.
+In dark chamber in ancient temple, you find and pick up: Small rocks, rat bones.
+In Dead Man Walking in the Neurosurgeon Martin Bruxel may have been assassinated during one operation - no other surgeon has had experience as extensive training using high tech biotechnology at, you find and pick up:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', ' He', ' Him', ' His', ' She', ' Her', ' Hers', ' They', ' Them', ' Their', ' Theirs', ' It', ' Its', ' This', ' There', ' he', ' him', ' his', ' she', ' her', ' hers', ' they', ' them', ' their', ' theirs', ' it', ' its', ' this', ' there', ':', '...', ' 0', ' 1', ' 2', ' 3', ' 4', ' 5', ' 6', ' 7', ' 8', ' 9', ' 10', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', ' you', ' You', ' There', ' This', ' That', ' His', ' Her', ' Their', ' In', ' None', ' Nobody', ' Nothing', ', as', ', who', ', which', ', is', ', are', ', both', ', one', ', his', ', her', ', their', ', wearing', ', with', '"', "'", ' is', ' are', '(']
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+[e] Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+pipe server returning text:  Human body parts for medical education (and expensive fashion) from
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+How to equip: The human body parts for medical education can be
+eloworld debug: ['>']
+eloworld gothere1
+ found<|SEP1|>0.5541161894798279<|SEP2|>
+ used<|SEP1|>0.09045697748661041<|SEP2|>
+ acquired<|SEP1|>0.03126109763979912<|SEP2|>
+ very<|SEP1|>0.030776437371969223<|SEP2|>
+ bought<|SEP1|>0.02846355177462101<|SEP2|>
+ rented<|SEP1|>0.025916360318660736<|SEP2|>
+ freely<|SEP1|>0.02251652255654335<|SEP2|>
+ obtained<|SEP1|>0.01420099288225174<|SEP2|>
+ gotten<|SEP1|>0.012434805743396282<|SEP2|>
+ purchased<|SEP1|>0.01205222588032484<|SEP2|>
+pipe server returning text:  found<|SEP1|>0.5541161894798279<|SEP2|> used<|SEP1|>0.09045697748661041<|SEP2|> acquired<|SEP1|>0.03126109763979912<|SEP2|> very<|SEP1|>0.030776437371969223<|SEP2|> bought<|SEP1|>0.02846355177462101<|SEP2|> rented<|SEP1|>0.025916360318660736<|SEP2|> freely<|SEP1|>0.02251652255654335<|SEP2|> obtained<|SEP1|>0.01420099288225174<|SEP2|> gotten<|SEP1|>0.012434805743396282<|SEP2|> purchased<|SEP1|>0.01205222588032484<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+How to use: The human body parts for medical education can be
+eloworld debug: ['>']
+eloworld gothere1
+ divided<|SEP1|>0.2888711392879486<|SEP2|>
+ used<|SEP1|>0.16718579828739166<|SEP2|>
+ very<|SEP1|>0.12424194067716599<|SEP2|>
+ found<|SEP1|>0.11490500718355179<|SEP2|>
+ easily<|SEP1|>0.034500740468502045<|SEP2|>
+ applied<|SEP1|>0.026042524725198746<|SEP2|>
+ any<|SEP1|>0.011466369032859802<|SEP2|>
+ obtained<|SEP1|>0.010278386063873768<|SEP2|>
+ a<|SEP1|>0.009807704016566277<|SEP2|>
+ expensive<|SEP1|>0.008004815317690372<|SEP2|>
+pipe server returning text:  divided<|SEP1|>0.2888711392879486<|SEP2|> used<|SEP1|>0.16718579828739166<|SEP2|> very<|SEP1|>0.12424194067716599<|SEP2|> found<|SEP1|>0.11490500718355179<|SEP2|> easily<|SEP1|>0.034500740468502045<|SEP2|> applied<|SEP1|>0.026042524725198746<|SEP2|> any<|SEP1|>0.011466369032859802<|SEP2|> obtained<|SEP1|>0.010278386063873768<|SEP2|> a<|SEP1|>0.009807704016566277<|SEP2|> expensive<|SEP1|>0.008004815317690372<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=3
+maxTokens=50
+minTokens=50
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+T-shirt with WTF on it description: A plain white T-shirt with nothing but the big letters "WTF" in front, written in black.
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Stinger rocket launcher description: A hand-held rocket launching device consisting of a long tube and an orifice at the top for the rocket-propelled grenade. Cumbersome, yet very effective.
+Hipster sunglasses description: Stylish aviator sunglasses with mirrored lenses.
+Human body parts for medical education description:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 191 and do sample of True
+pipe server returning text:  Various human organs used to educate physicians... Interesting! Where did you get them?
+  There are many more items that could be described here; however this list should give enough variety needed from one drink orderto another.<o:/hintz/>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=3
+maxTokens=50
+minTokens=50
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+Giant insectoid queen in cavern description: A giant insectoid queen has a soft, throbbing pulsing torso. Its long antennae twitch and quiver, the sharp claws on its front limbs dig into the ground, and its three compound eyes open and close as it breathing.
+Monkey king in lush jungle description: Monkey with long slick fur and a pompous expression wearing a silver spiky crown. It smiles menacingly, and has long talons instead of fingernails.
+Belligerent drunk woman description: This old woman with tangled white hair reeks of alcohol and smells as if she hasn't showered in weeks. Her right hand is raised in the air holding a butcher's knife, and in her left hand is a screwdriver.
+Not listed yet in Dead Man Walking description:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 221 and do sample of True
+pipe server returning text:  An athletic man around his mid-thirties wears tight clothing that shows off all your best features."Why have you brought this upon us?"the driver asks angrily.'"I've been stung by wasps! They stole $5 from someone!'
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=3
+maxTokens=50
+minTokens=50
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+Hipster pelican description: A pelican with an enormous yellow beak. It seems to be eyeing you with a condescending stare, and it's wearing a pair of hipster aviator sunglasses.
+Talking cactus in fantasy desert description: A large red cactus with branches on each side and a strange orifice in the middle comprising of two "lips", through which it can speak. Its spines are blue in color, and are much longer and thicker than those of a regular cactus.
+Street vendor in Istanbul description: A nice-looking lady wearing a purple turban frying up some lamb shishkebab on the grill. She's wearing an apron and blue jeans and seemes exhausted.
+large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes' in Dead Man Walking description:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+[e] Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+pipe server returning text:  This is actually just one huge factory filled continuous looped machines that looks like something out from science fiction movie.. The place consists heavy duty industrial equipment suchas cranes mounted onto moving platforms; there're also drillingscratches being used for breaking down
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.6
+repetitionPenalty=3
+maxTokens=70
+minTokens=70
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|>
+The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+[The adventure begins]
+You then say to the brain dead patients lying on gurneys*, "You don't mind if I steal your medicine, do you?" + Show More Shows Hide Storyboard » 0 / 3 « The Future» Episode #02 Opening (This story takes place 31 years from now)A bright red sports car speeds through traffic followed closelybya large black truck fullof men dressedin clothing similartothat worn inthe movie 12steppingoutoftruckswithapistol
+You and the John TriesnerUnit 22D arrive at the Dead Man Walking: Nightmare inducing yellow color tone, equipped with dozens of long needles that can be used for injecting medicines or liquids into human bodies; there are several cables coming out of its head detaching behind it, probably designed to transfer massive amounts of data from this
+You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?"
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>']
+eloworld gothere1
+1calling with temperature of 0.6 and max_length of 338 and do sample of True
+pipe server returning text: Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse.,which says goodbyeto ya."Hey! get me OUTtahere!"Kenzyersonly whispers without anyone else hearingit due toreasons... uh...."There mightbeputinsor somethingcoming up,"the man standing next totothe
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." [You are now
+eloworld debug: ['>']
+eloworld gothere1
+ in<|SEP1|>0.8096234202384949<|SEP2|>
+ inside<|SEP1|>0.1569526493549347<|SEP2|>
+ entering<|SEP1|>0.012683719396591187<|SEP2|>
+ exiting<|SEP1|>0.0033608509693294764<|SEP2|>
+ reading<|SEP1|>0.0027862433344125748<|SEP2|>
+ getting<|SEP1|>0.0017989339539781213<|SEP2|>
+ at<|SEP1|>0.0017435866175219417<|SEP2|>
+ within<|SEP1|>0.0015148542588576674<|SEP2|>
+inside<|SEP1|>0.0013161281822249293<|SEP2|>
+ on<|SEP1|>0.0011257441947236657<|SEP2|>
+pipe server returning text:  in<|SEP1|>0.8096234202384949<|SEP2|> inside<|SEP1|>0.1569526493549347<|SEP2|> entering<|SEP1|>0.012683719396591187<|SEP2|> exiting<|SEP1|>0.0033608509693294764<|SEP2|> reading<|SEP1|>0.0027862433344125748<|SEP2|> getting<|SEP1|>0.0017989339539781213<|SEP2|> at<|SEP1|>0.0017435866175219417<|SEP2|> within<|SEP1|>0.0015148542588576674<|SEP2|>inside<|SEP1|>0.0013161281822249293<|SEP2|> on<|SEP1|>0.0011257441947236657<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." [You have been
+eloworld debug: ['>']
+eloworld gothere1
+ killed<|SEP1|>0.8401838541030884<|SEP2|>
+ terminated<|SEP1|>0.028303788974881172<|SEP2|>
+ eliminated<|SEP1|>0.010912083089351654<|SEP2|>
+ canceled<|SEP1|>0.010250953026115894<|SEP2|>
+ KILL<|SEP1|>0.009781529195606709<|SEP2|>
+ automatically<|SEP1|>0.007859678007662296<|SEP2|>
+ warned<|SEP1|>0.0061211236752569675<|SEP2|>
+ dismissed<|SEP1|>0.00540187256410718<|SEP2|>
+killed<|SEP1|>0.005074589978903532<|SEP2|>
+ Killed<|SEP1|>0.004408880136907101<|SEP2|>
+pipe server returning text:  killed<|SEP1|>0.8401838541030884<|SEP2|> terminated<|SEP1|>0.028303788974881172<|SEP2|> eliminated<|SEP1|>0.010912083089351654<|SEP2|> canceled<|SEP1|>0.010250953026115894<|SEP2|> KILL<|SEP1|>0.009781529195606709<|SEP2|> automatically<|SEP1|>0.007859678007662296<|SEP2|> warned<|SEP1|>0.0061211236752569675<|SEP2|> dismissed<|SEP1|>0.00540187256410718<|SEP2|>killed<|SEP1|>0.005074589978903532<|SEP2|> Killed<|SEP1|>0.004408880136907101<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." [The Large Machine Operated By Hundreds If Not Thousands Upon Millions Microscopic Robots Known As 'Cubes' is now
+eloworld debug: ['>']
+eloworld gothere1
+ offline<|SEP1|>0.3980996906757355<|SEP2|>
+ online<|SEP1|>0.0796249508857727<|SEP2|>
+ Offline<|SEP1|>0.04536892846226692<|SEP2|>
+ unable<|SEP1|>0.04003794118762016<|SEP2|>
+ offering<|SEP1|>0.028391148895025253<|SEP2|>
+ turning<|SEP1|>0.023907745257019997<|SEP2|>
+ providing<|SEP1|>0.017491281032562256<|SEP2|>
+ telling<|SEP1|>0.015802055597305298<|SEP2|>
+ '<|SEP1|>0.014961086213588715<|SEP2|>
+ able<|SEP1|>0.010363240726292133<|SEP2|>
+pipe server returning text:  offline<|SEP1|>0.3980996906757355<|SEP2|> online<|SEP1|>0.0796249508857727<|SEP2|> Offline<|SEP1|>0.04536892846226692<|SEP2|> unable<|SEP1|>0.04003794118762016<|SEP2|> offering<|SEP1|>0.028391148895025253<|SEP2|> turning<|SEP1|>0.023907745257019997<|SEP2|> providing<|SEP1|>0.017491281032562256<|SEP2|> telling<|SEP1|>0.015802055597305298<|SEP2|> '<|SEP1|>0.014961086213588715<|SEP2|> able<|SEP1|>0.010363240726292133<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." The dead man walking is
+eloworld debug: ['>']
+eloworld gothere1
+ still<|SEP1|>0.9899376630783081<|SEP2|>
+ silent<|SEP1|>0.0027805313002318144<|SEP2|>
+ completely<|SEP1|>0.002694983035326004<|SEP2|>
+still<|SEP1|>0.0008613683748990297<|SEP2|>
+ actually<|SEP1|>0.0004468720289878547<|SEP2|>
+ currently<|SEP1|>0.00033208707463927567<|SEP2|>
+ wearing<|SEP1|>0.00025462001212872565<|SEP2|>
+ now<|SEP1|>0.00020781479543074965<|SEP2|>
+ unable<|SEP1|>0.00014968337200116366<|SEP2|>
+ practically<|SEP1|>0.00014968337200116366<|SEP2|>
+pipe server returning text:  still<|SEP1|>0.9899376630783081<|SEP2|> silent<|SEP1|>0.0027805313002318144<|SEP2|> completely<|SEP1|>0.002694983035326004<|SEP2|>still<|SEP1|>0.0008613683748990297<|SEP2|> actually<|SEP1|>0.0004468720289878547<|SEP2|> currently<|SEP1|>0.00033208707463927567<|SEP2|> wearing<|SEP1|>0.00025462001212872565<|SEP2|> now<|SEP1|>0.00020781479543074965<|SEP2|> unable<|SEP1|>0.00014968337200116366<|SEP2|> practically<|SEP1|>0.00014968337200116366<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." [You have just
+eloworld debug: ['>']
+eloworld gothere1
+ revealed<|SEP1|>0.09040173143148422<|SEP2|>
+ triggered<|SEP1|>0.07612589001655579<|SEP2|>
+ broke<|SEP1|>0.060220539569854736<|SEP2|>
+ broken<|SEP1|>0.04545684531331062<|SEP2|>
+ bl<|SEP1|>0.03949359059333801<|SEP2|>
+ mort<|SEP1|>0.020649703219532967<|SEP2|>
+ given<|SEP1|>0.020171353593468666<|SEP2|>
+ invoked<|SEP1|>0.018081482499837875<|SEP2|>
+ been<|SEP1|>0.01738879270851612<|SEP2|>
+ blown<|SEP1|>0.017253471538424492<|SEP2|>
+pipe server returning text:  revealed<|SEP1|>0.09040173143148422<|SEP2|> triggered<|SEP1|>0.07612589001655579<|SEP2|> broke<|SEP1|>0.060220539569854736<|SEP2|> broken<|SEP1|>0.04545684531331062<|SEP2|> bl<|SEP1|>0.03949359059333801<|SEP2|> mort<|SEP1|>0.020649703219532967<|SEP2|> given<|SEP1|>0.020171353593468666<|SEP2|> invoked<|SEP1|>0.018081482499837875<|SEP2|> been<|SEP1|>0.01738879270851612<|SEP2|> blown<|SEP1|>0.017253471538424492<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." [You are now under
+eloworld debug: ['>']
+eloworld gothere1
+ the<|SEP1|>0.10997018218040466<|SEP2|>
+ a<|SEP1|>0.0626591145992279<|SEP2|>
+ se<|SEP1|>0.057499244809150696<|SEP2|>
+ us<|SEP1|>0.051140885800123215<|SEP2|>
+ du<|SEP1|>0.02802289091050625<|SEP2|>
+ marsh<|SEP1|>0.02716071717441082<|SEP2|>
+ par<|SEP1|>0.01699674315750599<|SEP2|>
+gar<|SEP1|>0.0168644730001688<|SEP2|>
+ complete<|SEP1|>0.015842707827687263<|SEP2|>
+ protocol<|SEP1|>0.015597088262438774<|SEP2|>
+pipe server returning text:  the<|SEP1|>0.10997018218040466<|SEP2|> a<|SEP1|>0.0626591145992279<|SEP2|> se<|SEP1|>0.057499244809150696<|SEP2|> us<|SEP1|>0.051140885800123215<|SEP2|> du<|SEP1|>0.02802289091050625<|SEP2|> marsh<|SEP1|>0.02716071717441082<|SEP2|> par<|SEP1|>0.01699674315750599<|SEP2|>gar<|SEP1|>0.0168644730001688<|SEP2|> complete<|SEP1|>0.015842707827687263<|SEP2|> protocol<|SEP1|>0.015597088262438774<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! get me OUTtahere!" Kenzyersonly whispers without anyone else hearingit due toreasons... uh... ." [You have a new
+eloworld debug: ['>']
+eloworld gothere1
+ thought<|SEP1|>0.21059365570545197<|SEP2|>
+ friend<|SEP1|>0.08508752286434174<|SEP2|>
+ private<|SEP1|>0.06626623123884201<|SEP2|>
+p<|SEP1|>0.05623941496014595<|SEP2|>
+ hole<|SEP1|>0.04278469458222389<|SEP2|>
+ relationship<|SEP1|>0.04212138056755066<|SEP2|>
+ reader<|SEP1|>0.026773976162075996<|SEP2|>
+ e<|SEP1|>0.014901962131261826<|SEP2|>
+'<|SEP1|>0.013150936923921108<|SEP2|>
+thought<|SEP1|>0.00984959676861763<|SEP2|>
+pipe server returning text:  thought<|SEP1|>0.21059365570545197<|SEP2|> friend<|SEP1|>0.08508752286434174<|SEP2|> private<|SEP1|>0.06626623123884201<|SEP2|>p<|SEP1|>0.05623941496014595<|SEP2|> hole<|SEP1|>0.04278469458222389<|SEP2|> relationship<|SEP1|>0.04212138056755066<|SEP2|> reader<|SEP1|>0.026773976162075996<|SEP2|> e<|SEP1|>0.014901962131261826<|SEP2|>'<|SEP1|>0.013150936923921108<|SEP2|>thought<|SEP1|>0.00984959676861763<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! [You are now
+eloworld debug: ['>']
+eloworld gothere1
+ alone<|SEP1|>0.43274563550949097<|SEP2|>
+ in<|SEP1|>0.2316320538520813<|SEP2|>
+ at<|SEP1|>0.09807918220758438<|SEP2|>
+ inside<|SEP1|>0.056763872504234314<|SEP2|>
+ reading<|SEP1|>0.05009394511580467<|SEP2|>
+ on<|SEP1|>0.0328524112701416<|SEP2|>
+ able<|SEP1|>0.010500261560082436<|SEP2|>
+ exiting<|SEP1|>0.00756305456161499<|SEP2|>
+ standing<|SEP1|>0.004883074667304754<|SEP2|>
+ isolated<|SEP1|>0.004079961683601141<|SEP2|>
+pipe server returning text:  alone<|SEP1|>0.43274563550949097<|SEP2|> in<|SEP1|>0.2316320538520813<|SEP2|> at<|SEP1|>0.09807918220758438<|SEP2|> inside<|SEP1|>0.056763872504234314<|SEP2|> reading<|SEP1|>0.05009394511580467<|SEP2|> on<|SEP1|>0.0328524112701416<|SEP2|> able<|SEP1|>0.010500261560082436<|SEP2|> exiting<|SEP1|>0.00756305456161499<|SEP2|> standing<|SEP1|>0.004883074667304754<|SEP2|> isolated<|SEP1|>0.004079961683601141<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! [The Large Machine Operated By Hundreds If Not Thousands Upon Millions Microscopic Robots Known As 'Cubes' is now
+eloworld debug: ['>']
+eloworld gothere1
+ offline<|SEP1|>0.503174364566803<|SEP2|>
+ online<|SEP1|>0.06497884541749954<|SEP2|>
+ on<|SEP1|>0.03941166400909424<|SEP2|>
+ off<|SEP1|>0.03819909691810608<|SEP2|>
+ able<|SEP1|>0.020446501672267914<|SEP2|>
+ Offline<|SEP1|>0.016558082774281502<|SEP2|>
+ in<|SEP1|>0.013409143313765526<|SEP2|>
+ accessible<|SEP1|>0.011116569861769676<|SEP2|>
+ available<|SEP1|>0.010121751576662064<|SEP2|>
+ active<|SEP1|>0.009144240990281105<|SEP2|>
+pipe server returning text:  offline<|SEP1|>0.503174364566803<|SEP2|> online<|SEP1|>0.06497884541749954<|SEP2|> on<|SEP1|>0.03941166400909424<|SEP2|> off<|SEP1|>0.03819909691810608<|SEP2|> able<|SEP1|>0.020446501672267914<|SEP2|> Offline<|SEP1|>0.016558082774281502<|SEP2|> in<|SEP1|>0.013409143313765526<|SEP2|> accessible<|SEP1|>0.011116569861769676<|SEP2|> available<|SEP1|>0.010121751576662064<|SEP2|> active<|SEP1|>0.009144240990281105<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! The dead man walking is
+eloworld debug: ['>']
+eloworld gothere1
+ getting<|SEP1|>0.533803403377533<|SEP2|>
+ still<|SEP1|>0.09132299572229385<|SEP2|>
+ back<|SEP1|>0.05453145131468773<|SEP2|>
+ trying<|SEP1|>0.03466230258345604<|SEP2|>
+ waving<|SEP1|>0.02742013707756996<|SEP2|>
+ following<|SEP1|>0.02203269861638546<|SEP2|>
+ heading<|SEP1|>0.017982563003897667<|SEP2|>
+ just<|SEP1|>0.013363507576286793<|SEP2|>
+ that<|SEP1|>0.010246156714856625<|SEP2|>
+ pushing<|SEP1|>0.008494362235069275<|SEP2|>
+pipe server returning text:  getting<|SEP1|>0.533803403377533<|SEP2|> still<|SEP1|>0.09132299572229385<|SEP2|> back<|SEP1|>0.05453145131468773<|SEP2|> trying<|SEP1|>0.03466230258345604<|SEP2|> waving<|SEP1|>0.02742013707756996<|SEP2|> following<|SEP1|>0.02203269861638546<|SEP2|> heading<|SEP1|>0.017982563003897667<|SEP2|> just<|SEP1|>0.013363507576286793<|SEP2|> that<|SEP1|>0.010246156714856625<|SEP2|> pushing<|SEP1|>0.008494362235069275<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! [You have just
+eloworld debug: ['>']
+eloworld gothere1
+ realized<|SEP1|>0.27152422070503235<|SEP2|>
+ enough<|SEP1|>0.1523112803697586<|SEP2|>
+ noticed<|SEP1|>0.07423058897256851<|SEP2|>
+ arrived<|SEP1|>0.06973318755626678<|SEP2|>
+ remembered<|SEP1|>0.030943913385272026<|SEP2|>
+ entered<|SEP1|>0.02861844189465046<|SEP2|>
+ crossed<|SEP1|>0.021267421543598175<|SEP2|>
+ pierced<|SEP1|>0.02029351517558098<|SEP2|>
+ reached<|SEP1|>0.01876843348145485<|SEP2|>
+ saved<|SEP1|>0.01269935816526413<|SEP2|>
+pipe server returning text:  realized<|SEP1|>0.27152422070503235<|SEP2|> enough<|SEP1|>0.1523112803697586<|SEP2|> noticed<|SEP1|>0.07423058897256851<|SEP2|> arrived<|SEP1|>0.06973318755626678<|SEP2|> remembered<|SEP1|>0.030943913385272026<|SEP2|> entered<|SEP1|>0.02861844189465046<|SEP2|> crossed<|SEP1|>0.021267421543598175<|SEP2|> pierced<|SEP1|>0.02029351517558098<|SEP2|> reached<|SEP1|>0.01876843348145485<|SEP2|> saved<|SEP1|>0.01269935816526413<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! [You are now under
+eloworld debug: ['>']
+eloworld gothere1
+ the<|SEP1|>0.6989928483963013<|SEP2|>
+ a<|SEP1|>0.08748921751976013<|SEP2|>
+ control<|SEP1|>0.01791391894221306<|SEP2|>
+ k<|SEP1|>0.01605793461203575<|SEP2|>
+ observation<|SEP1|>0.015442762523889542<|SEP2|>
+]<|SEP1|>0.013842802494764328<|SEP2|>
+foot<|SEP1|>0.005295344162732363<|SEP2|>
+ se<|SEP1|>0.005295344162732363<|SEP2|>
+ pressure<|SEP1|>0.005254135467112064<|SEP2|>
+ attack<|SEP1|>0.005013530608266592<|SEP2|>
+pipe server returning text:  the<|SEP1|>0.6989928483963013<|SEP2|> a<|SEP1|>0.08748921751976013<|SEP2|> control<|SEP1|>0.01791391894221306<|SEP2|> k<|SEP1|>0.01605793461203575<|SEP2|> observation<|SEP1|>0.015442762523889542<|SEP2|>]<|SEP1|>0.013842802494764328<|SEP2|>foot<|SEP1|>0.005295344162732363<|SEP2|> se<|SEP1|>0.005295344162732363<|SEP2|> pressure<|SEP1|>0.005254135467112064<|SEP2|> attack<|SEP1|>0.005013530608266592<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! [new
+eloworld debug: ['>']
+eloworld gothere1
+ emotion<|SEP1|>0.17263507843017578<|SEP2|>
+ voice<|SEP1|>0.11681074649095535<|SEP2|>
+]<|SEP1|>0.10308511555194855<|SEP2|>
+ noise<|SEP1|>0.09683950245380402<|SEP2|>
+ text<|SEP1|>0.035625260323286057<|SEP2|>
+ tear<|SEP1|>0.02606399916112423<|SEP2|>
+ tone<|SEP1|>0.020943012088537216<|SEP2|>
+ word<|SEP1|>0.020943012088537216<|SEP2|>
+ tears<|SEP1|>0.020298663526773453<|SEP2|>
+ sound<|SEP1|>0.019674137234687805<|SEP2|>
+pipe server returning text:  emotion<|SEP1|>0.17263507843017578<|SEP2|> voice<|SEP1|>0.11681074649095535<|SEP2|>]<|SEP1|>0.10308511555194855<|SEP2|> noise<|SEP1|>0.09683950245380402<|SEP2|> text<|SEP1|>0.035625260323286057<|SEP2|> tear<|SEP1|>0.02606399916112423<|SEP2|> tone<|SEP1|>0.020943012088537216<|SEP2|> word<|SEP1|>0.020943012088537216<|SEP2|> tears<|SEP1|>0.020298663526773453<|SEP2|> sound<|SEP1|>0.019674137234687805<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse. ,which says goodbyeto ya." Hey! [You have a new
+eloworld debug: ['>']
+eloworld gothere1
+ voice<|SEP1|>0.08012152463197708<|SEP2|>
+ message<|SEP1|>0.07070699334144592<|SEP2|>
+ thought<|SEP1|>0.07070699334144592<|SEP2|>
+ voic<|SEP1|>0.04288596287369728<|SEP2|>
+ companion<|SEP1|>0.039974112063646317<|SEP2|>
+ friend<|SEP1|>0.03725996986031532<|SEP2|>
+ e<|SEP1|>0.02662849612534046<|SEP2|>
+ attendant<|SEP1|>0.025409091264009476<|SEP2|>
+ neighbor<|SEP1|>0.022599313408136368<|SEP2|>
+ headache<|SEP1|>0.019788619130849838<|SEP2|>
+pipe server returning text:  voice<|SEP1|>0.08012152463197708<|SEP2|> message<|SEP1|>0.07070699334144592<|SEP2|> thought<|SEP1|>0.07070699334144592<|SEP2|> voic<|SEP1|>0.04288596287369728<|SEP2|> companion<|SEP1|>0.039974112063646317<|SEP2|> friend<|SEP1|>0.03725996986031532<|SEP2|> e<|SEP1|>0.02662849612534046<|SEP2|> attendant<|SEP1|>0.025409091264009476<|SEP2|> neighbor<|SEP1|>0.022599313408136368<|SEP2|> headache<|SEP1|>0.019788619130849838<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1.3
+maxTokens=10
+minTokens=10
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|>
+topP=0.8
+Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse.,which says goodbyeto ya."Hey! get me OUTtahere!"Kenzyersonly whispers without anyone else hearingit due toreasons... uh...."" [New location:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>']
+eloworld gothere1
+1calling with temperature of 0.5 and max_length of 76 and do sample of True
+pipe server returning text:  Elevator]..."the LCD screen in the corner
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.6
+repetitionPenalty=3
+maxTokens=60
+minTokens=60
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|> He<|SEP|> Him<|SEP|> His<|SEP|> She<|SEP|> Her<|SEP|> Hers<|SEP|> They<|SEP|> Them<|SEP|> Their<|SEP|> Theirs<|SEP|> It<|SEP|> Its<|SEP|> This<|SEP|> There<|SEP|> he<|SEP|> him<|SEP|> his<|SEP|> she<|SEP|> her<|SEP|> hers<|SEP|> they<|SEP|> them<|SEP|> their<|SEP|> theirs<|SEP|> it<|SEP|> its<|SEP|> this<|SEP|> there<|SEP|> one<|SEP|> then<|SEP|> when
+The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+[The adventure begins]
+You and the John TriesnerUnit 22D arrive at the Dead Man Walking: Nightmare inducing yellow color tone, equipped with dozens of long needles that can be used for injecting medicines or liquids into human bodies; there are several cables coming out of its head detaching behind it, probably designed to transfer massive amounts of data from this
+You then say to the large machine operated by hundreds if not thousands upon millions microscopic robots known as 'cubes', "can i rest here?" Show Less Read more > You step inside an elevator provided especiallyforyou alone along side Kenzer's corpse.,which says goodbyeto ya."Hey! get me OUTtahere!"Kenzyersonly whispers without anyone else hearingit due toreasons... uh....""
+You awaken in a
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', ' He', ' Him', ' His', ' She', ' Her', ' Hers', ' They', ' Them', ' Their', ' Theirs', ' It', ' Its', ' This', ' There', ' he', ' him', ' his', ' she', ' her', ' hers', ' they', ' them', ' their', ' theirs', ' it', ' its', ' this', ' there', ' one', ' then', ' when']
+eloworld gothere1
+1calling with temperature of 0.6 and max_length of 290 and do sample of True
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+[e] Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+pipe server returning text:  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake!, we need your help once again.""What happened? Where amI"?As far As yo u know y ou wer e bitli ng dr evens fo r medication thi s wa Y
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=1.3
+maxTokens=50
+minTokens=50
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+You have arrived at the   small hospital room in the Neurosurgeon Martin Bruxel may have been assassinated during one operation - no other surgeon has had experience as extensive training using high tech biotechnology at. Detailed visual description of the   small hospital room:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 177 and do sample of True
+pipe server returning text:  The size of the coffee table you used to own that broke down after only two years use; the blue color found on almost all objects inside an unnerving synthetic plastic smell always present ; there are four metal operating tables each with several surgical instruments available for
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=1.3
+maxTokens=50
+minTokens=50
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+[e] Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+You have arrived at the   small hospital room in the Neurosurgeon Martin Bruxel may have been assassinated during one operation - no other surgeon has had experience as extensive training using high tech biotechnology at. Detailed visual description of the   small hospital room:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 177 and do sample of True
+pipe server returning text:  Small bed against wall; Against opposite wall stand two long cabinets; A large chair stands before desk upon which sits a laptop; Several books lay on the lap of the chairs; There is also a chest Of drawers MATCHING THE DESCRIPTION OF
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=15
+maxTokens=30
+minTokens=30
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|> He<|SEP|> Him<|SEP|> His<|SEP|> She<|SEP|> Her<|SEP|> Hers<|SEP|> They<|SEP|> Them<|SEP|> Their<|SEP|> Theirs<|SEP|> It<|SEP|> Its<|SEP|> This<|SEP|> There<|SEP|> he<|SEP|> him<|SEP|> his<|SEP|> she<|SEP|> her<|SEP|> hers<|SEP|> they<|SEP|> them<|SEP|> their<|SEP|> theirs<|SEP|> it<|SEP|> its<|SEP|> this<|SEP|> there<|SEP|>:<|SEP|>...<|SEP|> 0<|SEP|> 1<|SEP|> 2<|SEP|> 3<|SEP|> 4<|SEP|> 5<|SEP|> 6<|SEP|> 7<|SEP|> 8<|SEP|> 9<|SEP|> 10<|SEP|>0<|SEP|>1<|SEP|>2<|SEP|>3<|SEP|>4<|SEP|>5<|SEP|>6<|SEP|>7<|SEP|>8<|SEP|>9<|SEP|>10<|SEP|> you<|SEP|> You<|SEP|> There<|SEP|> This<|SEP|> That<|SEP|> His<|SEP|> Her<|SEP|> Their<|SEP|> In<|SEP|> None<|SEP|> Nobody<|SEP|> Nothing<|SEP|>, as<|SEP|>, who<|SEP|>, which<|SEP|>, is<|SEP|>, are<|SEP|>, both<|SEP|>, one<|SEP|>, his<|SEP|>, her<|SEP|>, their<|SEP|>, wearing<|SEP|>, with<|SEP|>"<|SEP|>'<|SEP|> is<|SEP|> are<|SEP|>(
+topP=0.9
+typicalP=0.9
+Eiffel tower: One of the largest structures in France and a great tourist attraction. It contains four legs and a long spire.
+List of friendly characters: Blonde man with a French accent, American tourist shouting loudly, well-dressed butler, Eiffel cafe chef, elevator doorman.
+Giant centipede's stomach: The insides of a giant centipede, with acid dripping down the stomach walls.
+List of friendly characters: The tapeworm, the good gut bacterium, the beetle, the slime entity, the talking hair follicle.
+Underwater city of Atlantis: Various creatures of all types, including octopii, mermaids and humans, congregate and trade goods in this butling underwater city.
+List of friendly characters: The Benevolent Octopus, the red-haired mermaid, the merchant selling exotic fish, the woman in scuba diving gear, the treasure-hunting mermaid.
+  small hospital room: The size of the coffee table you used to own that broke down after only two years use; the blue color found on almost all objects inside an unnerving synthetic plastic smell always present ; there are four metal operating tables each with several surgical instruments available for
+List of friendly characters:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', ' He', ' Him', ' His', ' She', ' Her', ' Hers', ' They', ' Them', ' Their', ' Theirs', ' It', ' Its', ' This', ' There', ' he', ' him', ' his', ' she', ' her', ' hers', ' they', ' them', ' their', ' theirs', ' it', ' its', ' this', ' there', ':', '...', ' 0', ' 1', ' 2', ' 3', ' 4', ' 5', ' 6', ' 7', ' 8', ' 9', ' 10', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', ' you', ' You', ' There', ' This', ' That', ' His', ' Her', ' Their', ' In', ' None', ' Nobody', ' Nothing', ', as', ', who', ', which', ', is', ', are', ', both', ', one', ', his', ', her', ', their', ', wearing', ', with', '"', "'", ' is', ' are', '(']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 307 and do sample of True
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+[e] Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+pipe server returning text:  A brain removed from patient number 23 sufferingfrom multiple sclerosis during routine surgery at 11am having been scheduled 45 minutes ago according our internal schedule which follows chron
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=15
+maxTokens=30
+minTokens=30
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|> He<|SEP|> Him<|SEP|> His<|SEP|> She<|SEP|> Her<|SEP|> Hers<|SEP|> They<|SEP|> Them<|SEP|> Their<|SEP|> Theirs<|SEP|> It<|SEP|> Its<|SEP|> This<|SEP|> There<|SEP|> he<|SEP|> him<|SEP|> his<|SEP|> she<|SEP|> her<|SEP|> hers<|SEP|> they<|SEP|> them<|SEP|> their<|SEP|> theirs<|SEP|> it<|SEP|> its<|SEP|> this<|SEP|> there<|SEP|>:<|SEP|>...<|SEP|> 0<|SEP|> 1<|SEP|> 2<|SEP|> 3<|SEP|> 4<|SEP|> 5<|SEP|> 6<|SEP|> 7<|SEP|> 8<|SEP|> 9<|SEP|> 10<|SEP|>0<|SEP|>1<|SEP|>2<|SEP|>3<|SEP|>4<|SEP|>5<|SEP|>6<|SEP|>7<|SEP|>8<|SEP|>9<|SEP|>10<|SEP|> you<|SEP|> You<|SEP|> There<|SEP|> This<|SEP|> That<|SEP|> His<|SEP|> Her<|SEP|> Their<|SEP|> In<|SEP|> None<|SEP|> Nobody<|SEP|> Nothing<|SEP|>, as<|SEP|>, who<|SEP|>, which<|SEP|>, is<|SEP|>, are<|SEP|>, both<|SEP|>, one<|SEP|>, his<|SEP|>, her<|SEP|>, their<|SEP|>, wearing<|SEP|>, with<|SEP|>"<|SEP|>'<|SEP|> is<|SEP|> are<|SEP|>(
+topP=0.9
+typicalP=0.9
+Bustling food court in the Millenium shopping mall: The food court comprises the entire bottom floor of the shopping mall. There are diverse types of cuisine including Asian, Western, and fusion foods. In the center there's a large eating area with plenty of tables.
+List of places: Expensive Italian restaurant, Malaysian food stall, Burt's pizza stall, condiments area, open-air dining area, beer garden bar, painted mural of children playing in a park.
+Medieval village: A large medieval village with numerous people on the streets going about their daily tasks. It is enclosed by stone walls, but most buildings are made of straw, brick and wood.
+List of places: Blacksmith's station, Grain-churning wind mill, Stinking Rose Tavern, gothic church, peasant's home, whorehouse, statue of King Avalon, guard's barracks.
+Andromeda space station: A central galactic hub where multiple species stop to eat or rest.
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+  small hospital room: The size of the coffee table you used to own that broke down after only two years use; the blue color found on almost all objects inside an unnerving synthetic plastic smell always present ; there are four metal operating tables each with several surgical instruments available for
+List of places:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', ' He', ' Him', ' His', ' She', ' Her', ' Hers', ' They', ' Them', ' Their', ' Theirs', ' It', ' Its', ' This', ' There', ' he', ' him', ' his', ' she', ' her', ' hers', ' they', ' them', ' their', ' theirs', ' it', ' its', ' this', ' there', ':', '...', ' 0', ' 1', ' 2', ' 3', ' 4', ' 5', ' 6', ' 7', ' 8', ' 9', ' 10', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', ' you', ' You', ' There', ' This', ' That', ' His', ' Her', ' Their', ' In', ' None', ' Nobody', ' Nothing', ', as', ', who', ', which', ', is', ', are', ', both', ', one', ', his', ', her', ', their', ', wearing', ', with', '"', "'", ' is', ' are', '(']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 342 and do sample of True
+pipe server returning text:  Biocopying machine, Human brain washing facility (see Zombie) Combat armor repair unit Physiological enhancement Laboratory Space marine training tank Suspended animation chamber
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=15
+maxTokens=30
+minTokens=30
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|> He<|SEP|> Him<|SEP|> His<|SEP|> She<|SEP|> Her<|SEP|> Hers<|SEP|> They<|SEP|> Them<|SEP|> Their<|SEP|> Theirs<|SEP|> It<|SEP|> Its<|SEP|> This<|SEP|> There<|SEP|> he<|SEP|> him<|SEP|> his<|SEP|> she<|SEP|> her<|SEP|> hers<|SEP|> they<|SEP|> them<|SEP|> their<|SEP|> theirs<|SEP|> it<|SEP|> its<|SEP|> this<|SEP|> there<|SEP|>:<|SEP|>...<|SEP|> 0<|SEP|> 1<|SEP|> 2<|SEP|> 3<|SEP|> 4<|SEP|> 5<|SEP|> 6<|SEP|> 7<|SEP|> 8<|SEP|> 9<|SEP|> 10<|SEP|>0<|SEP|>1<|SEP|>2<|SEP|>3<|SEP|>4<|SEP|>5<|SEP|>6<|SEP|>7<|SEP|>8<|SEP|>9<|SEP|>10<|SEP|> you<|SEP|> You<|SEP|> There<|SEP|> This<|SEP|> That<|SEP|> His<|SEP|> Her<|SEP|> Their<|SEP|> In<|SEP|> None<|SEP|> Nobody<|SEP|> Nothing<|SEP|>, as<|SEP|>, who<|SEP|>, which<|SEP|>, is<|SEP|>, are<|SEP|>, both<|SEP|>, one<|SEP|>, his<|SEP|>, her<|SEP|>, their<|SEP|>, wearing<|SEP|>, with<|SEP|>"<|SEP|>'<|SEP|> is<|SEP|> are<|SEP|>(
+topP=0.9
+typicalP=0.9
+Eiffel tower: One of the largest structures in France and a great tourist attraction. It contains four legs and a long spire.
+List of evil enemies: The loud bratty child, the narcissistic tourist with selfie stick, the stealthy pickpocket, the scammers with a French accent.
+Giant centipede's stomach: The insides of a giant centipede, with acid dripping down the stomach walls.
+List of evil enemies: The stomach parasite, the gut bacteria, the acid reflux golem, the centipede larva.
+Bathroom in Chicago subway station: A large underground tunnel system that connects the various stations in the city. Bullet trains speed to and from the stations, and each platform is crowded with pedestrians, commuters and tourists.
+List of evil enemies: The hobo poop, the toilet monster, the large black widow spider, the belligerent person with constipation.
+  small hospital room: The size of the coffee table you used to own that broke down after only two years use; the blue color found on almost all objects inside an unnerving synthetic plastic smell always present ; there are four metal operating tables each with several surgical instruments available for
+List of evil enemies:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', ' He', ' Him', ' His', ' She', ' Her', ' Hers', ' They', ' Them', ' Their', ' Theirs', ' It', ' Its', ' This', ' There', ' he', ' him', ' his', ' she', ' her', ' hers', ' they', ' them', ' their', ' theirs', ' it', ' its', ' this', ' there', ':', '...', ' 0', ' 1', ' 2', ' 3', ' 4', ' 5', ' 6', ' 7', ' 8', ' 9', ' 10', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', ' you', ' You', ' There', ' This', ' That', ' His', ' Her', ' Their', ' In', ' None', ' Nobody', ' Nothing', ', as', ', who', ', which', ', is', ', are', ', both', ', one', ', his', ', her', ', their', ', wearing', ', with', '"', "'", ' is', ' are', '(']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 299 and do sample of True
+pipe server returning text:  No one knows what happens here exactly but patients simply disappear at best or turn up alive (but mentally ill) At worst many people die violent deaths using
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=3
+maxTokens=50
+minTokens=50
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+Hipster pelican description: A pelican with an enormous yellow beak. It seems to be eyeing you with a condescending stare, and it's wearing a pair of hipster aviator sunglasses.
+Talking cactus in fantasy desert description: A large red cactus with branches on each side and a strange orifice in the middle comprising of two "lips", through which it can speak. Its spines are blue in color, and are much longer and thicker than those of a regular cactus.
+Street vendor in Istanbul description: A nice-looking lady wearing a purple turban frying up some lamb shishkebab on the grill. She's wearing an apron and blue jeans and seemes exhausted.
+brain removed from patient number 23 sufferingfrom multiple sclerosis during routine surgery at 11am having been scheduled 45 minutes ago according our internal schedule which follows chron in   small hospital room description:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 243 and do sample of True
+pipe server returning text:  Small white box covered by heavy draping; there is no other furniture except fora table drawer loadedwith booksand another containing old fashioned radiophonespeakers connectedby wiresto what looks likean outdated microwave oven - although this one has gone
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." "What happened? Where amI"? [You feel very
+eloworld debug: ['>']
+eloworld gothere1
+ weak<|SEP1|>0.17480455338954926<|SEP2|>
+ gro<|SEP1|>0.11286230385303497<|SEP2|>
+ d<|SEP1|>0.09503958374261856<|SEP2|>
+ strange<|SEP1|>0.09211552888154984<|SEP2|>
+ drained<|SEP1|>0.08789724856615067<|SEP2|>
+ tired<|SEP1|>0.0865345224738121<|SEP2|>
+ sick<|SEP1|>0.05500468984246254<|SEP2|>
+ dizz<|SEP1|>0.05500468984246254<|SEP2|>
+ sleepy<|SEP1|>0.04778890311717987<|SEP2|>
+ woo<|SEP1|>0.028536058962345123<|SEP2|>
+pipe server returning text:  weak<|SEP1|>0.17480455338954926<|SEP2|> gro<|SEP1|>0.11286230385303497<|SEP2|> d<|SEP1|>0.09503958374261856<|SEP2|> strange<|SEP1|>0.09211552888154984<|SEP2|> drained<|SEP1|>0.08789724856615067<|SEP2|> tired<|SEP1|>0.0865345224738121<|SEP2|> sick<|SEP1|>0.05500468984246254<|SEP2|> dizz<|SEP1|>0.05500468984246254<|SEP2|> sleepy<|SEP1|>0.04778890311717987<|SEP2|> woo<|SEP1|>0.028536058962345123<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." "What happened? Where amI"? [You have just
+eloworld debug: ['>']
+eloworld gothere1
+ w<|SEP1|>0.1623457968235016<|SEP2|>
+ rec<|SEP1|>0.12064515054225922<|SEP2|>
+ regained<|SEP1|>0.06874153763055801<|SEP2|>
+ been<|SEP1|>0.05108436942100525<|SEP2|>
+ awoken<|SEP1|>0.05029238015413284<|SEP2|>
+ completed<|SEP1|>0.04951266944408417<|SEP2|>
+ arrived<|SEP1|>0.04508179798722267<|SEP2|>
+ read<|SEP1|>0.04301735758781433<|SEP2|>
+ passed<|SEP1|>0.0340295284986496<|SEP2|>
+ come<|SEP1|>0.02865573577582836<|SEP2|>
+pipe server returning text:  w<|SEP1|>0.1623457968235016<|SEP2|> rec<|SEP1|>0.12064515054225922<|SEP2|> regained<|SEP1|>0.06874153763055801<|SEP2|> been<|SEP1|>0.05108436942100525<|SEP2|> awoken<|SEP1|>0.05029238015413284<|SEP2|> completed<|SEP1|>0.04951266944408417<|SEP2|> arrived<|SEP1|>0.04508179798722267<|SEP2|> read<|SEP1|>0.04301735758781433<|SEP2|> passed<|SEP1|>0.0340295284986496<|SEP2|> come<|SEP1|>0.02865573577582836<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." "What happened? Where amI"? [new
+eloworld debug: ['>']
+eloworld gothere1
+ patient<|SEP1|>0.15497133135795593<|SEP2|>
+sc<|SEP1|>0.10485885292291641<|SEP2|>
+ voice<|SEP1|>0.0829501822590828<|SEP2|>
+sp<|SEP1|>0.028222376480698586<|SEP2|>
+ confusion<|SEP1|>0.02232573740184307<|SEP2|>
+ information<|SEP1|>0.0188001561909914<|SEP2|>
+ doctor<|SEP1|>0.01510634832084179<|SEP2|>
+ vocal<|SEP1|>0.014527633786201477<|SEP2|>
+]<|SEP1|>0.013331306166946888<|SEP2|>
+ y<|SEP1|>0.01054593175649643<|SEP2|>
+pipe server returning text:  patient<|SEP1|>0.15497133135795593<|SEP2|>sc<|SEP1|>0.10485885292291641<|SEP2|> voice<|SEP1|>0.0829501822590828<|SEP2|>sp<|SEP1|>0.028222376480698586<|SEP2|> confusion<|SEP1|>0.02232573740184307<|SEP2|> information<|SEP1|>0.0188001561909914<|SEP2|> doctor<|SEP1|>0.01510634832084179<|SEP2|> vocal<|SEP1|>0.014527633786201477<|SEP2|>]<|SEP1|>0.013331306166946888<|SEP2|> y<|SEP1|>0.01054593175649643<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." "What happened? Where amI"? [You have a new
+eloworld debug: ['>']
+eloworld gothere1
+ am<|SEP1|>0.2918296754360199<|SEP2|>
+ b<|SEP1|>0.11428213119506836<|SEP2|>
+ circle<|SEP1|>0.052322179079055786<|SEP2|>
+ range<|SEP1|>0.037101976573467255<|SEP2|>
+ set<|SEP1|>0.026309240609407425<|SEP2|>
+ metal<|SEP1|>0.01880236715078354<|SEP2|>
+ memory<|SEP1|>0.015346044674515724<|SEP2|>
+ l<|SEP1|>0.013649055734276772<|SEP2|>
+ arm<|SEP1|>0.012045249342918396<|SEP2|>
+ partner<|SEP1|>0.009021474979817867<|SEP2|>
+pipe server returning text:  am<|SEP1|>0.2918296754360199<|SEP2|> b<|SEP1|>0.11428213119506836<|SEP2|> circle<|SEP1|>0.052322179079055786<|SEP2|> range<|SEP1|>0.037101976573467255<|SEP2|> set<|SEP1|>0.026309240609407425<|SEP2|> metal<|SEP1|>0.01880236715078354<|SEP2|> memory<|SEP1|>0.015346044674515724<|SEP2|> l<|SEP1|>0.013649055734276772<|SEP2|> arm<|SEP1|>0.012045249342918396<|SEP2|> partner<|SEP1|>0.009021474979817867<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." [You feel very
+eloworld debug: ['>']
+eloworld gothere1
+ weak<|SEP1|>0.49344462156295776<|SEP2|>
+ drained<|SEP1|>0.1732153594493866<|SEP2|>
+ gro<|SEP1|>0.09716500341892242<|SEP2|>
+ sick<|SEP1|>0.06176184117794037<|SEP2|>
+ tired<|SEP1|>0.04114225506782532<|SEP2|>
+ ill<|SEP1|>0.03464524820446968<|SEP2|>
+ dizz<|SEP1|>0.023811308667063713<|SEP2|>
+ frail<|SEP1|>0.009620639495551586<|SEP2|>
+ d<|SEP1|>0.008101389743387699<|SEP2|>
+ confused<|SEP1|>0.00454446766525507<|SEP2|>
+pipe server returning text:  weak<|SEP1|>0.49344462156295776<|SEP2|> drained<|SEP1|>0.1732153594493866<|SEP2|> gro<|SEP1|>0.09716500341892242<|SEP2|> sick<|SEP1|>0.06176184117794037<|SEP2|> tired<|SEP1|>0.04114225506782532<|SEP2|> ill<|SEP1|>0.03464524820446968<|SEP2|> dizz<|SEP1|>0.023811308667063713<|SEP2|> frail<|SEP1|>0.009620639495551586<|SEP2|> d<|SEP1|>0.008101389743387699<|SEP2|> confused<|SEP1|>0.00454446766525507<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." [You have just
+eloworld debug: ['>']
+eloworld gothere1
+ been<|SEP1|>0.4939427375793457<|SEP2|>
+ one<|SEP1|>0.1051664724946022<|SEP2|>
+ broken<|SEP1|>0.03634456545114517<|SEP2|>
+ finished<|SEP1|>0.03468022122979164<|SEP2|>
+ w<|SEP1|>0.03414255753159523<|SEP2|>
+ escaped<|SEP1|>0.0320739671587944<|SEP2|>
+ remembered<|SEP1|>0.022044092416763306<|SEP2|>
+ arrived<|SEP1|>0.020071374252438545<|SEP2|>
+ spent<|SEP1|>0.011084466241300106<|SEP2|>
+ completed<|SEP1|>0.009782006032764912<|SEP2|>
+pipe server returning text:  been<|SEP1|>0.4939427375793457<|SEP2|> one<|SEP1|>0.1051664724946022<|SEP2|> broken<|SEP1|>0.03634456545114517<|SEP2|> finished<|SEP1|>0.03468022122979164<|SEP2|> w<|SEP1|>0.03414255753159523<|SEP2|> escaped<|SEP1|>0.0320739671587944<|SEP2|> remembered<|SEP1|>0.022044092416763306<|SEP2|> arrived<|SEP1|>0.020071374252438545<|SEP2|> spent<|SEP1|>0.011084466241300106<|SEP2|> completed<|SEP1|>0.009782006032764912<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." [new
+eloworld debug: ['>']
+eloworld gothere1
+]<|SEP1|>0.09654589742422104<|SEP2|>
+ details<|SEP1|>0.0812997967004776<|SEP2|>
+sp<|SEP1|>0.04184954985976219<|SEP2|>
+ e<|SEP1|>0.03085792250931263<|SEP2|>
+ intro<|SEP1|>0.02618877775967121<|SEP2|>
+ layer<|SEP1|>0.019011013209819794<|SEP2|>
+ and<|SEP1|>0.017041362822055817<|SEP2|>
+ information<|SEP1|>0.01256551407277584<|SEP2|>
+ sp<|SEP1|>0.011896788142621517<|SEP2|>
+ theme<|SEP1|>0.011263652704656124<|SEP2|>
+pipe server returning text: ]<|SEP1|>0.09654589742422104<|SEP2|> details<|SEP1|>0.0812997967004776<|SEP2|>sp<|SEP1|>0.04184954985976219<|SEP2|> e<|SEP1|>0.03085792250931263<|SEP2|> intro<|SEP1|>0.02618877775967121<|SEP2|> layer<|SEP1|>0.019011013209819794<|SEP2|> and<|SEP1|>0.017041362822055817<|SEP2|> information<|SEP1|>0.01256551407277584<|SEP2|> sp<|SEP1|>0.011896788142621517<|SEP2|> theme<|SEP1|>0.011263652704656124<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You awaken in a  small hospital room where Doctor Kessel waits anxiouslyfor you,"Ah thank Godyou're awake! , we need your help once again." [You have a new
+eloworld debug: ['>']
+eloworld gothere1
+ nurse<|SEP1|>0.1422172486782074<|SEP2|>
+ patient<|SEP1|>0.1142747700214386<|SEP2|>
+ friend<|SEP1|>0.07732217758893967<|SEP2|>
+ skill<|SEP1|>0.07612340897321701<|SEP2|>
+ ability<|SEP1|>0.02911979891359806<|SEP2|>
+ partner<|SEP1|>0.026307545602321625<|SEP2|>
+ disease<|SEP1|>0.02589968405663967<|SEP2|>
+ pet<|SEP1|>0.01865484192967415<|SEP2|>
+ relationship<|SEP1|>0.017524603754281998<|SEP2|>
+ range<|SEP1|>0.015586704947054386<|SEP2|>
+pipe server returning text:  nurse<|SEP1|>0.1422172486782074<|SEP2|> patient<|SEP1|>0.1142747700214386<|SEP2|> friend<|SEP1|>0.07732217758893967<|SEP2|> skill<|SEP1|>0.07612340897321701<|SEP2|> ability<|SEP1|>0.02911979891359806<|SEP2|> partner<|SEP1|>0.026307545602321625<|SEP2|> disease<|SEP1|>0.02589968405663967<|SEP2|> pet<|SEP1|>0.01865484192967415<|SEP2|> relationship<|SEP1|>0.017524603754281998<|SEP2|> range<|SEP1|>0.015586704947054386<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=3
+maxTokens=50
+minTokens=50
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+Giant insectoid queen in cavern description: A giant insectoid queen has a soft, throbbing pulsing torso. Its long antennae twitch and quiver, the sharp claws on its front limbs dig into the ground, and its three compound eyes open and close as it breathing.
+Monkey king in lush jungle description: Monkey with long slick fur and a pompous expression wearing a silver spiky crown. It smiles menacingly, and has long talons instead of fingernails.
+Belligerent drunk woman description: This old woman with tangled white hair reeks of alcohol and smells as if she hasn't showered in weeks. Her right hand is raised in the air holding a butcher's knife, and in her left hand is a screwdriver.
+No one knows what happens here exactly but patients simply disappear at best in   small hospital room description:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 233 and do sample of True
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+[e] Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+pipe server returning text:  An ordinary concrete bathroom without any distinctive features other than an metal door describing itself blue."Well...you seem to be quite knowledgeable about Hell,"Father Harrison says after hearing your report.""All partof Gods great joke i suppose","father harrison replies"
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=1.3
+maxTokens=50
+minTokens=50
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+You have arrived at the Biocopying machine in the   small hospital room. Detailed visual description of the Biocopying machine:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 152 and do sample of True
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+[e] Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+pipe server returning text:  it's basically just a mechanical arm with some surgical instruments attached kind of like what space marines use but smaller. The technology was removed from the ship after we landed on Earth and became the property of the Galactic Trade Alliance until its destruction. Now it belongs
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=1.3
+maxTokens=50
+minTokens=50
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+The year is 2072. Many people live in utopic cities in which robots and AI carry out most tasks. Beyond the city walls, the less fortunate must struggle to make a living.
+You are one of the few sentient androids still remaining in the world, which were decreed illegal.
+You have arrived at the Human brain washing facility in the   small hospital room. Detailed visual description of the Human brain washing facility:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 150 and do sample of True
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+[e] Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+
+
+
+vqganLogStr: 
+
+
+.83s/it]
+[e] Sampling:   0%|          | 0/1 [00:00<?, ?it/s]
+Data shape for PLMS sampling is (1, 4, 64, 64)
+Running PLMS Sampling with 40 timesteps
+[e] PLMS Sampler:   0%|          | 0/40 [00:00<?, ?it/s][A[A
+[e] PLMS Sampler:   2%|2         | 1/40 [00:00<00:06,  5.78it/s][A[A
+[e] PLMS Sampler:   8%|7         | 3/40 [00:00<00:03,  9.45it/s][A[A
+[e] PLMS Sampler:  12%|#2        | 5/40 [00:00<00:03, 10.70it/s][A[A
+[e] PLMS Sampler:  18%|#7        | 7/40 [00:00<00:02, 11.41it/s][A[A
+[e] PLMS Sampler:  22%|##2       | 9/40 [00:00<00:02, 11.70it/s][A[A
+[e] PLMS Sampler:  28%|##7       | 11/40 [00:00<00:02, 11.82it/s][A[A
+[e] PLMS Sampler:  32%|###2      | 13/40 [00:01<00:02, 11.87it/s][A[A
+[e] PLMS Sampler:  38%|###7      | 15/40 [00:01<00:02, 12.03it/s][A[A
+[e] PLMS Sampler:  42%|####2     | 17/40 [00:01<00:01, 12.28it/s][A[A
+[e] PLMS Sampler:  48%|####7     | 19/40 [00:01<00:01, 12.68it/s][A[A
+[e] PLMS Sampler:  52%|#####2    | 21/40 [00:01<00:01,  9.74it/s][A[A
+[e] PLMS Sampler:  57%|#####7    | 23/40 [00:02<00:01, 10.66it/s][A[A
+[e] PLMS Sampler:  62%|######2   | 25/40 [00:02<00:01, 11.47it/s][A[A
+[e] PLMS Sampler:  68%|######7   | 27/40 [00:02<00:01, 12.03it/s][A[A
+[e] PLMS Sampler:  72%|#######2  | 29/40 [00:02<00:00, 12.50it/s][A[A
+[e] PLMS Sampler:  78%|#######7  | 31/40 [00:02<00:00, 12.85it/s][A[A
+[e] PLMS Sampler:  82%|########2 | 33/40 [00:02<00:00, 13.13it/s][A[A
+[e] PLMS Sampler:  88%|########7 | 35/40 [00:02<00:00, 13.36it/s][A[A
+[e] PLMS Sampler:  92%|#########2| 37/40 [00:03<00:00, 13.61it/s][A[A
+[e] PLMS Sampler:  98%|#########7| 39/40 [00:03<00:00, 12.78it/s][A[A
+save_img1 base_count: 1
+[e] PLMS Sampler: 100%|##########| 40/40 [00:03<00:00, 11.83it/s]
+[e] data: 100%|##########| 1/1 [00:03<00:00,  3.58s/it][A
+[e] data: 100%|##########| 1/1 [00:03<00:00,  3.58s/it]
+[e] Sampling: 100%|##########| 1/1 [00:03<00:00,  3.58s/it]
+finished generating: C:/Users/Brad/AppData/LocalLow/MaxLoh/AI Roguelite\save\74ba8b8e-09b7-4947-9b11-bb27b605a334\bd44321c-ec77-4f93-b330-ece3df305a8d_unfinished.png
+got here0 base_count: 2
+eloworld gothere3, 40, 512, 512, C:/Users/Brad/AppData/LocalLow/MaxLoh/AI Roguelite\save\74ba8b8e-09b7-4947-9b11-bb27b605a334\64f97b29-8e80-4f95-afa4-a70c8f382173_unfinished.png, (Ultra HD Airbrushed Oil Painting) No one knows what happens here exactly but patients simply disappear at best: An ordinary concrete bathroom without any distinctive features other than an metal door describing itself blue."Well...you seem to be quite knowledgeable about Hell,"Father Harrison says after hearing your report."" 
+done with other stuffs0.
+done with other stuffs1.
+done with other stuffs9.
+[e] Sampling: 100%|##########| 1/1 [00:03<00:00,  3.58s/it]
+[e] Sampling:   0%|          | 0/1 [00:00<?, ?it/s]
+[e] data:   0%|          | 0/1 [00:00<?, ?it/s][A
+[e] PLMS Sampler:   0%|          | 0/40 [00:00<?, ?it/s][A[A
+[e] PLMS Sampler:   2%|2         | 1/40 [00:00<00:06,  6.11it/s][A[A
+[e] PLMS Sampler:   8%|7         | 3/40 [00:00<00:03, 10.36it/s][A[A
+[e] PLMS Sampler:  12%|#2        | 5/40 [00:00<00:03,  9.73it/s][A[A
+[e] PLMS Sampler:  15%|#5        | 6/40 [00:00<00:03,  9.60it/s][A[A
+[e] PLMS Sampler:  18%|#7        | 7/40 [00:00<00:03,  9.53it/s][A[A
+[e] PLMS Sampler:  20%|##        | 8/40 [00:00<00:03,  9.56it/s][A[A
+[e] PLMS Sampler:  22%|##2       | 9/40 [00:00<00:03,  9.58it/s][A[A
+[e] PLMS Sampler:  25%|##5       | 10/40 [00:01<00:03,  9.45it/s][A[A
+[e] PLMS Sampler:  28%|##7       | 11/40 [00:01<00:03,  9.37it/s][A[A
+[e] PLMS Sampler:  30%|###       | 12/40 [00:01<00:02,  9.36it/s][A[A
+[e] PLMS Sampler:  32%|###2      | 13/40 [00:01<00:02,  9.42it/s][A[A
+[e] PLMS Sampler:  35%|###5      | 14/40 [00:01<00:02,  9.34it/s][A[A
+[e] PLMS Sampler:  38%|###7      | 15/40 [00:01<00:02,  9.32it/s][A[A
+[e] PLMS Sampler:  40%|####      | 16/40 [00:01<00:02,  9.44it/s][A[A
+[e] PLMS Sampler:  45%|####5     | 18/40 [00:01<00:02,  9.97it/s][A[A
+[e] PLMS Sampler:  48%|####7     | 19/40 [00:01<00:02,  9.89it/s][A[A
+[e] PLMS Sampler:  50%|#####     | 20/40 [00:02<00:02,  9.72it/s][A[A
+[e] PLMS Sampler:  52%|#####2    | 21/40 [00:02<00:03,  6.27it/s][A[A
+[e] PLMS Sampler:  55%|#####5    | 22/40 [00:02<00:02,  6.94it/s][A[A
+[e] PLMS Sampler:  57%|#####7    | 23/40 [00:02<00:02,  7.42it/s][A[A
+[e] PLMS Sampler:  60%|######    | 24/40 [00:02<00:02,  7.86it/s][A[A
+[e] PLMS Sampler:  62%|######2   | 25/40 [00:02<00:01,  8.21it/s][A[A
+[e] PLMS Sampler:  65%|######5   | 26/40 [00:02<00:01,  8.40it/s][A[A
+[e] PLMS Sampler:  68%|######7   | 27/40 [00:03<00:01,  8.66it/s][A[A
+[e] PLMS Sampler:  70%|#######   | 28/40 [00:03<00:01,  8.93it/s][A[A
+[e] PLMS Sampler:  72%|#######2  | 29/40 [00:03<00:01,  9.11it/s][A[A
+[e] PLMS Sampler:  75%|#######5  | 30/40 [00:03<00:01,  9.18it/s][A[A
+[e] PLMS Sampler:  78%|#######7  | 31/40 [00:03<00:00,  9.24it/s][A[A
+[e] PLMS Sampler:  82%|########2 | 33/40 [00:03<00:00,  9.94it/s][A[A
+[e] PLMS Sampler:  85%|########5 | 34/40 [00:03<00:00,  9.77it/s][A[A
+[e] PLMS Sampler:  88%|########7 | 35/40 [00:03<00:00,  9.71it/s][A[A
+[e] PLMS Sampler:  90%|######### | 36/40 [00:03<00:00,  9.65it/s][A[A
+[e] PLMS Sampler:  92%|#########2| 37/40 [00:04<00:00,  9.62it/s][A[A
+[e] PLMS Sampler:  95%|#########5| 38/40 [00:04<00:00,  9.51it/s][A[A
+[e] PLMS Sampler:  98%|#########7| 39/40 [00:04<00:00,  9.34it/s][A[A
+[e] PLMS Sampler: 100%|##########| 40/40 [00:04<00:00,  9.32it/s][A[A
+save_img1 base_count: 1
+[e] PLMS Sampler: 100%|##########| 40/40 [00:04<00:00,  9.05it/s]
+[e] data: 100%|##########| 1/1 [00:04<00:00,  4.65s/it][A
+[e] data: 100%|##########| 1/1 [00:04<00:00,  4.65s/it]
+[e] Sampling: 100%|##########| 1/1 [00:04<00:00,  4.65s/it]
+finished generating: C:/Users/Brad/AppData/LocalLow/MaxLoh/AI Roguelite\save\74ba8b8e-09b7-4947-9b11-bb27b605a334\64f97b29-8e80-4f95-afa4-a70c8f382173_unfinished.png
+got here0 base_count: 2
+eloworld gothere3, 40, 512, 512, C:/Users/Brad/AppData/LocalLow/MaxLoh/AI Roguelite\save\74ba8b8e-09b7-4947-9b11-bb27b605a334\d78bf61f-9833-46f7-a0bc-3522d1b58bcd_unfinished.png, (Ultra HD Airbrushed Oil Painting) Biocopying machine: it's basically just a mechanical arm with some surgical instruments attached kind of like what space marines use but smaller. The technology was removed from the ship after we landed on Earth and became the property of the Galactic Trade Alliance until its destruction. 
+done with other stuffs0.
+done with other stuffs1.
+done with other stuffs9.
+[e] Sampling: 100%|##########| 1/1 [00:04<00:00,  4.65s/it]
+[e] Sampling:   0%|          | 0/1 [00:00<?, ?it/s]
+Data shape for PLMS sampling is (1, 4, 64, 64)
+Running PLMS Sampling with 40 timesteps
+[e] data:   0%|          | 0/1 [00:00<?, ?it/s][A
+[e] PLMS Sampler:   0%|          | 0/40 [00:00<?, ?it/s][A[A
+[e] PLMS Sampler:   2%|2         | 1/40 [00:00<00:06,  6.27it/s][A[A
+[e] PLMS Sampler:   8%|7         | 3/40 [00:00<00:03, 10.12it/s][A[A
+[e] PLMS Sampler:  12%|#2        | 5/40 [00:00<00:03,  9.59it/s][A[A
+[e] PLMS Sampler:  18%|#7        | 7/40 [00:00<00:03, 10.02it/s][A[A
+[e] PLMS Sampler:  22%|##2       | 9/40 [00:00<00:03,  9.57it/s][A[A
+[e] PLMS Sampler:  25%|##5       | 10/40 [00:01<00:03,  9.61it/s][A[A
+[e] PLMS Sampler:  28%|##7       | 11/40 [00:01<00:03,  9.55it/s][A[A
+[e] PLMS Sampler:  30%|###       | 12/40 [00:01<00:02,  9.42it/s][A[A
+[e] PLMS Sampler:  32%|###2      | 13/40 [00:01<00:02,  9.34it/s][A[A
+[e] PLMS Sampler:  35%|###5      | 14/40 [00:01<00:02,  9.45it/s][A[A
+[e] PLMS Sampler:  38%|###7      | 15/40 [00:01<00:02,  9.23it/s][A[A
+[e] PLMS Sampler:  40%|####      | 16/40 [00:01<00:02,  9.35it/s][A[A
+[e] PLMS Sampler:  42%|####2     | 17/40 [00:01<00:02,  9.15it/s][A[A
+[e] PLMS Sampler:  45%|####5     | 18/40 [00:01<00:02,  9.17it/s][A[A
+[e] PLMS Sampler:  48%|####7     | 19/40 [00:02<00:02,  9.23it/s][A[A
+[e] PLMS Sampler:  50%|#####     | 20/40 [00:02<00:02,  9.02it/s][A[A
+[e] PLMS Sampler:  52%|#####2    | 21/40 [00:02<00:03,  6.10it/s][A[A
+[e] PLMS Sampler:  57%|#####7    | 23/40 [00:02<00:02,  7.81it/s][A[A
+[e] PLMS Sampler:  60%|######    | 24/40 [00:02<00:01,  8.08it/s][A[A
+[e] PLMS Sampler:  62%|######2   | 25/40 [00:02<00:01,  8.32it/s][A[A
+[e] PLMS Sampler:  65%|######5   | 26/40 [00:02<00:01,  8.52it/s][A[A
+[e] PLMS Sampler:  68%|######7   | 27/40 [00:03<00:01,  8.65it/s][A[A
+[e] PLMS Sampler:  70%|#######   | 28/40 [00:03<00:01,  8.86it/s][A[A
+[e] PLMS Sampler:  72%|#######2  | 29/40 [00:03<00:01,  9.00it/s][A[A
+[e] PLMS Sampler:  75%|#######5  | 30/40 [00:03<00:01,  8.98it/s][A[A
+[e] PLMS Sampler:  78%|#######7  | 31/40 [00:03<00:00,  9.17it/s][A[A
+[e] PLMS Sampler:  80%|########  | 32/40 [00:03<00:00,  9.01it/s][A[A
+[e] PLMS Sampler:  82%|########2 | 33/40 [00:03<00:00,  8.94it/s][A[A
+[e] PLMS Sampler:  85%|########5 | 34/40 [00:03<00:00,  9.04it/s][A[A
+[e] PLMS Sampler:  88%|########7 | 35/40 [00:03<00:00,  8.93it/s][A[A
+[e] PLMS Sampler:  90%|######### | 36/40 [00:04<00:00,  9.01it/s][A[A
+[e] PLMS Sampler:  95%|#########5| 38/40 [00:04<00:00,  9.75it/s][A[A
+[e] PLMS Sampler:  98%|#########7| 39/40 [00:04<00:00,  9.47it/s][A[A
+[e] PLMS Sampler: 100%|##########| 40/40 [00:04<00:00,  9.33it/s][A[A
+save_img1 base_count: 1
+[e] PLMS Sampler: 100%|##########| 40/40 [00:04<00:00,  8.99it/s]
+[e] data: 100%|##########| 1/1 [00:04<00:00,  4.63s/it][A
+[e] data: 100%|##########| 1/1 [00:04<00:00,  4.63s/it]
+[e] Sampling: 100%|##########| 1/1 [00:04<00:00,  4.63s/it]
+finished generating: C:/Users/Brad/AppData/LocalLow/MaxLoh/AI Roguelite\save\74ba8b8e-09b7-4947-9b11-bb27b605a334\d78bf61f-9833-46f7-a0bc-3522d1b58bcd_unfinished.png
+got here0 base_count: 2
