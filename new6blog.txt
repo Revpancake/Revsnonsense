@@ -1,0 +1,2021 @@
+debugLogStr1: 
+
+
+) 139.3 66.02 -1333.7 -949.98 447 130.02
+pressed inventory button123.
+eyyo present: 
+onInventoryPormptedOrnot
+add ability: Escape from prison .. 1
+add ability: blood fire .. 1
+add ability: water breathing .. 1
+add ability: aerial views .. 1
+add ability: secret passages .. 1
+EzHoverable on pointer exit.
+got to on pointer enter.
+wtf ability1 1: secret passages
+wtf ability1 2: 84c7c5ec-ff52-4410-b8ab-337df1323f0d
+wtf ability1 3: Professor's Lost Invention
+wtf ability1 4: f72d9328-5a24-456a-84ec-a9c336a85eae
+wtf ability1 5: 1
+tooltip debug0: (538.0, 265.0)
+tooltip debug1111: (538.0, -11.8, 0.0) (538.0, 265.0, 0.0) (1028.0, 265.0, 0.0) (1028.0, -11.8, 0.0) 490 276.81 -892 -538.19 538 541.81
+got to on pointer enter.
+got to on pointer enter.
+got to show tooltip
+wtf abil2 1: aerial views
+wtf abil2 2: bdd9a64e-94eb-47f5-a1c1-a49e3e379bad
+wtf abil2 3: Professor's Lost Invention
+wtf abil2 4: f72d9328-5a24-456a-84ec-a9c336a85eae
+wtf abil2 5: 1
+wtf Colorize? <color=#00ff13ff>aerial views</color>
+wtf abil2 1: secret passages
+wtf abil2 2: 84c7c5ec-ff52-4410-b8ab-337df1323f0d
+wtf abil2 3: Professor's Lost Invention
+wtf abil2 4: f72d9328-5a24-456a-84ec-a9c336a85eae
+wtf abil2 5: 1
+wtf Colorize? <color=#00ff13ff>secret passages</color>
+tooltip debug0: (755.0, 718.0)
+tooltip debug1111: (755.0, 238.6, 0.0) (755.0, 718.0, 0.0) (1245.0, 718.0, 0.0) (1245.0, 238.6, 0.0) 490 479.4301 -675 117.4301 755 718
+got to on pointer enter.
+got to show tooltip
+tooltip debug0: (871.0, 934.0)
+tooltip debug1111: (871.0, 568.6, 0.0) (871.0, 934.0, 0.0) (1361.0, 934.0, 0.0) (1361.0, 568.6, 0.0) 490 365.37 -559 219.37 871 934
+got to on pointer enter.
+got to show tooltip
+tooltip debug0: (1071.0, 891.0)
+tooltip debug1111: (1071.0, 525.6, 0.0) (1071.0, 891.0, 0.0) (1561.0, 891.0, 0.0) (1561.0, 525.6, 0.0) 490 365.37 -359 176.37 1071 891
+unprepare to receive was called.
+got here 1.
+got here 2.
+onInventoryPormptedOrnot
+got here 3.
+EzHoverable on pointer enter.
+eloworld123 DoAiTaskWithLoadingScreenHelper 0
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+EzHoverable on pointer exit.
+eloworld123 DoAiTaskWithLoadingScreenHelper 1
+eloworld123 DoAiTaskWithLoadingScreenHelper 2
+eloworld123 DoAiTaskWithLoadingScreenHelper 3
+eloworld123 DoAiTaskWithLoadingScreenHelper 4
+eloworld123 DoAiTaskWithLoadingScreenHelper 5
+gothere1
+getGeneratedText we are calling with prompt1: In genetics research laboratory, you find and pick up: Test tube, DNA sample.
+
+In hipster coffee house, you find and pick up: Coffee grounds, coffee filter.
+
+In cowboy's saloon, you find and pick up: Empty whiskey bottle, old cowboy hat.
+
+In dark chamber in ancient temple, you find and pick up: Small rocks, rat bones.
+
+In Downtown in the Military base, you find and pick up:
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.75 .. 1.05 .. 0.9 .. 1.0
+getGeneratedText we are calling with prompt1: 
+How to equip: The map of the area can be
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.5 .. 1 ..  .. 
+final prompt string from BuildPromptString: The world has gone to waste and most of the population is dead or hostile. You are currently living in a small town called Ashtown that is attempting to rebuild civilization again. It's not there yet though.
+
+You are a typical basement dweller, playing your Xbox and watching anime... or rather you used to be. When the internet was still in its infancy you used to watch it a lot and you would play games with your friends online. Due to recent events, you are currently half human.
+
+
+getGeneratedText we are calling with prompt1: T-shirt with WTF on it description: A plain white T-shirt with nothing but the big letters "WTF" in front, written in black.
+Ancient dagger description: An ornate dagger with a straight sharp blade and golden hilt. The blade is faintly blue, etched with some rune-like markings.
+Stinger rocket launcher description: A hand-held rocket launching device consisting of a long tube and an orifice at the top for the rocket-propelled grenade. Cumbersome, yet very effective.
+Hipster sunglasses description: Stylish aviator sunglasses with mirrored lenses.
+Map of the area description:
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+debug word probs prompt: 
+How to equip: The map of the area can be
+calling with gpt-j style. params: 0.75 .. 1.05 .. 0.98 .. 
+debug word probs result:  seen<|SEP1|>0.6793461441993713<|SEP2|> found<|SEP1|>0.246042862534523<|SEP2|> accessed<|SEP1|>0.012249752879142761<|SEP2|> downloaded<|SEP1|>0.00882316567003727<|SEP2|> studied<|SEP1|>0.006159562151879072<|SEP2|> explored<|SEP1|>0.004103153012692928<|SEP2|> used<|SEP1|>0.003794796532019973<|SEP2|> viewed<|SEP1|>0.0033488960471004248<|SEP2|> obtained<|SEP1|>0.0029095711652189493<|SEP2|> consulted<|SEP1|>0.0026081230025738478<|SEP2|>
+get biased threshold for 0.00581164836883545, 0: 0.00581164836883545
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.00581164836883545 and after bias was 0.00581164836883545
+generateEquipmentType100: Map of the area apparently can't be worn.
+getGeneratedText we are calling with prompt1: 
+How to use: The map of the area can be
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.5 .. 1 ..  .. 
+generateImage fdsa22 C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5
+generateImage proposed path is C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5\1b2ef215-aeba-423a-b20c-2ac39ec7705b.png
+generateImage prompt: (Ultra HD Airbrushed Oil Painting) Map of the area: A map of the area around the house, highlighting the locations of doors leading into various rooms, a living room, a bathroom, a kitchen, a basement, and a tunnel.
+UpdateAndFinishImgGen0: Map of the area .. 1b2ef215-aeba-423a-b20c-2ac39ec7705b
+debug word probs prompt: 
+How to use: The map of the area can be
+debug word probs result:  found<|SEP1|>0.7047715187072754<|SEP2|> downloaded<|SEP1|>0.05876219645142555<|SEP2|> seen<|SEP1|>0.056954275816679<|SEP2|> accessed<|SEP1|>0.014400294050574303<|SEP2|> bought<|SEP1|>0.013318095356225967<|SEP2|> purchased<|SEP1|>0.012708215042948723<|SEP2|> used<|SEP1|>0.011938263662159443<|SEP2|> a<|SEP1|>0.011938263662159443<|SEP2|> studied<|SEP1|>0.01175317820161581<|SEP2|> viewed<|SEP1|>0.005728042218834162<|SEP2|>
+get biased threshold for 0.160181177899848, 0: 0.160181177899848
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.160181177899848 and after bias was 0.160181177899848
+generateEquipmentType105: Map of the area apparently is neither wearable nor consumable.
+eloworld123 DoAiTaskWithLoadingScreenHelper 6
+eloworld123 DoAiTaskWithLoadingScreenHelper 7
+done creating game item: Map of the area
+got to add item grid element1.
+got to add item grid element2.
+wtf Colorize? <color=#fcfcfcff>Map of the area</color>
+AIAsker GetGeneratedImage 5 1b2ef215-aeba-423a-b20c-2ac39ec7705b .. (Ultra HD Airbrushed Oil Painting) Map of the area: A map of the area around the house, highlighting the locations of doors leading into various rooms, a living room, a bathroom, a kitchen, a basement, and a tunnel.
+EzHoverable on pointer enter.
+EzHoverable on pointer exit.
+EzHoverable on pointer enter.
+EzHoverable on pointer exit.
+Tab Button Pressed: 0
+tabContentTransforms size: 3
+selectable thingy pointer enter.
+got to show tooltip
+tooltip debug0: (352.0, 336.0)
+tooltip debug1111: (352.0, 95.2, 0.0) (352.0, 336.0, 0.0) (842.0, 336.0, 0.0) (842.0, 95.2, 0.0) 490 240.79 -1078 -503.21 352 576.79
+selectable thingy click detected.
+eloworld123 DoAiTaskWithLoadingScreenHelper 0
+selectable thingy pointer exit.
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+eloworld123 DoAiTaskWithLoadingScreenHelper 1
+eloworld123 DoAiTaskWithLoadingScreenHelper 2
+eloworld123 DoAiTaskWithLoadingScreenHelper 3
+eloworld123 DoAiTaskWithLoadingScreenHelper 4
+eloworld123 DoAiTaskWithLoadingScreenHelper 5
+initEntities place: Gloom
+initEntities MaybeGenerateCraftingOrResource done
+getGeneratedText we are calling with prompt1: Bustling food court in the Millenium shopping mall: The food court comprises the entire bottom floor of the shopping mall. There are diverse types of cuisine including Asian, Western, and fusion foods. In the center there's a large eating area with plenty of tables.
+List of places: Expensive Italian restaurant, Malaysian food stall, Burt's pizza stall, condiments area, open-air dining area, beer garden bar, painted mural of children playing in a park.
+
+Medieval village: A large medieval village with numerous people on the streets going about their daily tasks. It is enclosed by stone walls, but most buildings are made of straw, brick and wood.
+List of places: Blacksmith's station, Grain-churning wind mill, Stinking Rose Tavern, gothic church, peasant's home, whorehouse, statue of King Avalon, guard's barracks.
+
+Andromeda space station: A central galactic hub where multiple species stop to eat or rest.
+List of places: Ship docking station, oxygen maintenance room, restaurant plaza, Asari gentleman's club, cargo hold, centrifugal gravity generator, quantum communications room.
+
+Gloom: The Gloom is a semi-secret underground headquarters for the Shadow Horde, a non-corporeal "race" of undead who have somehow managed to keep most of their necromantic powers while being bound to this realm.
+List of places:
+getGeneratedText we are calling with prompt1: Eiffel tower: One of the largest structures in France and a great tourist attraction. It contains four legs and a long spire.
+List of friendly characters: Blonde man with a French accent, American tourist shouting loudly, well-dressed butler, Eiffel cafe chef, elevator doorman.
+
+Giant centipede's stomach: The insides of a giant centipede, with acid dripping down the stomach walls.
+List of friendly characters: The tapeworm, the good gut bacterium, the beetle, the slime entity, the talking hair follicle.
+
+Underwater city of Atlantis: Various creatures of all types, including octopii, mermaids and humans, congregate and trade goods in this butling underwater city.
+List of friendly characters: The Benevolent Octopus, the red-haired mermaid, the merchant selling exotic fish, the woman in scuba diving gear, the treasure-hunting mermaid.
+
+Gloom: The Gloom is a semi-secret underground headquarters for the Shadow Horde, a non-corporeal "race" of undead who have somehow managed to keep most of their necromantic powers while being bound to this realm.
+List of friendly characters:
+getGeneratedText we are calling with prompt1: Eiffel tower: One of the largest structures in France and a great tourist attraction. It contains four legs and a long spire.
+List of evil enemies: The loud bratty child, the narcissistic tourist with selfie stick, the stealthy pickpocket, the scammers with a French accent.
+
+Giant centipede's stomach: The insides of a giant centipede, with acid dripping down the stomach walls.
+List of evil enemies: The stomach parasite, the gut bacteria, the acid reflux golem, the centipede larva.
+
+Bathroom in Chicago subway station: A large underground tunnel system that connects the various stations in the city. Bullet trains speed to and from the stations, and each platform is crowded with pedestrians, commuters and tourists.
+List of evil enemies: The hobo poop, the toilet monster, the large black widow spider, the belligerent person with constipation.
+
+Gloom: The Gloom is a semi-secret underground headquarters for the Shadow Horde, a non-corporeal "race" of undead who have somehow managed to keep most of their necromantic powers while being bound to this realm.
+List of evil enemies:
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+WaitForGptToBeReady0
+WaitForGptToBeReady0
+calling with gpt-j style. params: 0.75 .. 1.05 .. 0.9 .. 1.0
+WaitForGptToBeReady1
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.75 .. 1.05 .. 0.9 .. 1.0
+GetCurrentTaskInd0 False .. False
+final prompt string from BuildPromptString: The world has gone to waste and most of the population is dead or hostile. You are currently living in a small town called Ashtown that is attempting to rebuild civilization again. It's not there yet though.
+
+You are a typical basement dweller, playing your Xbox and watching anime... or rather you used to be. When the internet was still in its infancy you used to watch it a lot and you would play games with your friends online. Due to recent events, you are currently half human.
+
+
+GetCurrentTaskInd1
+getGeneratedText we are calling with prompt1: The world has gone to waste and most of the population is dead or hostile. You are currently living in a small town called Ashtown that is attempting to rebuild civilization again. It's not there yet though.
+
+You are a typical basement dweller, playing your Xbox and watching anime... or rather you used to be. When the internet was still in its infancy you used to watch it a lot and you would play games with your friends online. Due to recent events, you are currently half human.
+
+
+
+You have arrived at the tomb in the Gloom. Detailed visual description of the tomb:
+GetCurrentTaskInd5: 0
+GetCurrentTaskInd0 False .. False
+WaitForGptToBeReady0
+GetCurrentTaskInd1
+WaitForGptToBeReady1
+GetCurrentTaskInd5: 0
+AskWhetherQuestIsReasonable2: DEPTHS
+AskWhetherQuestIsReasonable2: BIG
+AskWhetherQuestIsReasonable2: TOWN
+AskWhetherQuestIsReasonable2: CENTRE
+AskWhetherQuestIsReasonable2: ARENA
+AskWhetherQuestIsReasonable2: AVATAR
+AskWhetherQuestIsReasonable2: CORE
+AskWhetherQuestIsReasonable2: CONFINES
+AskWhetherQuestIsReasonable2: CASTLE
+AskWhetherQuestIsReasonable2: LAIR
+initEntities GenerateChildPlaces done
+calling with gpt-j style. params: 0.75 .. 1.05 .. 0.9 .. 1.0
+the range debug: 3 0.814425
+the range debug: 3 0.814425
+initEntities generateNpcs done
+calling with gpt-j style. params: 0.75 .. 1.05 .. 0.98 .. 
+the range debug: 3 0.814425
+the range debug: 3 0.814425
+initEntities generateEnemies done
+initEntities wtf3.0.
+initEntities Done initializing place: Gloom
+eloworld123 DoAiTaskWithLoadingScreenHelper 6
+eloworld123 DoAiTaskWithLoadingScreenHelper 7
+done waiting for palce stuffs supposedly: True
+got update grid selections.
+clearyo
+a child place is being added: Secret lab
+got to ADD GRID ELE. Secret lab
+selectablethingy awake.
+what's null? False
+got to ADD GRID ELE end.
+a child place is being added: tomb
+got to ADD GRID ELE. tomb
+selectablethingy awake.
+what's null? False
+got to ADD GRID ELE end.
+clearyo
+got to ADD GRID ELE. Gloom itself
+selectablethingy awake.
+what's null? False
+got to ADD GRID ELE end.
+got to ADD GRID ELE. ghost of an old man who controls the Gloom
+selectablethingy awake.
+what's null? False
+got to ADD GRID ELE end.
+clearyo
+got to ADD GRID ELE. Dark Order
+selectablethingy awake.
+what's null? False
+got to ADD GRID ELE end.
+got to ADD GRID ELE. Gloom
+selectablethingy awake.
+what's null? False
+got to ADD GRID ELE end.
+UpdateQuestButton null1 False
+GetCurrentTaskInd0 False .. False
+GetCurrentTaskInd1
+GetCurrentTaskInd5: 0
+NumCharsMatching: CENTRAL HUB .. GLOOM
+NumCharsMatching fdsa. 0
+GetCurrentTaskInd0 False .. False
+GetCurrentTaskInd1
+GetCurrentTaskInd5: 0
+NumCharsMatching: CENTRAL HUB .. GLOOM
+NumCharsMatching fdsa. 0
+GetCurrentTaskInd0 False .. False
+GetCurrentTaskInd1
+GetCurrentTaskInd5: 0
+Tab Button Pressed: 1
+tabContentTransforms size: 3
+what's going on: 
+wtf Colorize? <color=#ccccffff>Gloom</color>
+what is follower status? True
+wat happen 83
+what is follower status? True
+eloworld got to save game.
+selectable thingy pointer enter.
+got to show tooltip
+tooltip debug0: (233.0, 526.0)
+tooltip debug1111: (233.0, 451.3, 0.0) (233.0, 526.0, 0.0) (723.0, 526.0, 0.0) (723.0, 451.3, 0.0) 490 74.69 -1197 -479.31 233 600.69
+generateImage fdsa22 C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5
+generateImage proposed path is C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5\f56307c7-c078-4c9f-9a6d-4d454a942630.png
+generateImage prompt: (Ultra HD Airbrushed Oil Painting) tomb: The stone door is solid, but one of the stones seems to have been put there purposely to allow access. It is shaped like a coffin, but much wider and higher; it reminds you of a bookcase, only made of rock. 
+UpdateAndFinishImgGen0: tomb .. f56307c7-c078-4c9f-9a6d-4d454a942630
+selectable thingy click detected.
+right click received.
+got to default RightClickHandler.
+entered show menu
+eyyo1: 148.68 .. 40 .. 148.68
+eyyo1: 148.68 .. 40 .. 148.68
+eyyo1: 103.69 .. 40 .. 103.69
+eyyo1: 107.34 .. 40 .. 107.34
+showMenu distPastY 372 .. 492 .. 275 .. 160 .. 160 .. 40 .. 4
+showMenu wtf: Use/consume
+showMenu wtf: Drop
+showMenu wtf: Edit details
+showMenu wtf: Redo image
+selectable thingy pointer exit.
+AIAsker GetGeneratedImage 5 f56307c7-c078-4c9f-9a6d-4d454a942630 .. (Ultra HD Airbrushed Oil Painting) tomb: The stone door is solid, but one of the stones seems to have been put there purposely to allow access. It is shaped like a coffin, but much wider and higher; it reminds you of a bookcase, only made of rock.
+final prompt string from BuildPromptString: The world has gone to waste and most of the population is dead or hostile. You are currently living in a small town called Ashtown that is attempting to rebuild civilization again. It's not there yet though.
+
+You are a typical basement dweller, playing your Xbox and watching anime... or rather you used to be. When the internet was still in its infancy you used to watch it a lot and you would play games with your friends online. Due to recent events, you are currently half human.
+
+
+getGeneratedText we are calling with prompt1: Giant insectoid queen in cavern description: A giant insectoid queen has a soft, throbbing pulsing torso. Its long antennae twitch and quiver, the sharp claws on its front limbs dig into the ground, and its three compound eyes open and close as it breathing.
+Monkey king in lush jungle description: Monkey with long slick fur and a pompous expression wearing a silver spiky crown. It smiles menacingly, and has long talons instead of fingernails.
+Belligerent drunk woman description: This old woman with tangled white hair reeks of alcohol and smells as if she hasn't showered in weeks. Her right hand is raised in the air holding a butcher's knife, and in her left hand is a screwdriver.
+Gloom in Gloom description:
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.75 .. 1.05 .. 0.98 .. 
+generateImage fdsa22 C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5
+generateImage proposed path is C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5\6bec7b76-c540-4ca3-8283-cb3efbb424ed.png
+generateImage prompt: (Ultra HD Airbrushed Oil Painting) Gloom: A dark entrance to a massive underground cavern that is home to dozens of smaller caves and passages. The ceiling is low and crooked, and there are numerous small rocks and pebbles throughout the space. 
+UpdateAndFinishImgGen0: Gloom .. 6bec7b76-c540-4ca3-8283-cb3efbb424ed
+clicked hacky cancel.
+Tab Button Pressed: 2
+tabContentTransforms size: 3
+SetProgressAmount setting to active
+AIAsker GetGeneratedImage 5 6bec7b76-c540-4ca3-8283-cb3efbb424ed .. (Ultra HD Airbrushed Oil Painting) Gloom: A dark entrance to a massive underground cavern that is home to dozens of smaller caves and passages. The ceiling is low and crooked, and there are numerous small rocks and pebbles throughout the space.
+final prompt string from BuildPromptString: The world has gone to waste and most of the population is dead or hostile. You are currently living in a small town called Ashtown that is attempting to rebuild civilization again. It's not there yet though.
+
+You are a typical basement dweller, playing your Xbox and watching anime... or rather you used to be. When the internet was still in its infancy you used to watch it a lot and you would play games with your friends online. Due to recent events, you are currently half human.
+
+
+getGeneratedText we are calling with prompt1: Giant insectoid queen in cavern description: A giant insectoid queen has a soft, throbbing pulsing torso. Its long antennae twitch and quiver, the sharp claws on its front limbs dig into the ground, and its three compound eyes open and close as it breathing.
+Monkey king in lush jungle description: Monkey with long slick fur and a pompous expression wearing a silver spiky crown. It smiles menacingly, and has long talons instead of fingernails.
+Belligerent drunk woman description: This old woman with tangled white hair reeks of alcohol and smells as if she hasn't showered in weeks. Her right hand is raised in the air holding a butcher's knife, and in her left hand is a screwdriver.
+Dark Order in Gloom description:
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.75 .. 1.05 .. 0.98 .. 
+selectable thingy pointer enter.
+got to show tooltip
+tooltip debug0: (603.0, 433.0)
+tooltip debug1111: (603.0, 218.2, 0.0) (603.0, 433.0, 0.0) (1093.0, 433.0, 0.0) (1093.0, 218.2, 0.0) 490 214.77 -827 -432.23 603 647.77
+generateImage fdsa22 C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5
+generateImage proposed path is C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5\cf37bb18-3fe0-4158-a6c0-7ed97dc3eef5.png
+SetProgressAmount setting to active
+generateImage prompt: (Ultra HD Airbrushed Oil Painting) Dark Order: This is a group of wizards who primarily use shadow magic. They all have pointy hats. The leader has a top hat decorated with a red plume, which he uses primarily for intimidation purposes. He is known as the Professor. 
+UpdateAndFinishImgGen0: Dark Order .. cf37bb18-3fe0-4158-a6c0-7ed97dc3eef5
+selectable thingy pointer exit.
+selectable thingy pointer enter.
+got to show tooltip
+tooltip debug0: (402.0, 467.0)
+tooltip debug1111: (402.0, 226.2, 0.0) (402.0, 467.0, 0.0) (892.0, 467.0, 0.0) (892.0, 226.2, 0.0) 490 240.79 -1028 -372.21 402 707.79
+AIAsker GetGeneratedImage 5 cf37bb18-3fe0-4158-a6c0-7ed97dc3eef5 .. (Ultra HD Airbrushed Oil Painting) Dark Order: This is a group of wizards who primarily use shadow magic. They all have pointy hats. The leader has a top hat decorated with a red plume, which he uses primarily for intimidation purposes. He is known as the Professor.
+final prompt string from BuildPromptString: The world has gone to waste and most of the population is dead or hostile. You are currently living in a small town called Ashtown that is attempting to rebuild civilization again. It's not there yet though.
+
+You are a typical basement dweller, playing your Xbox and watching anime... or rather you used to be. When the internet was still in its infancy you used to watch it a lot and you would play games with your friends online. Due to recent events, you are currently half human.
+
+
+getGeneratedText we are calling with prompt1: Hipster pelican description: A pelican with an enormous yellow beak. It seems to be eyeing you with a condescending stare, and it's wearing a pair of hipster aviator sunglasses.
+Talking cactus in fantasy desert description: A large red cactus with branches on each side and a strange orifice in the middle comprising of two "lips", through which it can speak. Its spines are blue in color, and are much longer and thicker than those of a regular cactus.
+Street vendor in Istanbul description: A nice-looking lady wearing a purple turban frying up some lamb shishkebab on the grill. She's wearing an apron and blue jeans and seemes exhausted.
+ghost of an old man who controls the Gloom in Gloom description:
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.75 .. 1.05 .. 0.98 .. 
+generateImage fdsa22 C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5
+generateImage proposed path is C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5\8df4a99f-4b99-4a92-9fda-45a73c163853.png
+SetProgressAmount setting to active
+generateImage prompt: (Ultra HD Airbrushed Oil Painting) ghost of an old man who controls the Gloom: An incredibly old man with a long white beard and hair, who is sitting in front of his own mansion. He looks very tired. There are dark circles under his eyes and he doesn't seem to be wearing any clothes at all. 
+UpdateAndFinishImgGen0: ghost of an old man who controls the Gloom .. 8df4a99f-4b99-4a92-9fda-45a73c163853
+selectable thingy click detected.
+new on click enemy code.
+got to set sidebar mode: ENEMY
+eloworld123 DoAiTaskWithLoadingScreenHelper 0
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+eloworld123 DoAiTaskWithLoadingScreenHelper 1
+eloworld123 DoAiTaskWithLoadingScreenHelper 2
+eloworld123 DoAiTaskWithLoadingScreenHelper 3
+eloworld123 DoAiTaskWithLoadingScreenHelper 4
+eloworld123 DoAiTaskWithLoadingScreenHelper 5
+not early exit
+getGeneratedText we are calling with prompt1: Giant rat: A rat about as heavy as a human with two long fangs.
+Attacks: Viscious bite, quick attack, scratch, gnaw.
+
+Belligerent homeless person: A middle-aged man with blonde scraggly hair who hasn't showered in weeks. He wears a large tattered coat and is wielding a makeshift shank (knife) in each hand.
+Attacks: Knife slash, knife stab, bad breath, wild haymaker.
+
+Astronaut: A person wearing a thick insulating spacesuit and helmet with a gold-plated visor.
+Attacks: Jetpack attack, punch, kick, zero-G martial arts.
+
+Dark Order: This is a group of wizards who primarily use shadow magic. They all have pointy hats. The leader has a top hat decorated with a red plume, which he uses primarily for intimidation purposes. He is known as the Professor.
+Attacks:
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.75 .. 1.05 .. 0.9 .. 1.0
+AIAsker GetGeneratedImage 5 8df4a99f-4b99-4a92-9fda-45a73c163853 .. (Ultra HD Airbrushed Oil Painting) ghost of an old man who controls the Gloom: An incredibly old man with a long white beard and hair, who is sitting in front of his own mansion. He looks very tired. There are dark circles under his eyes and he doesn't seem to be wearing any clothes at all.
+final prompt string from BuildPromptString: The world has gone to waste and most of the population is dead or hostile. You are currently living in a small town called Ashtown that is attempting to rebuild civilization again. It's not there yet though.
+
+You are a typical basement dweller, playing your Xbox and watching anime... or rather you used to be. When the internet was still in its infancy you used to watch it a lot and you would play games with your friends online. Due to recent events, you are currently half human.
+
+
+getGeneratedText we are calling with prompt1: Hipster pelican description: A pelican with an enormous yellow beak. It seems to be eyeing you with a condescending stare, and it's wearing a pair of hipster aviator sunglasses.
+Talking cactus in fantasy desert description: A large red cactus with branches on each side and a strange orifice in the middle comprising of two "lips", through which it can speak. Its spines are blue in color, and are much longer and thicker than those of a regular cactus.
+Street vendor in Istanbul description: A nice-looking lady wearing a purple turban frying up some lamb shishkebab on the grill. She's wearing an apron and blue jeans and seemes exhausted.
+Gloom itself in Gloom description:
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.75 .. 1.05 .. 0.98 .. 
+eloworld123 DoAiTaskWithLoadingScreenHelper 6
+eloworld123 DoAiTaskWithLoadingScreenHelper 7
+wtf Colorize? <color=#dd3333ff>Dark Order</color>
+selectable thingy pointer enter.
+selectable thingy pointer exit.
+got to show tooltip
+wtf abil2 1: aerial views
+wtf abil2 2: bdd9a64e-94eb-47f5-a1c1-a49e3e379bad
+wtf abil2 3: Professor's Lost Invention
+wtf abil2 4: f72d9328-5a24-456a-84ec-a9c336a85eae
+wtf abil2 5: 1
+wtf Colorize? <color=#00ff13ff>aerial views</color>
+wtf abil2 1: secret passages
+wtf abil2 2: 84c7c5ec-ff52-4410-b8ab-337df1323f0d
+wtf abil2 3: Professor's Lost Invention
+wtf abil2 4: f72d9328-5a24-456a-84ec-a9c336a85eae
+wtf abil2 5: 1
+wtf Colorize? <color=#00ff13ff>secret passages</color>
+tooltip debug0: (605.0, 128.0)
+tooltip debug1111: (605.0, -351.4, 0.0) (605.0, 128.0, 0.0) (1095.0, 128.0, 0.0) (1095.0, -351.4, 0.0) 490 479.4301 -825 -472.5699 605 607.4301
+got to show tooltip
+wtf abil2 1: blood fire
+wtf abil2 2: 6a776da3-732a-4251-bf92-b61d9435cf31
+wtf abil2 3: Transcendental Meditation of the Red Dragon
+wtf abil2 4: 3aac4c50-f7eb-4d1a-950d-19a48e4431a0
+wtf abil2 5: 1
+wtf Colorize? <color=#00ff13ff>blood fire</color>
+wtf abil2 1: water breathing
+wtf abil2 2: 28a609df-c983-46a5-9420-1d7a11e85bc2
+wtf abil2 3: Transcendental Meditation of the Red Dragon
+wtf abil2 4: 3aac4c50-f7eb-4d1a-950d-19a48e4431a0
+wtf abil2 5: 1
+wtf Colorize? <color=#00ff13ff>water breathing</color>
+tooltip debug0: (492.0, 108.0)
+tooltip debug1111: (492.0, -380.1, 0.0) (492.0, 108.0, 0.0) (982.0, 108.0, 0.0) (982.0, -380.1, 0.0) 490 488.11 -938 -483.89 492 596.11
+generateImage fdsa22 C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5
+generateImage proposed path is C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5\742e3f43-303e-4574-aaed-2ba8e06de7ea.png
+SetProgressAmount setting to active
+generateImage prompt: (Ultra HD Airbrushed Oil Painting) Gloom itself: A dark path leading down into the darkness of the forest. On both sides of the path, tall trees tower over you, preventing you from seeing anything more than a shadowy landscape, illuminated by a half dozen flashlights. 
+UpdateAndFinishImgGen0: Gloom itself .. 742e3f43-303e-4574-aaed-2ba8e06de7ea
+eloworld playerstatus ProcessTryStrWithMaybeStatusEffect0: False
+GetFuzzInfo the streak nums were: 0 .. 0
+FuzzGeneral info: You try attacking the Dark Order with your Transcendental Meditation of the Red Dragon. .. True .. 1 .. 1
+FuzzGeneral info: You try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. .. True .. 1 .. 1
+ProcessTryStrWithMaybeStatusEffect after fuzzing0: You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon.
+ProcessTryStrWithMaybeStatusEffect after fuzzing1: You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human].
+ProcessTryStrWithMaybeStatusEffect tryStrForAI before/after: You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. .. You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human].
+wtf Colorize? <color=#ccccccff>You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human].</color>
+eloworld123 DoAiTaskWithLoadingScreenHelper 0
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+eloworld123 DoAiTaskWithLoadingScreenHelper 1
+eloworld123 DoAiTaskWithLoadingScreenHelper 2
+eloworld123 DoAiTaskWithLoadingScreenHelper 3
+eloworld123 DoAiTaskWithLoadingScreenHelper 4
+eloworld123 DoAiTaskWithLoadingScreenHelper 5
+BuildPromptString add story turn2: StoryTurn
+BuildPromptString add story turn0: StoryTurn
+final prompt string from BuildPromptString: The world has gone to waste and most of the population is dead or hostile. You are currently living in a small town called Ashtown that is attempting to rebuild civilization again. It's not there yet though.
+
+You are a typical basement dweller, playing your Xbox and watching anime... or rather you used to be. When the internet was still in its infancy you used to watch it a lot and you would play games with your friends online. Due to recent events, you are currently half human.
+
+[The adventure begins]
+
+You and the space marine arrive at the Gloom: The Gloom is a semi-secret underground headquarters for the Shadow Horde, a non-corporeal "race" of undead who have somehow managed to keep most of their necromantic powers while being bound to this realm.
+
+You and the space marine have entered combat with the Dark Order: This is a group of wizards who primarily use shadow magic. They all have pointy hats. The leader has a top hat decorated with a red plume, which he uses primarily for intimidation purposes. He is known as the Professor.
+
+
+getGeneratedText we are calling with prompt1: The world has gone to waste and most of the population is dead or hostile. You are currently living in a small town called Ashtown that is attempting to rebuild civilization again. It's not there yet though.
+
+You are a typical basement dweller, playing your Xbox and watching anime... or rather you used to be. When the internet was still in its infancy you used to watch it a lot and you would play games with your friends online. Due to recent events, you are currently half human.
+
+[The adventure begins]
+
+You and the space marine arrive at the Gloom: The Gloom is a semi-secret underground headquarters for the Shadow Horde, a non-corporeal "race" of undead who have somehow managed to keep most of their necromantic powers while being bound to this realm.
+
+You and the space marine have entered combat with the Dark Order: This is a group of wizards who primarily use shadow magic. They all have pointy hats. The leader has a top hat decorated with a red plume, which he uses primarily for intimidation purposes. He is known as the Professor.
+
+You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human].
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.63 .. 1.05 .. 0.99 .. 1.0
+AIAsker GetGeneratedImage 5 742e3f43-303e-4574-aaed-2ba8e06de7ea .. (Ultra HD Airbrushed Oil Painting) Gloom itself: A dark path leading down into the darkness of the forest. On both sides of the path, tall trees tower over you, preventing you from seeing anything more than a shadowy landscape, illuminated by a half dozen flashlights.
+final prompt string from BuildPromptString: The world has gone to waste and most of the population is dead or hostile. You are currently living in a small town called Ashtown that is attempting to rebuild civilization again. It's not there yet though.
+
+You are a typical basement dweller, playing your Xbox and watching anime... or rather you used to be. When the internet was still in its infancy you used to watch it a lot and you would play games with your friends online. Due to recent events, you are currently half human.
+
+
+getGeneratedText we are calling with prompt1: The world has gone to waste and most of the population is dead or hostile. You are currently living in a small town called Ashtown that is attempting to rebuild civilization again. It's not there yet though.
+
+You are a typical basement dweller, playing your Xbox and watching anime... or rather you used to be. When the internet was still in its infancy you used to watch it a lot and you would play games with your friends online. Due to recent events, you are currently half human.
+
+
+
+You have arrived at the Secret lab in the Gloom. Detailed visual description of the Secret lab:
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.75 .. 1.05 .. 0.98 .. 
+weird debug, enemy is null? False
+WasMaybeMentioned wordsExistingInOtherNames: GHOST|OF|AN|OLD|MAN|WHO|CONTROLS|THE|GLOOM|DARK|ORDER|GLOOM|SPACE|MARINE
+WasMaybeMentioned simplifiedNameWords: ITSELF
+WasMaybeMentioned5: 0 .. 6 .. 0
+WasMaybeMentioned wordsExistingInOtherNames: GLOOM|ITSELF|DARK|ORDER|GLOOM|SPACE|MARINE
+WasMaybeMentioned simplifiedNameWords: GHOST|OF|AN|OLD|MAN|WHO|CONTROLS|THE
+WasMaybeMentioned5: 0 .. 29 .. 0
+WasMaybeMentioned wordsExistingInOtherNames: GLOOM|ITSELF|GHOST|OF|AN|OLD|MAN|WHO|CONTROLS|THE|GLOOM|GLOOM|SPACE|MARINE
+WasMaybeMentioned simplifiedNameWords: DARK|ORDER
+WasMaybeMentioned5: 9 .. 9 .. 1
+WasMaybeMentioned wordsExistingInOtherNames: GLOOM|ITSELF|GHOST|OF|AN|OLD|MAN|WHO|CONTROLS|THE|GLOOM|DARK|ORDER|SPACE|MARINE
+WasMaybeMentioned simplifiedNameWords: 
+WasMaybeMentioned5: 0 .. 0 .. NaN
+WasMaybeMentioned wordsExistingInOtherNames: GLOOM|ITSELF|GHOST|OF|AN|OLD|MAN|WHO|CONTROLS|THE|GLOOM|DARK|ORDER|GLOOM
+WasMaybeMentioned simplifiedNameWords: SPACE|MARINE
+WasMaybeMentioned5: 0 .. 11 .. 0
+GetGameResultForStoryInteraction entity to check: Dark Order
+GetGameResultForStoryInteraction entity to check: Gloom
+SplitSentenceStyle sentences: However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. |||The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. |||The last thing you remember is your lungs filling with water as you lapse into unconsciousness.
+GetStoryChunks chunk early return2 You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness.
+the entity was null for: check_player_death
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. [You are now
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.5 .. 1 ..  .. 
+generateImage fdsa22 C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5
+generateImage proposed path is C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5\247fd700-78eb-46b3-be68-14a8db8bde8f.png
+generateImage prompt: (Ultra HD Airbrushed Oil Painting) Secret lab: Gloom looks pretty damn bleak. There is a big metal gate with a heavy duty door attached. The door has a window made of solid black material with an eye shaped hole in it. 
+UpdateAndFinishImgGen0: Secret lab .. 247fd700-78eb-46b3-be68-14a8db8bde8f
+debug word probs prompt: You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. [You are now
+debug word probs result:  completely<|SEP1|>0.4897209703922272<|SEP2|> fully<|SEP1|>0.43217724561691284<|SEP2|> entirely<|SEP1|>0.03082144819200039<|SEP2|> back<|SEP1|>0.015497995540499687<|SEP2|> Dead<|SEP1|>0.009548040106892586<|SEP2|> awake<|SEP1|>0.0017118691466748714<|SEP2|> technically<|SEP1|>0.0017118691466748714<|SEP2|> dead<|SEP1|>0.0015586746158078313<|SEP2|> Fully<|SEP1|>0.0015107191866263747<|SEP2|> at<|SEP1|>0.0012330131139606237<|SEP2|>
+get biased threshold for 0.115500604015542, 0: 0.115500604015542
+GetWhetherWordProbWasOverThreshold the total prob was 0.0111067147227004 and threshold was 0.115500604015542 and after bias was 0.115500604015542
+the entity was null for: check_player_injury
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. [You have been
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.5 .. 1 ..  .. 
+debug word probs prompt: You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. [You have been
+debug word probs result:  killed<|SEP1|>0.9889699220657349<|SEP2|> Killed<|SEP1|>0.0058806296437978745<|SEP2|> assassinated<|SEP1|>0.0018504223553463817<|SEP2|> slain<|SEP1|>0.0015340540558099747<|SEP2|> Dead<|SEP1|>0.0002583768218755722<|SEP2|> murdered<|SEP1|>0.00018610186816658825<|SEP2|> KILL<|SEP1|>0.00012790581968147308<|SEP2|> defeated<|SEP1|>0.00012015639367746189<|SEP2|> rendered<|SEP1|>0.00011465403804322705<|SEP2|>killed<|SEP1|>7.287853804882616e-05<|SEP2|>
+get biased threshold for 0.854822137445299, 0: 0.854822137445299
+GetWhetherWordProbWasOverThreshold the total prob was 0.996690864027187 and threshold was 0.854822137445299 and after bias was 0.854822137445299
+char to check null? False
+GetGameResultForStoryInteraction looking at char: Dark Order ..  .. cf37bb18-3fe0-4158-a6c0-7ed97dc3eef5 .. NORMAL_MOB .. False .. False
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. [The Dark Order is now
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.5 .. 1 ..  .. 
+debug word probs prompt: You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. [The Dark Order is now
+debug word probs result:  in<|SEP1|>0.8738976120948792<|SEP2|> comprised<|SEP1|>0.008567390963435173<|SEP2|> firmly<|SEP1|>0.006992500741034746<|SEP2|> back<|SEP1|>0.006467005703598261<|SEP2|> the<|SEP1|>0.0058882758021354675<|SEP2|> complete<|SEP1|>0.005796986632049084<|SEP2|> completely<|SEP1|>0.005237141158431768<|SEP2|> on<|SEP1|>0.005036509595811367<|SEP2|> led<|SEP1|>0.0030074368696659803<|SEP2|> known<|SEP1|>0.0021325922571122646<|SEP2|>
+get biased threshold for 0.030498176519759, 0: 0.030498176519759
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.030498176519759 and after bias was 0.030498176519759
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. [The Dark Order has been
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.5 .. 1 ..  .. 
+debug word probs prompt: You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. [The Dark Order has been
+debug word probs result:  training<|SEP1|>0.12254830449819565<|SEP2|> working<|SEP1|>0.12064837664365768<|SEP2|> known<|SEP1|>0.1133386492729187<|SEP2|> trained<|SEP1|>0.07549982517957687<|SEP2|> watching<|SEP1|>0.0709255188703537<|SEP2|> preparing<|SEP1|>0.05189022049307823<|SEP2|> studying<|SEP1|>0.039785608649253845<|SEP2|> planning<|SEP1|>0.03679567202925682<|SEP2|> manipulating<|SEP1|>0.03350284323096275<|SEP2|> found<|SEP1|>0.031473007053136826<|SEP2|>
+get biased threshold for 0.132699608025723, 0: 0.132699608025723
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.132699608025723 and after bias was 0.132699608025723
+getGeneratedText we are calling with prompt1: You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. [They are trying to be
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.5 .. 1 ..  .. 
+debug word probs prompt: You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. [They are trying to be
+debug word probs result:  careful<|SEP1|>0.4090907573699951<|SEP2|> patient<|SEP1|>0.19937491416931152<|SEP2|> kind<|SEP1|>0.05893511325120926<|SEP2|> polite<|SEP1|>0.05450607091188431<|SEP2|> gentle<|SEP1|>0.035745952278375626<|SEP2|> cautious<|SEP1|>0.018836794421076775<|SEP2|> nice<|SEP1|>0.01715109497308731<|SEP2|> discreet<|SEP1|>0.016885193064808846<|SEP2|> as<|SEP1|>0.014670109376311302<|SEP2|> delicate<|SEP1|>0.014442670159041882<|SEP2|>
+get biased threshold for 0.0508095459471223, 0: 0.0508095459471223
+GetWhetherWordProbWasOverThreshold the total prob was 0.107403118163347 and threshold was 0.0508095459471223 and after bias was 0.0508095459471223
+getGeneratedText we are calling with prompt1: You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. The gloom is
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.5 .. 1 ..  .. 
+debug word probs prompt: You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. The gloom is
+debug word probs result:  now<|SEP1|>0.2805536985397339<|SEP2|> filled<|SEP1|>0.23997031152248383<|SEP2|> then<|SEP1|>0.13252419233322144<|SEP2|> thick<|SEP1|>0.03350736200809479<|SEP2|> back<|SEP1|>0.02777857892215252<|SEP2|> pierced<|SEP1|>0.027347911149263382<|SEP2|> complete<|SEP1|>0.02650650590658188<|SEP2|> at<|SEP1|>0.018504522740840912<|SEP2|> total<|SEP1|>0.016330182552337646<|SEP2|> comforting<|SEP1|>0.013328307308256626<|SEP2|>
+get biased threshold for 0.0692236586660145, 0: 0.0692236586660145
+GetWhetherWordProbWasOverThreshold the total prob was 0.280553698539734 and threshold was 0.0692236586660145 and after bias was 0.0692236586660145
+the entity was null for: check_location_change
+CapitalizeEveryWord what's null0: False .. False
+get biased threshold for 0.140732131302357, 0: 0.140732131302357
+GetWhetherWordProbWasOverThreshold the total prob was 0.00123301311396062 and threshold was 0.140732131302357 and after bias was 0.140732131302357
+the entity was null for: check_new_char
+CapitalizeEveryWord what's null0: False .. False
+getGeneratedText we are calling with prompt1: You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. [new
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.5 .. 1 ..  .. 
+debug word probs prompt: You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. [new
+debug word probs result:  day<|SEP1|>0.15333996713161469<|SEP2|> event<|SEP1|>0.09900373220443726<|SEP2|>]<|SEP1|>0.08737047761678696<|SEP2|> story<|SEP1|>0.06195494905114174<|SEP2|> record<|SEP1|>0.05467505380511284<|SEP2|> paragraph<|SEP1|>0.03530086576938629<|SEP2|> development<|SEP1|>0.02706611342728138<|SEP2|> chapter<|SEP1|>0.025426259264349937<|SEP2|> scene<|SEP1|>0.023885762318968773<|SEP2|> hero<|SEP1|>0.023885762318968773<|SEP2|>
+get biased threshold for 0.005, 5.960464E-08: 0.00500005930662155
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.005 and after bias was 0.00500005930662155
+got to before new quest check: False .. True .. 
+GetGameEventResultFromEventCheckResult begin.
+getGeneratedText we are calling with prompt1: However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. (New visual description: The Gloom is now
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.75 .. 1.05 .. 0.95 .. 1.0
+AIAsker GetGeneratedImage 5 247fd700-78eb-46b3-be68-14a8db8bde8f .. (Ultra HD Airbrushed Oil Painting) Secret lab: Gloom looks pretty damn bleak. There is a big metal gate with a heavy duty door attached. The door has a window made of solid black material with an eye shaped hole in it.
+GetGameEventResultFromEventCheckResult persistent status effect finished.
+eloworld123 DoAiTaskWithLoadingScreenHelper 6
+eloworld123 DoAiTaskWithLoadingScreenHelper 7
+eloworld playerstatus ProcessTryStrWithMaybeStatusEffect1: False
+eloworld playerstatus ProcessTryStrWithMaybeStatusEffect2: False
+ProcessResultForStoryInteraction invoking turn events.
+eloworld playerstatus ProcessResultForStoryInteraction0: False
+eloworld playerstatus ProcessResultForStoryInteraction1: PcGameEntity .. Player (PlayerCharacter)
+GameCharacter TurnHappened.
+the status effect for game character expired
+eloworld playerStatusEffectTransform1False .. False .. False
+eloworld playerStatusEffectTransform2False
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+GameCharacter TurnHappened.
+ProcessResultForStoryInteraction tryStr Before: You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon.
+ProcessResultForStoryInteraction tryStr After: You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon.
+ProcessResultForStoryInteraction1:  However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness.
+GetFuzzInfo the streak nums were: 0 .. 0
+healthMultiplierIfFourItems: 2.07000005245209
+dmgProtIfFourItems: 0.516908224801532
+final: 0.129227056200383
+dmgProt: 0.129227056200383
+healthMultiplierIfFourItems: 2.14490011224747
+dmgProtIfFourItems: 0.533777822897226
+final: 0.133444455724306
+dmgProt: 0.26267151192469
+healthMultiplierIfFourItems: 2
+dmgProtIfFourItems: 0.5
+final: 0.125
+dmgProt: 0.38767151192469
+dmgProt: 0.38767151192469
+wtf Colorize? <color=#dd3333ff>You take 7 damage (was 12 before damage protection).</color>
+wtf Colorize? <color=#ffcc99ff>The AI decides that you were injured. <color=#dd3333ff>You take 7 damage (was 12 before damage protection).</color></color>
+wtf20: -7
+wtf2 zero sense. 123
+wtf21: 168
+wtf3: 168
+charmed: Dark Order
+wtf Colorize? <color=#ffcc99ff>The AI decides that Dark Order was charmed! They are no longer hostile.</color>
+HandleEnemyDefeat DoAiTaskWithLoadingScreen before.
+getGeneratedText we are calling with prompt1: Mad scientist: Man with a long nose wearing glasses in a lab coat.
+Items from the mad scientist: Test tube, research notes, old lab coat.
+
+Giant rat: A rat about as heavy as a human with two long fangs.
+Items from the giant rat: Liver, tooth fragment, rat hair.
+
+Belligerent homeless person: Homeless man with brown beard sporting a white wig tied around his head leaving him looking more than a little crazy. He wears sunglasses and a leather jacket underneath he carries a sawed off rifle slung over either shoulder along with a small knife strapped to both hands holding a bag containing food and water.
+Items from the belligerent homeless person: Sunglasses, tattered jacket, empty whiskey bottle.
+
+Dark Order: This is a group of wizards who primarily use shadow magic. They all have pointy hats. The leader has a top hat decorated with a red plume, which he uses primarily for intimidation purposes. He is known as the Professor.
+Items from the Dark Order:
+getGeneratedText we are calling with prompt1: Mad scientist: Man with a long nose wearing glasses in a lab coat.
+Items from the mad scientist: Test tube, research notes, old lab coat.
+
+Giant rat: A rat about as heavy as a human with two long fangs.
+Items from the giant rat: Liver, tooth fragment, rat hair.
+
+Belligerent homeless person: Homeless man with brown beard sporting a white wig tied around his head leaving him looking more than a little crazy. He wears sunglasses and a leather jacket underneath he carries a sawed off rifle slung over either shoulder along with a small knife strapped to both hands holding a bag containing food and water.
+Items from the belligerent homeless person: Sunglasses, tattered jacket, empty whiskey bottle.
+
+Dark Order: This is a group of wizards who primarily use shadow magic. They all have pointy hats. The leader has a top hat decorated with a red plume, which he uses primarily for intimidation purposes. He is known as the Professor.
+Items from the Dark Order:
+eloworld123 DoAiTaskWithLoadingScreenHelper 0
+WaitForGptToBeReady0
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.75 .. 1.05 .. 0.9 .. 1.0
+WaitForGptToBeReady1
+eloworld123 DoAiTaskWithLoadingScreenHelper 1
+eloworld123 DoAiTaskWithLoadingScreenHelper 2
+eloworld123 DoAiTaskWithLoadingScreenHelper 3
+eloworld123 DoAiTaskWithLoadingScreenHelper 4
+eloworld123 DoAiTaskWithLoadingScreenHelper 5
+calling with gpt-j style. params: 0.75 .. 1.05 .. 0.9 .. 1.0
+getGeneratedText we are calling with prompt1: 
+How to equip: The top hat can be
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+final prompt string from BuildPromptString: The world has gone to waste and most of the population is dead or hostile. You are currently living in a small town called Ashtown that is attempting to rebuild civilization again. It's not there yet though.
+
+You are a typical basement dweller, playing your Xbox and watching anime... or rather you used to be. When the internet was still in its infancy you used to watch it a lot and you would play games with your friends online.
+
+
+getGeneratedText we are calling with prompt1: T-shirt with WTF on it description: A plain white T-shirt with nothing but the big letters "WTF" in front, written in black.
+Ancient dagger description: An ornate dagger with a straight sharp blade and golden hilt. The blade is faintly blue, etched with some rune-like markings.
+Stinger rocket launcher description: A hand-held rocket launching device consisting of a long tube and an orifice at the top for the rocket-propelled grenade. Cumbersome, yet very effective.
+Hipster sunglasses description: Stylish aviator sunglasses with mirrored lenses.
+Top Hat description:
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.5 .. 1 ..  .. 
+getGeneratedText we are calling with prompt1: 
+How to equip: The top hat can be
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.75 .. 1.05 .. 0.98 .. 
+debug word probs prompt: 
+How to equip: The top hat can be
+debug word probs result:  equipped<|SEP1|>0.395569384098053<|SEP2|> obtained<|SEP1|>0.11157546192407608<|SEP2|> acquired<|SEP1|>0.09693844616413116<|SEP2|> found<|SEP1|>0.06982214003801346<|SEP2|> bought<|SEP1|>0.0676739439368248<|SEP2|> used<|SEP1|>0.04874370992183685<|SEP2|> either<|SEP1|>0.015579425729811192<|SEP2|> anything<|SEP1|>0.01463551726192236<|SEP2|> combined<|SEP1|>0.01463551726192236<|SEP2|> unlocked<|SEP1|>0.014408613555133343<|SEP2|>
+get biased threshold for 0.00581164836883545, 0: 0.00581164836883545
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.00581164836883545 and after bias was 0.00581164836883545
+generateEquipmentType100: Top Hat apparently can't be worn.
+getGeneratedText we are calling with prompt1: 
+How to use: The top hat can be
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.5 .. 1 ..  .. 
+generateImage fdsa22 C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5
+generateImage proposed path is C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5\e77cf6f5-2891-4cf5-964d-83d02ad3129f.png
+generateImage prompt: (Ultra HD Airbrushed Oil Painting) Top Hat: A hat made to look like a bucket with a hole in the top for your head and a long tail attached. Funny item to wear in hot weather. Also acts as a parasol when you carry it. #winning#LOL.
+UpdateAndFinishImgGen0: Top Hat .. e77cf6f5-2891-4cf5-964d-83d02ad3129f
+calling with gpt-j style. params: 0.5 .. 1 ..  .. 
+debug word probs prompt: 
+How to use: The top hat can be
+debug word probs result:  used<|SEP1|>0.2456456422805786<|SEP2|> worn<|SEP1|>0.20685437321662903<|SEP2|> opened<|SEP1|>0.11786206066608429<|SEP2|> pulled<|SEP1|>0.07491768151521683<|SEP2|> put<|SEP1|>0.044735394418239594<|SEP2|> bought<|SEP1|>0.038866788148880005<|SEP2|> don<|SEP1|>0.023208416998386383<|SEP2|> inserted<|SEP1|>0.022494368255138397<|SEP2|> found<|SEP1|>0.015950897708535194<|SEP2|> tricky<|SEP1|>0.011669924482703209<|SEP2|>
+get biased threshold for 0.160181177899848, 0: 0.160181177899848
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.160181177899848 and after bias was 0.160181177899848
+generateEquipmentType105: Top Hat apparently is neither wearable nor consumable.
+debug word probs prompt: 
+How to equip: The top hat can be
+debug word probs result:  equipped<|SEP1|>0.395569384098053<|SEP2|> obtained<|SEP1|>0.11157546192407608<|SEP2|> acquired<|SEP1|>0.09693844616413116<|SEP2|> found<|SEP1|>0.06982214003801346<|SEP2|> bought<|SEP1|>0.0676739439368248<|SEP2|> used<|SEP1|>0.04874370992183685<|SEP2|> either<|SEP1|>0.015579425729811192<|SEP2|> anything<|SEP1|>0.01463551726192236<|SEP2|> combined<|SEP1|>0.01463551726192236<|SEP2|> unlocked<|SEP1|>0.014408613555133343<|SEP2|>
+get biased threshold for 0.00581164836883545, 0: 0.00581164836883545
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.00581164836883545 and after bias was 0.00581164836883545
+generateEquipmentType100: Top hat apparently can't be worn.
+getGeneratedText we are calling with prompt1: 
+How to use: The top hat can be
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.5 .. 1 ..  .. 
+debug word probs prompt: 
+How to use: The top hat can be
+debug word probs result:  used<|SEP1|>0.2456456422805786<|SEP2|> worn<|SEP1|>0.20685437321662903<|SEP2|> opened<|SEP1|>0.11786206066608429<|SEP2|> pulled<|SEP1|>0.07491768151521683<|SEP2|> put<|SEP1|>0.044735394418239594<|SEP2|> bought<|SEP1|>0.038866788148880005<|SEP2|> don<|SEP1|>0.023208416998386383<|SEP2|> inserted<|SEP1|>0.022494368255138397<|SEP2|> found<|SEP1|>0.015950897708535194<|SEP2|> tricky<|SEP1|>0.011669924482703209<|SEP2|>
+get biased threshold for 0.160181177899848, 0: 0.160181177899848
+GetWhetherWordProbWasOverThreshold the total prob was 0 and threshold was 0.160181177899848 and after bias was 0.160181177899848
+generateEquipmentType105: Top hat apparently is neither wearable nor consumable.
+eloworld123 DoAiTaskWithLoadingScreenHelper 6
+eloworld123 DoAiTaskWithLoadingScreenHelper 7
+HandleEnemyDefeat DoAiTaskWithLoadingScreen after.
+got to add item grid element1.
+got to add item grid element2.
+got to add item grid element1.
+got to add item grid element2.
+wtf Colorize? <color=#fcfcfcff>Top Hat</color>
+wtf Colorize? <color=#fcfcfcff>Top hat</color>
+baseXp was: 57
+after area multiplier: 39.5833333333333
+final: 22
+wtf Colorize? <color=#dd3333ff>Dark Order</color>
+you now have xp: 415
+wtf Colorize? <color=#cc33ffff>You have gained a level!</color>
+debug level conversion0. 415
+debug level conversion1. 0 .. 100 .. 230
+DEBUG YO 4
+healthMultiplierIfFourItems: 1.87343864264016
+dmgProtIfFourItems: 0.466222177102774
+final: 0.116555544275694
+dmgProt: 0.116555544275694
+healthMultiplierIfFourItems: 1.93457939343865
+dmgProtIfFourItems: 0.483091775198468
+final: 0.120772943799617
+dmgProt: 0.23732848807531
+healthMultiplierIfFourItems: 1.81629775684452
+dmgProtIfFourItems: 0.449429480253661
+final: 0.112357370063415
+dmgProt: 0.349685858138726
+dmgProt: 0.349685858138726
+wtf3: 216
+eloworld playerStatusEffectTransform UpdateStatsFalse
+Calculate free attribute points: 22 .. 19
+HandleEnemyDefeat exiting.
+got update grid selections.
+clearyo
+a child place is being added: Secret lab
+got to ADD GRID ELE. Secret lab
+selectablethingy awake.
+what's null? False
+got to ADD GRID ELE end.
+a child place is being added: tomb
+got to ADD GRID ELE. tomb
+selectablethingy awake.
+what's null? False
+got to ADD GRID ELE end.
+clearyo
+got to ADD GRID ELE. Gloom itself
+selectablethingy awake.
+what's null? False
+got to ADD GRID ELE end.
+got to ADD GRID ELE. ghost of an old man who controls the Gloom
+selectablethingy awake.
+what's null? False
+got to ADD GRID ELE end.
+got to ADD GRID ELE. Dark Order
+selectablethingy awake.
+what's null? False
+got to ADD GRID ELE end.
+clearyo
+got to ADD GRID ELE. Gloom
+selectablethingy awake.
+what's null? False
+got to ADD GRID ELE end.
+got to set sidebar mode: EXPLORATION
+entityPersistentStatusEffects: Gloom
+ge was place.
+wtf Colorize? <color=#ffcc99ff>The AI decides that Gloom has changed state: It is now filled with a lethal mist that kills instantly</color>
+AIAsker GetGeneratedImage 5 e77cf6f5-2891-4cf5-964d-83d02ad3129f .. (Ultra HD Airbrushed Oil Painting) Top Hat: A hat made to look like a bucket with a hole in the top for your head and a long tail attached. Funny item to wear in hot weather. Also acts as a parasol when you carry it. #winning#LOL.
+generateImage fdsa22 C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5
+generateImage proposed path is C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5\72f9e2b5-92f5-4ad9-bacb-4a812fb9d588.png
+generateImage prompt: (Ultra HD Airbrushed Oil Painting) Gloom: The Gloom is a semi-secret underground headquarters for the Shadow Horde, a non-corporeal "race" of undead who have somehow managed to keep most of their necromantic powers while being bound to this realm. It is currently filled with a lethal mist that kills instantly.
+UpdateAndFinishImgGen0: Gloom .. 72f9e2b5-92f5-4ad9-bacb-4a812fb9d588
+SetProgressAmount setting to active
+EzHoverable on pointer enter.
+pressed inventory button123.
+eyyo present: 
+onInventoryPormptedOrnot
+add ability: Escape from prison .. 1
+add ability: blood fire .. 1
+add ability: water breathing .. 1
+add ability: aerial views .. 1
+add ability: secret passages .. 1
+EzHoverable on pointer exit.
+got to on pointer enter.
+got to show tooltip
+wtf abil2 1: create life
+wtf abil2 2: 62cd6d6f-134b-4ef0-a693-54f5891d0e90
+wtf abil2 3: liter of Xont serum vial
+wtf abil2 4: ecacbc85-4a64-46b9-8775-eaf887151c52
+wtf abil2 5: 0
+wtf Colorize? <color=#f00000ff>create life</color>
+wtf abil2 1: resurrection
+wtf abil2 2: 01381c52-148d-4d55-a47f-ea92b018e5eb
+wtf abil2 3: liter of Xont serum vial
+wtf abil2 4: ecacbc85-4a64-46b9-8775-eaf887151c52
+wtf abil2 5: 0
+wtf Colorize? <color=#f00000ff>resurrection</color>
+tooltip debug0: (894.0, 624.0)
+tooltip debug1111: (894.0, 196.6, 0.0) (894.0, 624.0, 0.0) (1384.0, 624.0, 0.0) (1384.0, 196.6, 0.0) 490 427.41 -536 -28.58997 894 1051.41
+got to on pointer enter.
+got to show tooltip
+tooltip debug0: (976.0, 818.0)
+tooltip debug1111: (976.0, 618.7, 0.0) (976.0, 818.0, 0.0) (1466.0, 818.0, 0.0) (1466.0, 618.7, 0.0) 490 199.27 -454 -62.72998 976 1017.27
+got to on pointer enter.
+got to show tooltip
+tooltip debug0: (1086.0, 820.0)
+tooltip debug1111: (1086.0, 480.7, 0.0) (1086.0, 820.0, 0.0) (1576.0, 820.0, 0.0) (1576.0, 480.7, 0.0) 490 339.35 -344 79.35004 1086 820
+got to on pointer enter.
+got to show tooltip
+item heal amount b4 max: 114.383702219772
+tooltip debug0: (1160.0, 776.0)
+tooltip debug1111: (1160.0, 322.6, 0.0) (1160.0, 776.0, 0.0) (1650.0, 776.0, 0.0) (1650.0, 322.6, 0.0) 490 453.42 -270 149.42 1160 776
+got to on pointer enter.
+got to show tooltip
+tooltip debug0: (1225.0, 825.0)
+tooltip debug1111: (1225.0, 485.7, 0.0) (1225.0, 825.0, 0.0) (1715.0, 825.0, 0.0) (1715.0, 485.7, 0.0) 490 339.35 -205 84.35004 1225 825
+AIAsker GetGeneratedImage 5 72f9e2b5-92f5-4ad9-bacb-4a812fb9d588 .. (Ultra HD Airbrushed Oil Painting) Gloom: The Gloom is a semi-secret underground headquarters for the Shadow Horde, a non-corporeal "race" of undead who have somehow managed to keep most of their necromantic powers while being bound to this realm. It is currently filled with a lethal mist that kills instantly.
+final prompt string from BuildPromptString: The world has gone to waste and most of the population is dead or hostile. You are currently living in a small town called Ashtown that is attempting to rebuild civilization again. It's not there yet though.
+
+You are a typical basement dweller, playing your Xbox and watching anime... or rather you used to be. When the internet was still in its infancy you used to watch it a lot and you would play games with your friends online.
+
+
+getGeneratedText we are calling with prompt1: T-shirt with WTF on it description: A plain white T-shirt with nothing but the big letters "WTF" in front, written in black.
+Ancient dagger description: An ornate dagger with a straight sharp blade and golden hilt. The blade is faintly blue, etched with some rune-like markings.
+Stinger rocket launcher description: A hand-held rocket launching device consisting of a long tube and an orifice at the top for the rocket-propelled grenade. Cumbersome, yet very effective.
+Hipster sunglasses description: Stylish aviator sunglasses with mirrored lenses.
+Top hat description:
+WaitForGptToBeReady0
+WaitForGptToBeReady1
+calling with gpt-j style. params: 0.75 .. 1.05 .. 0.98 .. 
+unprepare to receive was called.
+got here 1.
+got here 2.
+onInventoryPormptedOrnot
+got here 3.
+generateImage fdsa22 C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5
+generateImage proposed path is C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5\f0fba2b1-b466-4a31-bc6a-3bc39177fd80.png
+SetProgressAmount setting to active
+generateImage prompt: (Ultra HD Airbrushed Oil Painting) Top hat: A hat that's just a flat circle with a hole in it. Belonged to Oswald, now defunct.
+UpdateAndFinishImgGen0: Top hat .. f0fba2b1-b466-4a31-bc6a-3bc39177fd80
+AIAsker GetGeneratedImage 5 f0fba2b1-b466-4a31-bc6a-3bc39177fd80 .. (Ultra HD Airbrushed Oil Painting) Top hat: A hat that's just a flat circle with a hole in it. Belonged to Oswald, now defunct.
+
+
+gptLogStr: 
+
+
+m the mad scientist: Test tube, research notes, old lab coat.
+Giant rat: A rat about as heavy as a human with two long fangs.
+Items from the giant rat: Liver, tooth fragment, rat hair.
+Belligerent homeless person: Homeless man with brown beard sporting a white wig tied around his head leaving him looking more than a little crazy. He wears sunglasses and a leather jacket underneath he carries a sawed off rifle slung over either shoulder along with a small knife strapped to both hands holding a bag containing food and water.
+Items from the belligerent homeless person: Sunglasses, tattered jacket, empty whiskey bottle.
+demon who sells illegal drugs: This pale, skinny man is reading a map. He has a certain sophistication about him, like himself and other criminals have met in some fancy hotel before committing a crime.
+Items from the demon who sells illegal drugs:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', ' He', ' Him', ' His', ' She', ' Her', ' Hers', ' They', ' Them', ' Their', ' Theirs', ' It', ' Its', ' This', ' There', ' he', ' him', ' his', ' she', ' her', ' hers', ' they', ' them', ' their', ' theirs', ' it', ' its', ' this', ' there', ':', '...', ' 0', ' 1', ' 2', ' 3', ' 4', ' 5', ' 6', ' 7', ' 8', ' 9', ' 10', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', ' you', ' You', ' There', ' This', ' That', ' His', ' Her', ' Their', ' In', ' None', ' Nobody', ' Nothing', ', as', ', who', ', which', ', is', ', are', ', both', ', one', ', his', ', her', ', their', ', wearing', ', with', '"', "'", ' is', ' are', '(']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 236 and do sample of True
+pipe server returning text:  Map, Suitcase, Small handgun, Large amount of C-Money,
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+How to equip: The map of the area can be
+eloworld debug: ['>']
+eloworld gothere1
+ seen<|SEP1|>0.6793461441993713<|SEP2|>
+ found<|SEP1|>0.246042862534523<|SEP2|>
+ accessed<|SEP1|>0.012249752879142761<|SEP2|>
+ downloaded<|SEP1|>0.00882316567003727<|SEP2|>
+ studied<|SEP1|>0.006159562151879072<|SEP2|>
+ explored<|SEP1|>0.004103153012692928<|SEP2|>
+ used<|SEP1|>0.003794796532019973<|SEP2|>
+ viewed<|SEP1|>0.0033488960471004248<|SEP2|>
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+ consulted<|SEP1|>0.0026081230025738478<|SEP2|>
+pipe server returning text:  seen<|SEP1|>0.6793461441993713<|SEP2|> found<|SEP1|>0.246042862534523<|SEP2|> accessed<|SEP1|>0.012249752879142761<|SEP2|> downloaded<|SEP1|>0.00882316567003727<|SEP2|> studied<|SEP1|>0.006159562151879072<|SEP2|> explored<|SEP1|>0.004103153012692928<|SEP2|> used<|SEP1|>0.003794796532019973<|SEP2|> viewed<|SEP1|>0.0033488960471004248<|SEP2|> obtained<|SEP1|>0.0029095711652189493<|SEP2|> consulted<|SEP1|>0.0026081230025738478<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=1.05
+maxTokens=50
+minTokens=50
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+T-shirt with WTF on it description: A plain white T-shirt with nothing but the big letters "WTF" in front, written in black.
+Ancient dagger description: An ornate dagger with a straight sharp blade and golden hilt. The blade is faintly blue, etched with some rune-like markings.
+Stinger rocket launcher description: A hand-held rocket launching device consisting of a long tube and an orifice at the top for the rocket-propelled grenade. Cumbersome, yet very effective.
+Hipster sunglasses description: Stylish aviator sunglasses with mirrored lenses.
+Map of the area description:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 189 and do sample of True
+pipe server returning text:  A detailed map of the area surrounding the warehouse, labeled with locations, buildings, and landmarks. Useful.The warehouse itself is a large, grey building that has no windows and a single, locked metal door. There are no windows due to the darkness
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+How to equip: The map can be
+eloworld debug: ['>']
+eloworld gothere1
+ accessed<|SEP1|>0.22540298104286194<|SEP2|>
+ found<|SEP1|>0.17554400861263275<|SEP2|>
+ explored<|SEP1|>0.06162174418568611<|SEP2|>
+ seen<|SEP1|>0.051086220890283585<|SEP2|>
+ obtained<|SEP1|>0.0450834296643734<|SEP2|>
+ opened<|SEP1|>0.03796405717730522<|SEP2|>
+ a<|SEP1|>0.03737547621130943<|SEP2|>
+ used<|SEP1|>0.031473308801651<|SEP2|>
+ sc<|SEP1|>0.024511436000466347<|SEP2|>
+ equipped<|SEP1|>0.024511436000466347<|SEP2|>
+pipe server returning text:  accessed<|SEP1|>0.22540298104286194<|SEP2|> found<|SEP1|>0.17554400861263275<|SEP2|> explored<|SEP1|>0.06162174418568611<|SEP2|> seen<|SEP1|>0.051086220890283585<|SEP2|> obtained<|SEP1|>0.0450834296643734<|SEP2|> opened<|SEP1|>0.03796405717730522<|SEP2|> a<|SEP1|>0.03737547621130943<|SEP2|> used<|SEP1|>0.031473308801651<|SEP2|> sc<|SEP1|>0.024511436000466347<|SEP2|> equipped<|SEP1|>0.024511436000466347<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+How to use: The map of the area can be
+eloworld debug: ['>']
+eloworld gothere1
+ found<|SEP1|>0.7047715187072754<|SEP2|>
+ downloaded<|SEP1|>0.05876219645142555<|SEP2|>
+ seen<|SEP1|>0.056954275816679<|SEP2|>
+ accessed<|SEP1|>0.014400294050574303<|SEP2|>
+ bought<|SEP1|>0.013318095356225967<|SEP2|>
+ purchased<|SEP1|>0.012708215042948723<|SEP2|>
+ used<|SEP1|>0.011938263662159443<|SEP2|>
+ a<|SEP1|>0.011938263662159443<|SEP2|>
+ studied<|SEP1|>0.01175317820161581<|SEP2|>
+ viewed<|SEP1|>0.005728042218834162<|SEP2|>
+pipe server returning text:  found<|SEP1|>0.7047715187072754<|SEP2|> downloaded<|SEP1|>0.05876219645142555<|SEP2|> seen<|SEP1|>0.056954275816679<|SEP2|> accessed<|SEP1|>0.014400294050574303<|SEP2|> bought<|SEP1|>0.013318095356225967<|SEP2|> purchased<|SEP1|>0.012708215042948723<|SEP2|> used<|SEP1|>0.011938263662159443<|SEP2|> a<|SEP1|>0.011938263662159443<|SEP2|> studied<|SEP1|>0.01175317820161581<|SEP2|> viewed<|SEP1|>0.005728042218834162<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+How to use: The map can be
+eloworld debug: ['>']
+eloworld gothere1
+ used<|SEP1|>0.32648998498916626<|SEP2|>
+ moved<|SEP1|>0.13191388547420502<|SEP2|>
+ found<|SEP1|>0.05762890726327896<|SEP2|>
+ accessed<|SEP1|>0.05006886273622513<|SEP2|>
+ studied<|SEP1|>0.0470353439450264<|SEP2|>
+ folded<|SEP1|>0.03899367153644562<|SEP2|>
+ sc<|SEP1|>0.02722196839749813<|SEP2|>
+ a<|SEP1|>0.024023303762078285<|SEP2|>
+ explored<|SEP1|>0.02120049111545086<|SEP2|>
+ consulted<|SEP1|>0.017852602526545525<|SEP2|>
+pipe server returning text:  used<|SEP1|>0.32648998498916626<|SEP2|> moved<|SEP1|>0.13191388547420502<|SEP2|> found<|SEP1|>0.05762890726327896<|SEP2|> accessed<|SEP1|>0.05006886273622513<|SEP2|> studied<|SEP1|>0.0470353439450264<|SEP2|> folded<|SEP1|>0.03899367153644562<|SEP2|> sc<|SEP1|>0.02722196839749813<|SEP2|> a<|SEP1|>0.024023303762078285<|SEP2|> explored<|SEP1|>0.02120049111545086<|SEP2|> consulted<|SEP1|>0.017852602526545525<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+repetitionPenalty=1.05
+maxTokens=50
+minTokens=50
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+T-shirt with WTF on it description: A plain white T-shirt with nothing but the big letters "WTF" in front, written in black.
+Ancient dagger description: An ornate dagger with a straight sharp blade and golden hilt. The blade is faintly blue, etched with some rune-like markings.
+Stinger rocket launcher description: A hand-held rocket launching device consisting of a long tube and an orifice at the top for the rocket-propelled grenade. Cumbersome, yet very effective.
+Hipster sunglasses description: Stylish aviator sunglasses with mirrored lenses.
+Map description:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 186 and do sample of True
+pipe server returning text:  A simple, but detailed map of the forest, highlighting important locations. Note the X marking your current location. The Redwood Forest design is cool and minimalist. Softbound edition. No publisher listed. Not valid during rain or flooding. Not transferable
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=1.05
+maxTokens=12
+minTokens=12
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|> He<|SEP|> Him<|SEP|> His<|SEP|> She<|SEP|> Her<|SEP|> Hers<|SEP|> They<|SEP|> Them<|SEP|> Their<|SEP|> Theirs<|SEP|> It<|SEP|> Its<|SEP|> This<|SEP|> There<|SEP|> he<|SEP|> him<|SEP|> his<|SEP|> she<|SEP|> her<|SEP|> hers<|SEP|> they<|SEP|> them<|SEP|> their<|SEP|> theirs<|SEP|> it<|SEP|> its<|SEP|> this<|SEP|> there<|SEP|>:<|SEP|>...<|SEP|> 0<|SEP|> 1<|SEP|> 2<|SEP|> 3<|SEP|> 4<|SEP|> 5<|SEP|> 6<|SEP|> 7<|SEP|> 8<|SEP|> 9<|SEP|> 10<|SEP|>0<|SEP|>1<|SEP|>2<|SEP|>3<|SEP|>4<|SEP|>5<|SEP|>6<|SEP|>7<|SEP|>8<|SEP|>9<|SEP|>10<|SEP|> you<|SEP|> You<|SEP|> There<|SEP|> This<|SEP|> That<|SEP|> His<|SEP|> Her<|SEP|> Their<|SEP|> In<|SEP|> None<|SEP|> Nobody<|SEP|> Nothing<|SEP|>, as<|SEP|>, who<|SEP|>, which<|SEP|>, is<|SEP|>, are<|SEP|>, both<|SEP|>, one<|SEP|>, his<|SEP|>, her<|SEP|>, their<|SEP|>, wearing<|SEP|>, with<|SEP|>"<|SEP|>'<|SEP|> is<|SEP|> are<|SEP|>(
+topP=0.9
+typicalP=1.0
+In genetics research laboratory, you find and pick up: Test tube, DNA sample.
+In hipster coffee house, you find and pick up: Coffee grounds, coffee filter.
+In cowboy's saloon, you find and pick up: Empty whiskey bottle, old cowboy hat.
+In dark chamber in ancient temple, you find and pick up: Small rocks, rat bones.
+In Downtown in the Military base, you find and pick up:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', ' He', ' Him', ' His', ' She', ' Her', ' Hers', ' They', ' Them', ' Their', ' Theirs', ' It', ' Its', ' This', ' There', ' he', ' him', ' his', ' she', ' her', ' hers', ' they', ' them', ' their', ' theirs', ' it', ' its', ' this', ' there', ':', '...', ' 0', ' 1', ' 2', ' 3', ' 4', ' 5', ' 6', ' 7', ' 8', ' 9', ' 10', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', ' you', ' You', ' There', ' This', ' That', ' His', ' Her', ' Their', ' In', ' None', ' Nobody', ' Nothing', ', as', ', who', ', which', ', is', ', are', ', both', ', one', ', his', ', her', ', their', ', wearing', ', with', '"', "'", ' is', ' are', '(']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 122 and do sample of True
+pipe server returning text:  Map of the area, Assault Rifle.
+Total price
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+How to equip: The map of the area can be
+eloworld debug: ['>']
+eloworld gothere1
+ seen<|SEP1|>0.6793461441993713<|SEP2|>
+ found<|SEP1|>0.246042862534523<|SEP2|>
+ accessed<|SEP1|>0.012249752879142761<|SEP2|>
+ downloaded<|SEP1|>0.00882316567003727<|SEP2|>
+ studied<|SEP1|>0.006159562151879072<|SEP2|>
+ explored<|SEP1|>0.004103153012692928<|SEP2|>
+ used<|SEP1|>0.003794796532019973<|SEP2|>
+ viewed<|SEP1|>0.0033488960471004248<|SEP2|>
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+ consulted<|SEP1|>0.0026081230025738478<|SEP2|>
+pipe server returning text:  seen<|SEP1|>0.6793461441993713<|SEP2|> found<|SEP1|>0.246042862534523<|SEP2|> accessed<|SEP1|>0.012249752879142761<|SEP2|> downloaded<|SEP1|>0.00882316567003727<|SEP2|> studied<|SEP1|>0.006159562151879072<|SEP2|> explored<|SEP1|>0.004103153012692928<|SEP2|> used<|SEP1|>0.003794796532019973<|SEP2|> viewed<|SEP1|>0.0033488960471004248<|SEP2|> obtained<|SEP1|>0.0029095711652189493<|SEP2|> consulted<|SEP1|>0.0026081230025738478<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=1.05
+maxTokens=50
+minTokens=50
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+T-shirt with WTF on it description: A plain white T-shirt with nothing but the big letters "WTF" in front, written in black.
+Ancient dagger description: An ornate dagger with a straight sharp blade and golden hilt. The blade is faintly blue, etched with some rune-like markings.
+Stinger rocket launcher description: A hand-held rocket launching device consisting of a long tube and an orifice at the top for the rocket-propelled grenade. Cumbersome, yet very effective.
+Hipster sunglasses description: Stylish aviator sunglasses with mirrored lenses.
+Map of the area description:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 189 and do sample of True
+pipe server returning text:  A map of the area around the house, highlighting the locations of doors leading into various rooms, a living room, a bathroom, a kitchen, a basement, and a tunnel. Note that the map shows a second, undiscovered tunnel, which your
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+How to use: The map of the area can be
+eloworld debug: ['>']
+eloworld gothere1
+ found<|SEP1|>0.7047715187072754<|SEP2|>
+ downloaded<|SEP1|>0.05876219645142555<|SEP2|>
+ seen<|SEP1|>0.056954275816679<|SEP2|>
+ accessed<|SEP1|>0.014400294050574303<|SEP2|>
+ bought<|SEP1|>0.013318095356225967<|SEP2|>
+ purchased<|SEP1|>0.012708215042948723<|SEP2|>
+ used<|SEP1|>0.011938263662159443<|SEP2|>
+ a<|SEP1|>0.011938263662159443<|SEP2|>
+ studied<|SEP1|>0.01175317820161581<|SEP2|>
+ viewed<|SEP1|>0.005728042218834162<|SEP2|>
+pipe server returning text:  found<|SEP1|>0.7047715187072754<|SEP2|> downloaded<|SEP1|>0.05876219645142555<|SEP2|> seen<|SEP1|>0.056954275816679<|SEP2|> accessed<|SEP1|>0.014400294050574303<|SEP2|> bought<|SEP1|>0.013318095356225967<|SEP2|> purchased<|SEP1|>0.012708215042948723<|SEP2|> used<|SEP1|>0.011938263662159443<|SEP2|> a<|SEP1|>0.011938263662159443<|SEP2|> studied<|SEP1|>0.01175317820161581<|SEP2|> viewed<|SEP1|>0.005728042218834162<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+maxTokens=30
+minTokens=30
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|> He<|SEP|> Him<|SEP|> His<|SEP|> She<|SEP|> Her<|SEP|> Hers<|SEP|> They<|SEP|> Them<|SEP|> Their<|SEP|> Theirs<|SEP|> It<|SEP|> Its<|SEP|> This<|SEP|> There<|SEP|> he<|SEP|> him<|SEP|> his<|SEP|> she<|SEP|> her<|SEP|> hers<|SEP|> they<|SEP|> them<|SEP|> their<|SEP|> theirs<|SEP|> it<|SEP|> its<|SEP|> this<|SEP|> there<|SEP|>:<|SEP|>...<|SEP|> 0<|SEP|> 1<|SEP|> 2<|SEP|> 3<|SEP|> 4<|SEP|> 5<|SEP|> 6<|SEP|> 7<|SEP|> 8<|SEP|> 9<|SEP|> 10<|SEP|>0<|SEP|>1<|SEP|>2<|SEP|>3<|SEP|>4<|SEP|>5<|SEP|>6<|SEP|>7<|SEP|>8<|SEP|>9<|SEP|>10<|SEP|> you<|SEP|> You<|SEP|> There<|SEP|> This<|SEP|> That<|SEP|> His<|SEP|> Her<|SEP|> Their<|SEP|> In<|SEP|> None<|SEP|> Nobody<|SEP|> Nothing<|SEP|>, as<|SEP|>, who<|SEP|>, which<|SEP|>, is<|SEP|>, are<|SEP|>, both<|SEP|>, one<|SEP|>, his<|SEP|>, her<|SEP|>, their<|SEP|>, wearing<|SEP|>, with<|SEP|>"<|SEP|>'<|SEP|> is<|SEP|> are<|SEP|>(
+topP=0.9
+typicalP=1.0
+Bustling food court in the Millenium shopping mall: The food court comprises the entire bottom floor of the shopping mall. There are diverse types of cuisine including Asian, Western, and fusion foods. In the center there's a large eating area with plenty of tables.
+List of places: Expensive Italian restaurant, Malaysian food stall, Burt's pizza stall, condiments area, open-air dining area, beer garden bar, painted mural of children playing in a park.
+Medieval village: A large medieval village with numerous people on the streets going about their daily tasks. It is enclosed by stone walls, but most buildings are made of straw, brick and wood.
+List of places: Blacksmith's station, Grain-churning wind mill, Stinking Rose Tavern, gothic church, peasant's home, whorehouse, statue of King Avalon, guard's barracks.
+Andromeda space station: A central galactic hub where multiple species stop to eat or rest.
+List of places: Ship docking station, oxygen maintenance room, restaurant plaza, Asari gentleman's club, cargo hold, centrifugal gravity generator, quantum communications room.
+Gloom: The Gloom is a semi-secret underground headquarters for the Shadow Horde, a non-corporeal "race" of undead who have somehow managed to keep most of their necromantic powers while being bound to this realm.
+List of places:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', ' He', ' Him', ' His', ' She', ' Her', ' Hers', ' They', ' Them', ' Their', ' Theirs', ' It', ' Its', ' This', ' There', ' he', ' him', ' his', ' she', ' her', ' hers', ' they', ' them', ' their', ' theirs', ' it', ' its', ' this', ' there', ':', '...', ' 0', ' 1', ' 2', ' 3', ' 4', ' 5', ' 6', ' 7', ' 8', ' 9', ' 10', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', ' you', ' You', ' There', ' This', ' That', ' His', ' Her', ' Their', ' In', ' None', ' Nobody', ' Nothing', ', as', ', who', ', which', ', is', ', are', ', both', ', one', ', his', ', her', ', their', ', wearing', ', with', '"', "'", ' is', ' are', '(']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 337 and do sample of True
+pipe server returning text:  Secret lab, tomb, dungeon, prison, coffin, throne room.
+Then the map goes blank.
+Dendrin has given up
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+[e] Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=1.05
+maxTokens=30
+minTokens=30
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|> He<|SEP|> Him<|SEP|> His<|SEP|> She<|SEP|> Her<|SEP|> Hers<|SEP|> They<|SEP|> Them<|SEP|> Their<|SEP|> Theirs<|SEP|> It<|SEP|> Its<|SEP|> This<|SEP|> There<|SEP|> he<|SEP|> him<|SEP|> his<|SEP|> she<|SEP|> her<|SEP|> hers<|SEP|> they<|SEP|> them<|SEP|> their<|SEP|> theirs<|SEP|> it<|SEP|> its<|SEP|> this<|SEP|> there<|SEP|>:<|SEP|>...<|SEP|> 0<|SEP|> 1<|SEP|> 2<|SEP|> 3<|SEP|> 4<|SEP|> 5<|SEP|> 6<|SEP|> 7<|SEP|> 8<|SEP|> 9<|SEP|> 10<|SEP|>0<|SEP|>1<|SEP|>2<|SEP|>3<|SEP|>4<|SEP|>5<|SEP|>6<|SEP|>7<|SEP|>8<|SEP|>9<|SEP|>10<|SEP|> you<|SEP|> You<|SEP|> There<|SEP|> This<|SEP|> That<|SEP|> His<|SEP|> Her<|SEP|> Their<|SEP|> In<|SEP|> None<|SEP|> Nobody<|SEP|> Nothing<|SEP|>, as<|SEP|>, who<|SEP|>, which<|SEP|>, is<|SEP|>, are<|SEP|>, both<|SEP|>, one<|SEP|>, his<|SEP|>, her<|SEP|>, their<|SEP|>, wearing<|SEP|>, with<|SEP|>"<|SEP|>'<|SEP|> is<|SEP|> are<|SEP|>(
+topP=0.9
+typicalP=1.0
+Eiffel tower: One of the largest structures in France and a great tourist attraction. It contains four legs and a long spire.
+List of friendly characters: Blonde man with a French accent, American tourist shouting loudly, well-dressed butler, Eiffel cafe chef, elevator doorman.
+Giant centipede's stomach: The insides of a giant centipede, with acid dripping down the stomach walls.
+List of friendly characters: The tapeworm, the good gut bacterium, the beetle, the slime entity, the talking hair follicle.
+Underwater city of Atlantis: Various creatures of all types, including octopii, mermaids and humans, congregate and trade goods in this butling underwater city.
+List of friendly characters: The Benevolent Octopus, the red-haired mermaid, the merchant selling exotic fish, the woman in scuba diving gear, the treasure-hunting mermaid.
+Gloom: The Gloom is a semi-secret underground headquarters for the Shadow Horde, a non-corporeal "race" of undead who have somehow managed to keep most of their necromantic powers while being bound to this realm.
+List of friendly characters:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', ' He', ' Him', ' His', ' She', ' Her', ' Hers', ' They', ' Them', ' Their', ' Theirs', ' It', ' Its', ' This', ' There', ' he', ' him', ' his', ' she', ' her', ' hers', ' they', ' them', ' their', ' theirs', ' it', ' its', ' this', ' there', ':', '...', ' 0', ' 1', ' 2', ' 3', ' 4', ' 5', ' 6', ' 7', ' 8', ' 9', ' 10', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', ' you', ' You', ' There', ' This', ' That', ' His', ' Her', ' Their', ' In', ' None', ' Nobody', ' Nothing', ', as', ', who', ', which', ', is', ', are', ', both', ', one', ', his', ', her', ', their', ', wearing', ', with', '"', "'", ' is', ' are', '(']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 302 and do sample of True
+pipe server returning text:  The Gloom itself, the ghost of an old man who controls the Gloom, the demon who rules the lower depths of the infernal realm,
+done writing
+done flushing
+waiting to read lines
+readLines2
+[e] Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+pipe server received text: temperature=0.75
+repetitionPenalty=1.05
+maxTokens=30
+minTokens=30
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|> He<|SEP|> Him<|SEP|> His<|SEP|> She<|SEP|> Her<|SEP|> Hers<|SEP|> They<|SEP|> Them<|SEP|> Their<|SEP|> Theirs<|SEP|> It<|SEP|> Its<|SEP|> This<|SEP|> There<|SEP|> he<|SEP|> him<|SEP|> his<|SEP|> she<|SEP|> her<|SEP|> hers<|SEP|> they<|SEP|> them<|SEP|> their<|SEP|> theirs<|SEP|> it<|SEP|> its<|SEP|> this<|SEP|> there<|SEP|>:<|SEP|>...<|SEP|> 0<|SEP|> 1<|SEP|> 2<|SEP|> 3<|SEP|> 4<|SEP|> 5<|SEP|> 6<|SEP|> 7<|SEP|> 8<|SEP|> 9<|SEP|> 10<|SEP|>0<|SEP|>1<|SEP|>2<|SEP|>3<|SEP|>4<|SEP|>5<|SEP|>6<|SEP|>7<|SEP|>8<|SEP|>9<|SEP|>10<|SEP|> you<|SEP|> You<|SEP|> There<|SEP|> This<|SEP|> That<|SEP|> His<|SEP|> Her<|SEP|> Their<|SEP|> In<|SEP|> None<|SEP|> Nobody<|SEP|> Nothing<|SEP|>, as<|SEP|>, who<|SEP|>, which<|SEP|>, is<|SEP|>, are<|SEP|>, both<|SEP|>, one<|SEP|>, his<|SEP|>, her<|SEP|>, their<|SEP|>, wearing<|SEP|>, with<|SEP|>"<|SEP|>'<|SEP|> is<|SEP|> are<|SEP|>(
+topP=0.9
+typicalP=1.0
+Eiffel tower: One of the largest structures in France and a great tourist attraction. It contains four legs and a long spire.
+List of evil enemies: The loud bratty child, the narcissistic tourist with selfie stick, the stealthy pickpocket, the scammers with a French accent.
+Giant centipede's stomach: The insides of a giant centipede, with acid dripping down the stomach walls.
+List of evil enemies: The stomach parasite, the gut bacteria, the acid reflux golem, the centipede larva.
+Bathroom in Chicago subway station: A large underground tunnel system that connects the various stations in the city. Bullet trains speed to and from the stations, and each platform is crowded with pedestrians, commuters and tourists.
+List of evil enemies: The hobo poop, the toilet monster, the large black widow spider, the belligerent person with constipation.
+Gloom: The Gloom is a semi-secret underground headquarters for the Shadow Horde, a non-corporeal "race" of undead who have somehow managed to keep most of their necromantic powers while being bound to this realm.
+List of evil enemies:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', ' He', ' Him', ' His', ' She', ' Her', ' Hers', ' They', ' Them', ' Their', ' Theirs', ' It', ' Its', ' This', ' There', ' he', ' him', ' his', ' she', ' her', ' hers', ' they', ' them', ' their', ' theirs', ' it', ' its', ' this', ' there', ':', '...', ' 0', ' 1', ' 2', ' 3', ' 4', ' 5', ' 6', ' 7', ' 8', ' 9', ' 10', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', ' you', ' You', ' There', ' This', ' That', ' His', ' Her', ' Their', ' In', ' None', ' Nobody', ' Nothing', ', as', ', who', ', which', ', is', ', are', ', both', ', one', ', his', ', her', ', their', ', wearing', ', with', '"', "'", ' is', ' are', '(']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 294 and do sample of True
+pipe server returning text:  The Gloom, the Dark Order, the Necromancer Lord.
+Nuro?: An ancient city-state that was at one time the most
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=1.05
+maxTokens=50
+minTokens=50
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+The world has gone to waste and most of the population is dead or hostile. You are currently living in a small town called Ashtown that is attempting to rebuild civilization again. It's not there yet though.
+You are a typical basement dweller, playing your Xbox and watching anime... or rather you used to be. When the internet was still in its infancy you used to watch it a lot and you would play games with your friends online. Due to recent events, you are currently half human.
+You have arrived at the tomb in the Gloom. Detailed visual description of the tomb:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 182 and do sample of True
+pipe server returning text:  The stone door is solid, but one of the stones seems to have been put there purposely to allow access. It is shaped like a coffin, but much wider and higher; it reminds you of a bookcase, only made of rock. Above the
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=1.05
+maxTokens=50
+minTokens=50
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+Giant insectoid queen in cavern description: A giant insectoid queen has a soft, throbbing pulsing torso. Its long antennae twitch and quiver, the sharp claws on its front limbs dig into the ground, and its three compound eyes open and close as it breathing.
+Monkey king in lush jungle description: Monkey with long slick fur and a pompous expression wearing a silver spiky crown. It smiles menacingly, and has long talons instead of fingernails.
+Belligerent drunk woman description: This old woman with tangled white hair reeks of alcohol and smells as if she hasn't showered in weeks. Her right hand is raised in the air holding a butcher's knife, and in her left hand is a screwdriver.
+Gloom in Gloom description:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 219 and do sample of True
+pipe server returning text:  A dark entrance to a massive underground cavern that is home to dozens of smaller caves and passages. The ceiling is low and crooked, and there are numerous small rocks and pebbles throughout the space. In the middle of the room is a small pool
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=1.05
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+[e] Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+Giant insectoid queen in cavern description: A giant insectoid queen has a soft, throbbing pulsing torso. Its long antennae twitch and quiver, the sharp claws on its front limbs dig into the ground, and its three compound eyes open and close as it breathing.
+Monkey king in lush jungle description: Monkey with long slick fur and a pompous expression wearing a silver spiky crown. It smiles menacingly, and has long talons instead of fingernails.
+Belligerent drunk woman description: This old woman with tangled white hair reeks of alcohol and smells as if she hasn't showered in weeks. Her right hand is raised in the air holding a butcher's knife, and in her left hand is a screwdriver.
+Dark Order in Gloom description:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 219 and do sample of True
+pipe server returning text:  This is a group of wizards who primarily use shadow magic. They all have pointy hats. The leader has a top hat decorated with a red plume, which he uses primarily for intimidation purposes. He is known as the Professor. Currently, he
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=1.05
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+[e] Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+Hipster pelican description: A pelican with an enormous yellow beak. It seems to be eyeing you with a condescending stare, and it's wearing a pair of hipster aviator sunglasses.
+Talking cactus in fantasy desert description: A large red cactus with branches on each side and a strange orifice in the middle comprising of two "lips", through which it can speak. Its spines are blue in color, and are much longer and thicker than those of a regular cactus.
+Street vendor in Istanbul description: A nice-looking lady wearing a purple turban frying up some lamb shishkebab on the grill. She's wearing an apron and blue jeans and seemes exhausted.
+ghost of an old man who controls the Gloom in Gloom description:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 221 and do sample of True
+pipe server returning text:  An incredibly old man with a long white beard and hair, who is sitting in front of his own mansion. He looks very tired. There are dark circles under his eyes and he doesn't seem to be wearing any clothes at all. When you approach
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=1.05
+maxTokens=16
+minTokens=16
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|> He<|SEP|> Him<|SEP|> His<|SEP|> She<|SEP|> Her<|SEP|> Hers<|SEP|> They<|SEP|> Them<|SEP|> Their<|SEP|> Theirs<|SEP|> It<|SEP|> Its<|SEP|> This<|SEP|> There<|SEP|> he<|SEP|> him<|SEP|> his<|SEP|> she<|SEP|> her<|SEP|> hers<|SEP|> they<|SEP|> them<|SEP|> their<|SEP|> theirs<|SEP|> it<|SEP|> its<|SEP|> this<|SEP|> there<|SEP|>:<|SEP|>...<|SEP|> 0<|SEP|> 1<|SEP|> 2<|SEP|> 3<|SEP|> 4<|SEP|> 5<|SEP|> 6<|SEP|> 7<|SEP|> 8<|SEP|> 9<|SEP|> 10<|SEP|>0<|SEP|>1<|SEP|>2<|SEP|>3<|SEP|>4<|SEP|>5<|SEP|>6<|SEP|>7<|SEP|>8<|SEP|>9<|SEP|>10<|SEP|> you<|SEP|> You<|SEP|> There<|SEP|> This<|SEP|> That<|SEP|> His<|SEP|> Her<|SEP|> Their<|SEP|> In<|SEP|> None<|SEP|> Nobody<|SEP|> Nothing<|SEP|>, as<|SEP|>, who<|SEP|>, which<|SEP|>, is<|SEP|>, are<|SEP|>, both<|SEP|>, one<|SEP|>, his<|SEP|>, her<|SEP|>, their<|SEP|>, wearing<|SEP|>, with<|SEP|>"<|SEP|>'<|SEP|> is<|SEP|> are<|SEP|>(
+topP=0.9
+typicalP=1.0
+Giant rat: A rat about as heavy as a human with two long fangs.
+Attacks: Viscious bite, quick attack, scratch, gnaw.
+Belligerent homeless person: A middle-aged man with blonde scraggly hair who hasn't showered in weeks. He wears a large tattered coat and is wielding a makeshift shank (knife) in each hand.
+Attacks: Knife slash, knife stab, bad breath, wild haymaker.
+Astronaut: A person wearing a thick insulating spacesuit and helmet with a gold-plated visor.
+Attacks: Jetpack attack, punch, kick, zero-G martial arts.
+Dark Order: This is a group of wizards who primarily use shadow magic. They all have pointy hats. The leader has a top hat decorated with a red plume, which he uses primarily for intimidation purposes. He is known as the Professor.
+Attacks:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', ' He', ' Him', ' His', ' She', ' Her', ' Hers', ' They', ' Them', ' Their', ' Theirs', ' It', ' Its', ' This', ' There', ' he', ' him', ' his', ' she', ' her', ' hers', ' they', ' them', ' their', ' theirs', ' it', ' its', ' this', ' there', ':', '...', ' 0', ' 1', ' 2', ' 3', ' 4', ' 5', ' 6', ' 7', ' 8', ' 9', ' 10', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', ' you', ' You', ' There', ' This', ' That', ' His', ' Her', ' Their', ' In', ' None', ' Nobody', ' Nothing', ', as', ', who', ', which', ', is', ', are', ', both', ', one', ', his', ', her', ', their', ', wearing', ', with', '"', "'", ' is', ' are', '(']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 231 and do sample of True
+pipe server returning text:  Unrelenting barrage of magic spells, face melting, body shattering.
+done writing
+done flushing
+waiting to read lines
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+[e] Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+pipe server received text: temperature=0.75
+repetitionPenalty=1.05
+maxTokens=50
+minTokens=50
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+Hipster pelican description: A pelican with an enormous yellow beak. It seems to be eyeing you with a condescending stare, and it's wearing a pair of hipster aviator sunglasses.
+Talking cactus in fantasy desert description: A large red cactus with branches on each side and a strange orifice in the middle comprising of two "lips", through which it can speak. Its spines are blue in color, and are much longer and thicker than those of a regular cactus.
+Street vendor in Istanbul description: A nice-looking lady wearing a purple turban frying up some lamb shishkebab on the grill. She's wearing an apron and blue jeans and seemes exhausted.
+Gloom itself in Gloom description:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 214 and do sample of True
+pipe server returning text:  A dark path leading down into the darkness of the forest. On both sides of the path, tall trees tower over you, preventing you from seeing anything more than a shadowy landscape, illuminated by a half dozen flashlights. In the middle of the path
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.63
+repetitionPenalty=1.05
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+minTokens=70
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|>\n<|SEP|>\n\n
+topP=0.99
+typicalP=1.0
+The world has gone to waste and most of the population is dead or hostile. You are currently living in a small town called Ashtown that is attempting to rebuild civilization again. It's not there yet though.
+You are a typical basement dweller, playing your Xbox and watching anime... or rather you used to be. When the internet was still in its infancy you used to watch it a lot and you would play games with your friends online. Due to recent events, you are currently half human.
+[The adventure begins]
+You and the space marine arrive at the Gloom: The Gloom is a semi-secret underground headquarters for the Shadow Horde, a non-corporeal "race" of undead who have somehow managed to keep most of their necromantic powers while being bound to this realm.
+You and the space marine have entered combat with the Dark Order: This is a group of wizards who primarily use shadow magic. They all have pointy hats. The leader has a top hat decorated with a red plume, which he uses primarily for intimidation purposes. He is known as the Professor.
+You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human].
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', '\n', '\n\n']
+eloworld gothere1
+1calling with temperature of 0.63 and max_length of 342 and do sample of True
+pipe server returning text:  However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness.
+ 
+ 
+ 
+ 
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+[e] Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=1.05
+maxTokens=50
+minTokens=50
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+The world has gone to waste and most of the population is dead or hostile. You are currently living in a small town called Ashtown that is attempting to rebuild civilization again. It's not there yet though.
+You are a typical basement dweller, playing your Xbox and watching anime... or rather you used to be. When the internet was still in its infancy you used to watch it a lot and you would play games with your friends online. Due to recent events, you are currently half human.
+You have arrived at the Secret lab in the Gloom. Detailed visual description of the Secret lab:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 184 and do sample of True
+pipe server returning text:  Gloom looks pretty damn bleak. There is a big metal gate with a heavy duty door attached. The door has a window made of solid black material with an eye shaped hole in it. There is also a big sign that reads "Stranger,
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. [You are now
+eloworld debug: ['>']
+eloworld gothere1
+ completely<|SEP1|>0.4897209703922272<|SEP2|>
+ fully<|SEP1|>0.43217724561691284<|SEP2|>
+ entirely<|SEP1|>0.03082144819200039<|SEP2|>
+ back<|SEP1|>0.015497995540499687<|SEP2|>
+ Dead<|SEP1|>0.009548040106892586<|SEP2|>
+ awake<|SEP1|>0.0017118691466748714<|SEP2|>
+ technically<|SEP1|>0.0017118691466748714<|SEP2|>
+ dead<|SEP1|>0.0015586746158078313<|SEP2|>
+ Fully<|SEP1|>0.0015107191866263747<|SEP2|>
+ at<|SEP1|>0.0012330131139606237<|SEP2|>
+pipe server returning text:  completely<|SEP1|>0.4897209703922272<|SEP2|> fully<|SEP1|>0.43217724561691284<|SEP2|> entirely<|SEP1|>0.03082144819200039<|SEP2|> back<|SEP1|>0.015497995540499687<|SEP2|> Dead<|SEP1|>0.009548040106892586<|SEP2|> awake<|SEP1|>0.0017118691466748714<|SEP2|> technically<|SEP1|>0.0017118691466748714<|SEP2|> dead<|SEP1|>0.0015586746158078313<|SEP2|> Fully<|SEP1|>0.0015107191866263747<|SEP2|> at<|SEP1|>0.0012330131139606237<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. [You have been
+eloworld debug: ['>']
+eloworld gothere1
+ killed<|SEP1|>0.9889699220657349<|SEP2|>
+ Killed<|SEP1|>0.0058806296437978745<|SEP2|>
+ assassinated<|SEP1|>0.0018504223553463817<|SEP2|>
+ slain<|SEP1|>0.0015340540558099747<|SEP2|>
+ Dead<|SEP1|>0.0002583768218755722<|SEP2|>
+ murdered<|SEP1|>0.00018610186816658825<|SEP2|>
+ KILL<|SEP1|>0.00012790581968147308<|SEP2|>
+ defeated<|SEP1|>0.00012015639367746189<|SEP2|>
+ rendered<|SEP1|>0.00011465403804322705<|SEP2|>
+killed<|SEP1|>7.287853804882616e-05<|SEP2|>
+pipe server returning text:  killed<|SEP1|>0.9889699220657349<|SEP2|> Killed<|SEP1|>0.0058806296437978745<|SEP2|> assassinated<|SEP1|>0.0018504223553463817<|SEP2|> slain<|SEP1|>0.0015340540558099747<|SEP2|> Dead<|SEP1|>0.0002583768218755722<|SEP2|> murdered<|SEP1|>0.00018610186816658825<|SEP2|> KILL<|SEP1|>0.00012790581968147308<|SEP2|> defeated<|SEP1|>0.00012015639367746189<|SEP2|> rendered<|SEP1|>0.00011465403804322705<|SEP2|>killed<|SEP1|>7.287853804882616e-05<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. [The Dark Order is now
+eloworld debug: ['>']
+eloworld gothere1
+ in<|SEP1|>0.8738976120948792<|SEP2|>
+ comprised<|SEP1|>0.008567390963435173<|SEP2|>
+ firmly<|SEP1|>0.006992500741034746<|SEP2|>
+ back<|SEP1|>0.006467005703598261<|SEP2|>
+ the<|SEP1|>0.0058882758021354675<|SEP2|>
+ complete<|SEP1|>0.005796986632049084<|SEP2|>
+ completely<|SEP1|>0.005237141158431768<|SEP2|>
+ on<|SEP1|>0.005036509595811367<|SEP2|>
+ led<|SEP1|>0.0030074368696659803<|SEP2|>
+ known<|SEP1|>0.0021325922571122646<|SEP2|>
+pipe server returning text:  in<|SEP1|>0.8738976120948792<|SEP2|> comprised<|SEP1|>0.008567390963435173<|SEP2|> firmly<|SEP1|>0.006992500741034746<|SEP2|> back<|SEP1|>0.006467005703598261<|SEP2|> the<|SEP1|>0.0058882758021354675<|SEP2|> complete<|SEP1|>0.005796986632049084<|SEP2|> completely<|SEP1|>0.005237141158431768<|SEP2|> on<|SEP1|>0.005036509595811367<|SEP2|> led<|SEP1|>0.0030074368696659803<|SEP2|> known<|SEP1|>0.0021325922571122646<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. [The Dark Order has been
+eloworld debug: ['>']
+eloworld gothere1
+ training<|SEP1|>0.12254830449819565<|SEP2|>
+ working<|SEP1|>0.12064837664365768<|SEP2|>
+ known<|SEP1|>0.1133386492729187<|SEP2|>
+ trained<|SEP1|>0.07549982517957687<|SEP2|>
+ watching<|SEP1|>0.0709255188703537<|SEP2|>
+ preparing<|SEP1|>0.05189022049307823<|SEP2|>
+ studying<|SEP1|>0.039785608649253845<|SEP2|>
+ planning<|SEP1|>0.03679567202925682<|SEP2|>
+ manipulating<|SEP1|>0.03350284323096275<|SEP2|>
+ found<|SEP1|>0.031473007053136826<|SEP2|>
+pipe server returning text:  training<|SEP1|>0.12254830449819565<|SEP2|> working<|SEP1|>0.12064837664365768<|SEP2|> known<|SEP1|>0.1133386492729187<|SEP2|> trained<|SEP1|>0.07549982517957687<|SEP2|> watching<|SEP1|>0.0709255188703537<|SEP2|> preparing<|SEP1|>0.05189022049307823<|SEP2|> studying<|SEP1|>0.039785608649253845<|SEP2|> planning<|SEP1|>0.03679567202925682<|SEP2|> manipulating<|SEP1|>0.03350284323096275<|SEP2|> found<|SEP1|>0.031473007053136826<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. [They are trying to be
+eloworld debug: ['>']
+eloworld gothere1
+ careful<|SEP1|>0.4090907573699951<|SEP2|>
+ patient<|SEP1|>0.19937491416931152<|SEP2|>
+ kind<|SEP1|>0.05893511325120926<|SEP2|>
+ polite<|SEP1|>0.05450607091188431<|SEP2|>
+ gentle<|SEP1|>0.035745952278375626<|SEP2|>
+ cautious<|SEP1|>0.018836794421076775<|SEP2|>
+ nice<|SEP1|>0.01715109497308731<|SEP2|>
+ discreet<|SEP1|>0.016885193064808846<|SEP2|>
+ as<|SEP1|>0.014670109376311302<|SEP2|>
+ delicate<|SEP1|>0.014442670159041882<|SEP2|>
+pipe server returning text:  careful<|SEP1|>0.4090907573699951<|SEP2|> patient<|SEP1|>0.19937491416931152<|SEP2|> kind<|SEP1|>0.05893511325120926<|SEP2|> polite<|SEP1|>0.05450607091188431<|SEP2|> gentle<|SEP1|>0.035745952278375626<|SEP2|> cautious<|SEP1|>0.018836794421076775<|SEP2|> nice<|SEP1|>0.01715109497308731<|SEP2|> discreet<|SEP1|>0.016885193064808846<|SEP2|> as<|SEP1|>0.014670109376311302<|SEP2|> delicate<|SEP1|>0.014442670159041882<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. The gloom is
+eloworld debug: ['>']
+eloworld gothere1
+ now<|SEP1|>0.2805536985397339<|SEP2|>
+ filled<|SEP1|>0.23997031152248383<|SEP2|>
+ then<|SEP1|>0.13252419233322144<|SEP2|>
+ thick<|SEP1|>0.03350736200809479<|SEP2|>
+ back<|SEP1|>0.02777857892215252<|SEP2|>
+ pierced<|SEP1|>0.027347911149263382<|SEP2|>
+ complete<|SEP1|>0.02650650590658188<|SEP2|>
+ at<|SEP1|>0.018504522740840912<|SEP2|>
+ total<|SEP1|>0.016330182552337646<|SEP2|>
+ comforting<|SEP1|>0.013328307308256626<|SEP2|>
+pipe server returning text:  now<|SEP1|>0.2805536985397339<|SEP2|> filled<|SEP1|>0.23997031152248383<|SEP2|> then<|SEP1|>0.13252419233322144<|SEP2|> thick<|SEP1|>0.03350736200809479<|SEP2|> back<|SEP1|>0.02777857892215252<|SEP2|> pierced<|SEP1|>0.027347911149263382<|SEP2|> complete<|SEP1|>0.02650650590658188<|SEP2|> at<|SEP1|>0.018504522740840912<|SEP2|> total<|SEP1|>0.016330182552337646<|SEP2|> comforting<|SEP1|>0.013328307308256626<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+You then try attacking the Dark Order with your Transcendental Meditation of the Red Dragon [you are currently half human]. However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. [new
+eloworld debug: ['>']
+eloworld gothere1
+ day<|SEP1|>0.15333996713161469<|SEP2|>
+ event<|SEP1|>0.09900373220443726<|SEP2|>
+]<|SEP1|>0.08737047761678696<|SEP2|>
+ story<|SEP1|>0.06195494905114174<|SEP2|>
+ record<|SEP1|>0.05467505380511284<|SEP2|>
+ paragraph<|SEP1|>0.03530086576938629<|SEP2|>
+ development<|SEP1|>0.02706611342728138<|SEP2|>
+ chapter<|SEP1|>0.025426259264349937<|SEP2|>
+ scene<|SEP1|>0.023885762318968773<|SEP2|>
+ hero<|SEP1|>0.023885762318968773<|SEP2|>
+pipe server returning text:  day<|SEP1|>0.15333996713161469<|SEP2|> event<|SEP1|>0.09900373220443726<|SEP2|>]<|SEP1|>0.08737047761678696<|SEP2|> story<|SEP1|>0.06195494905114174<|SEP2|> record<|SEP1|>0.05467505380511284<|SEP2|> paragraph<|SEP1|>0.03530086576938629<|SEP2|> development<|SEP1|>0.02706611342728138<|SEP2|> chapter<|SEP1|>0.025426259264349937<|SEP2|> scene<|SEP1|>0.023885762318968773<|SEP2|> hero<|SEP1|>0.023885762318968773<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+maxTokens=20
+minTokens=20
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|> He<|SEP|> Him<|SEP|> His<|SEP|> She<|SEP|> Her<|SEP|> Hers<|SEP|> They<|SEP|> Them<|SEP|> Their<|SEP|> Theirs<|SEP|> It<|SEP|> Its<|SEP|> This<|SEP|> There<|SEP|> he<|SEP|> him<|SEP|> his<|SEP|> she<|SEP|> her<|SEP|> hers<|SEP|> they<|SEP|> them<|SEP|> their<|SEP|> theirs<|SEP|> it<|SEP|> its<|SEP|> this<|SEP|> there<|SEP|>:<|SEP|>...<|SEP|> 0<|SEP|> 1<|SEP|> 2<|SEP|> 3<|SEP|> 4<|SEP|> 5<|SEP|> 6<|SEP|> 7<|SEP|> 8<|SEP|> 9<|SEP|> 10<|SEP|>0<|SEP|>1<|SEP|>2<|SEP|>3<|SEP|>4<|SEP|>5<|SEP|>6<|SEP|>7<|SEP|>8<|SEP|>9<|SEP|>10<|SEP|> you<|SEP|> You<|SEP|> There<|SEP|> This<|SEP|> That<|SEP|> His<|SEP|> Her<|SEP|> Their<|SEP|> In<|SEP|> None<|SEP|> Nobody<|SEP|> Nothing<|SEP|>, as<|SEP|>, who<|SEP|>, which<|SEP|>, is<|SEP|>, are<|SEP|>, both<|SEP|>, one<|SEP|>, his<|SEP|>, her<|SEP|>, their<|SEP|>, wearing<|SEP|>, with<|SEP|>"<|SEP|>'<|SEP|> is<|SEP|> are<|SEP|>(<|SEP|>,
+topP=0.95
+typicalP=1.0
+However, they easily see your attack coming and prepare a simple but effective screen to deflect the Professor's magic. The TM of the Red Dragon acts like a bullseye - they simply surround you with a cloud of deadly fog. The last thing you remember is your lungs filling with water as you lapse into unconsciousness. (New visual description: The Gloom is now
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', ' He', ' Him', ' His', ' She', ' Her', ' Hers', ' They', ' Them', ' Their', ' Theirs', ' It', ' Its', ' This', ' There', ' he', ' him', ' his', ' she', ' her', ' hers', ' they', ' them', ' their', ' theirs', ' it', ' its', ' this', ' there', ':', '...', ' 0', ' 1', ' 2', ' 3', ' 4', ' 5', ' 6', ' 7', ' 8', ' 9', ' 10', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', ' you', ' You', ' There', ' This', ' That', ' His', ' Her', ' Their', ' In', ' None', ' Nobody', ' Nothing', ', as', ', who', ', which', ', is', ', are', ', both', ', one', ', his', ', her', ', their', ', wearing', ', with', '"', "'", ' is', ' are', '(', ',']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 109 and do sample of True
+pipe server returning text:  filled with a lethal mist that kills instantly)
+Nowadays your body lies in the Tomb of
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=1.05
+maxTokens=15
+minTokens=15
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|> He<|SEP|> Him<|SEP|> His<|SEP|> She<|SEP|> Her<|SEP|> Hers<|SEP|> They<|SEP|> Them<|SEP|> Their<|SEP|> Theirs<|SEP|> It<|SEP|> Its<|SEP|> This<|SEP|> There<|SEP|> he<|SEP|> him<|SEP|> his<|SEP|> she<|SEP|> her<|SEP|> hers<|SEP|> they<|SEP|> them<|SEP|> their<|SEP|> theirs<|SEP|> it<|SEP|> its<|SEP|> this<|SEP|> there<|SEP|>:<|SEP|>...<|SEP|> 0<|SEP|> 1<|SEP|> 2<|SEP|> 3<|SEP|> 4<|SEP|> 5<|SEP|> 6<|SEP|> 7<|SEP|> 8<|SEP|> 9<|SEP|> 10<|SEP|>0<|SEP|>1<|SEP|>2<|SEP|>3<|SEP|>4<|SEP|>5<|SEP|>6<|SEP|>7<|SEP|>8<|SEP|>9<|SEP|>10<|SEP|> you<|SEP|> You<|SEP|> There<|SEP|> This<|SEP|> That<|SEP|> His<|SEP|> Her<|SEP|> Their<|SEP|> In<|SEP|> None<|SEP|> Nobody<|SEP|> Nothing<|SEP|>, as<|SEP|>, who<|SEP|>, which<|SEP|>, is<|SEP|>, are<|SEP|>, both<|SEP|>, one<|SEP|>, his<|SEP|>, her<|SEP|>, their<|SEP|>, wearing<|SEP|>, with<|SEP|>"<|SEP|>'<|SEP|> is<|SEP|> are<|SEP|>(
+topP=0.9
+typicalP=1.0
+Mad scientist: Man with a long nose wearing glasses in a lab coat.
+Items from the mad scientist: Test tube, research notes, old lab coat.
+Giant rat: A rat about as heavy as a human with two long fangs.
+Items from the giant rat: Liver, tooth fragment, rat hair.
+Belligerent homeless person: Homeless man with brown beard sporting a white wig tied around his head leaving him looking more than a little crazy. He wears sunglasses and a leather jacket underneath he carries a sawed off rifle slung over either shoulder along with a small knife strapped to both hands holding a bag containing food and water.
+Items from the belligerent homeless person: Sunglasses, tattered jacket, empty whiskey bottle.
+Dark Order: This is a group of wizards who primarily use shadow magic. They all have pointy hats. The leader has a top hat decorated with a red plume, which he uses primarily for intimidation purposes. He is known as the Professor.
+Items from the Dark Order:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', ' He', ' Him', ' His', ' She', ' Her', ' Hers', ' They', ' Them', ' Their', ' Theirs', ' It', ' Its', ' This', ' There', ' he', ' him', ' his', ' she', ' her', ' hers', ' they', ' them', ' their', ' theirs', ' it', ' its', ' this', ' there', ':', '...', ' 0', ' 1', ' 2', ' 3', ' 4', ' 5', ' 6', ' 7', ' 8', ' 9', ' 10', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', ' you', ' You', ' There', ' This', ' That', ' His', ' Her', ' Their', ' In', ' None', ' Nobody', ' Nothing', ', as', ', who', ', which', ', is', ', are', ', both', ', one', ', his', ', her', ', their', ', wearing', ', with', '"', "'", ' is', ' are', '(']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 243 and do sample of True
+pipe server returning text:  Top Hat, Pipe, Books on Magic.
+Necktie party
+done writing
+done flushing
+[e] The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+[e] Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=1.05
+maxTokens=15
+minTokens=15
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|> He<|SEP|> Him<|SEP|> His<|SEP|> She<|SEP|> Her<|SEP|> Hers<|SEP|> They<|SEP|> Them<|SEP|> Their<|SEP|> Theirs<|SEP|> It<|SEP|> Its<|SEP|> This<|SEP|> There<|SEP|> he<|SEP|> him<|SEP|> his<|SEP|> she<|SEP|> her<|SEP|> hers<|SEP|> they<|SEP|> them<|SEP|> their<|SEP|> theirs<|SEP|> it<|SEP|> its<|SEP|> this<|SEP|> there<|SEP|>:<|SEP|>...<|SEP|> 0<|SEP|> 1<|SEP|> 2<|SEP|> 3<|SEP|> 4<|SEP|> 5<|SEP|> 6<|SEP|> 7<|SEP|> 8<|SEP|> 9<|SEP|> 10<|SEP|>0<|SEP|>1<|SEP|>2<|SEP|>3<|SEP|>4<|SEP|>5<|SEP|>6<|SEP|>7<|SEP|>8<|SEP|>9<|SEP|>10<|SEP|> you<|SEP|> You<|SEP|> There<|SEP|> This<|SEP|> That<|SEP|> His<|SEP|> Her<|SEP|> Their<|SEP|> In<|SEP|> None<|SEP|> Nobody<|SEP|> Nothing<|SEP|>, as<|SEP|>, who<|SEP|>, which<|SEP|>, is<|SEP|>, are<|SEP|>, both<|SEP|>, one<|SEP|>, his<|SEP|>, her<|SEP|>, their<|SEP|>, wearing<|SEP|>, with<|SEP|>"<|SEP|>'<|SEP|> is<|SEP|> are<|SEP|>(
+topP=0.9
+typicalP=1.0
+Mad scientist: Man with a long nose wearing glasses in a lab coat.
+Items from the mad scientist: Test tube, research notes, old lab coat.
+Giant rat: A rat about as heavy as a human with two long fangs.
+Items from the giant rat: Liver, tooth fragment, rat hair.
+Belligerent homeless person: Homeless man with brown beard sporting a white wig tied around his head leaving him looking more than a little crazy. He wears sunglasses and a leather jacket underneath he carries a sawed off rifle slung over either shoulder along with a small knife strapped to both hands holding a bag containing food and water.
+Items from the belligerent homeless person: Sunglasses, tattered jacket, empty whiskey bottle.
+Dark Order: This is a group of wizards who primarily use shadow magic. They all have pointy hats. The leader has a top hat decorated with a red plume, which he uses primarily for intimidation purposes. He is known as the Professor.
+Items from the Dark Order:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', ' He', ' Him', ' His', ' She', ' Her', ' Hers', ' They', ' Them', ' Their', ' Theirs', ' It', ' Its', ' This', ' There', ' he', ' him', ' his', ' she', ' her', ' hers', ' they', ' them', ' their', ' theirs', ' it', ' its', ' this', ' there', ':', '...', ' 0', ' 1', ' 2', ' 3', ' 4', ' 5', ' 6', ' 7', ' 8', ' 9', ' 10', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', ' you', ' You', ' There', ' This', ' That', ' His', ' Her', ' Their', ' In', ' None', ' Nobody', ' Nothing', ', as', ', who', ', which', ', is', ', are', ', both', ', one', ', his', ', her', ', their', ', wearing', ', with', '"', "'", ' is', ' are', '(']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 243 and do sample of True
+pipe server returning text:  Top hat, red cloak, pointy black hats, books on Witchcraft
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+How to equip: The top hat can be
+eloworld debug: ['>']
+eloworld gothere1
+ equipped<|SEP1|>0.395569384098053<|SEP2|>
+ obtained<|SEP1|>0.11157546192407608<|SEP2|>
+ acquired<|SEP1|>0.09693844616413116<|SEP2|>
+ found<|SEP1|>0.06982214003801346<|SEP2|>
+ bought<|SEP1|>0.0676739439368248<|SEP2|>
+ used<|SEP1|>0.04874370992183685<|SEP2|>
+ either<|SEP1|>0.015579425729811192<|SEP2|>
+ anything<|SEP1|>0.01463551726192236<|SEP2|>
+ combined<|SEP1|>0.01463551726192236<|SEP2|>
+ unlocked<|SEP1|>0.014408613555133343<|SEP2|>
+pipe server returning text:  equipped<|SEP1|>0.395569384098053<|SEP2|> obtained<|SEP1|>0.11157546192407608<|SEP2|> acquired<|SEP1|>0.09693844616413116<|SEP2|> found<|SEP1|>0.06982214003801346<|SEP2|> bought<|SEP1|>0.0676739439368248<|SEP2|> used<|SEP1|>0.04874370992183685<|SEP2|> either<|SEP1|>0.015579425729811192<|SEP2|> anything<|SEP1|>0.01463551726192236<|SEP2|> combined<|SEP1|>0.01463551726192236<|SEP2|> unlocked<|SEP1|>0.014408613555133343<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=1.05
+maxTokens=50
+minTokens=50
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+T-shirt with WTF on it description: A plain white T-shirt with nothing but the big letters "WTF" in front, written in black.
+Ancient dagger description: An ornate dagger with a straight sharp blade and golden hilt. The blade is faintly blue, etched with some rune-like markings.
+Stinger rocket launcher description: A hand-held rocket launching device consisting of a long tube and an orifice at the top for the rocket-propelled grenade. Cumbersome, yet very effective.
+Hipster sunglasses description: Stylish aviator sunglasses with mirrored lenses.
+Top Hat description:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 187 and do sample of True
+pipe server returning text:  A hat made to look like a bucket with a hole in the top for your head and a long tail attached. Funny item to wear in hot weather. Also acts as a parasol when you carry it. #winning#LOL.Comfy
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+How to use: The top hat can be
+eloworld debug: ['>']
+eloworld gothere1
+ used<|SEP1|>0.2456456422805786<|SEP2|>
+ worn<|SEP1|>0.20685437321662903<|SEP2|>
+ opened<|SEP1|>0.11786206066608429<|SEP2|>
+ pulled<|SEP1|>0.07491768151521683<|SEP2|>
+ put<|SEP1|>0.044735394418239594<|SEP2|>
+ bought<|SEP1|>0.038866788148880005<|SEP2|>
+ don<|SEP1|>0.023208416998386383<|SEP2|>
+ inserted<|SEP1|>0.022494368255138397<|SEP2|>
+ found<|SEP1|>0.015950897708535194<|SEP2|>
+ tricky<|SEP1|>0.011669924482703209<|SEP2|>
+pipe server returning text:  used<|SEP1|>0.2456456422805786<|SEP2|> worn<|SEP1|>0.20685437321662903<|SEP2|> opened<|SEP1|>0.11786206066608429<|SEP2|> pulled<|SEP1|>0.07491768151521683<|SEP2|> put<|SEP1|>0.044735394418239594<|SEP2|> bought<|SEP1|>0.038866788148880005<|SEP2|> don<|SEP1|>0.023208416998386383<|SEP2|> inserted<|SEP1|>0.022494368255138397<|SEP2|> found<|SEP1|>0.015950897708535194<|SEP2|> tricky<|SEP1|>0.011669924482703209<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+How to equip: The top hat can be
+eloworld debug: ['>']
+eloworld gothere1
+ equipped<|SEP1|>0.395569384098053<|SEP2|>
+ obtained<|SEP1|>0.11157546192407608<|SEP2|>
+ acquired<|SEP1|>0.09693844616413116<|SEP2|>
+ found<|SEP1|>0.06982214003801346<|SEP2|>
+ bought<|SEP1|>0.0676739439368248<|SEP2|>
+ used<|SEP1|>0.04874370992183685<|SEP2|>
+ either<|SEP1|>0.015579425729811192<|SEP2|>
+ anything<|SEP1|>0.01463551726192236<|SEP2|>
+ combined<|SEP1|>0.01463551726192236<|SEP2|>
+ unlocked<|SEP1|>0.014408613555133343<|SEP2|>
+pipe server returning text:  equipped<|SEP1|>0.395569384098053<|SEP2|> obtained<|SEP1|>0.11157546192407608<|SEP2|> acquired<|SEP1|>0.09693844616413116<|SEP2|> found<|SEP1|>0.06982214003801346<|SEP2|> bought<|SEP1|>0.0676739439368248<|SEP2|> used<|SEP1|>0.04874370992183685<|SEP2|> either<|SEP1|>0.015579425729811192<|SEP2|> anything<|SEP1|>0.01463551726192236<|SEP2|> combined<|SEP1|>0.01463551726192236<|SEP2|> unlocked<|SEP1|>0.014408613555133343<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.5
+repetitionPenalty=1
+maxTokens=1
+minTokens=1
+doSample=0
+topScores=10
+disallowedTokens=>
+How to use: The top hat can be
+eloworld debug: ['>']
+eloworld gothere1
+ used<|SEP1|>0.2456456422805786<|SEP2|>
+ worn<|SEP1|>0.20685437321662903<|SEP2|>
+ opened<|SEP1|>0.11786206066608429<|SEP2|>
+ pulled<|SEP1|>0.07491768151521683<|SEP2|>
+ put<|SEP1|>0.044735394418239594<|SEP2|>
+ bought<|SEP1|>0.038866788148880005<|SEP2|>
+ don<|SEP1|>0.023208416998386383<|SEP2|>
+ inserted<|SEP1|>0.022494368255138397<|SEP2|>
+ found<|SEP1|>0.015950897708535194<|SEP2|>
+ tricky<|SEP1|>0.011669924482703209<|SEP2|>
+pipe server returning text:  used<|SEP1|>0.2456456422805786<|SEP2|> worn<|SEP1|>0.20685437321662903<|SEP2|> opened<|SEP1|>0.11786206066608429<|SEP2|> pulled<|SEP1|>0.07491768151521683<|SEP2|> put<|SEP1|>0.044735394418239594<|SEP2|> bought<|SEP1|>0.038866788148880005<|SEP2|> don<|SEP1|>0.023208416998386383<|SEP2|> inserted<|SEP1|>0.022494368255138397<|SEP2|> found<|SEP1|>0.015950897708535194<|SEP2|> tricky<|SEP1|>0.011669924482703209<|SEP2|>
+done writing
+done flushing
+waiting to read lines
+readLines2
+readLines3
+pipe server received text: temperature=0.75
+repetitionPenalty=1.05
+maxTokens=50
+minTokens=50
+doSample=1
+topScores=0
+disallowedTokens= [<|SEP|>[<|SEP|><<|SEP|>><|SEP|> http<|SEP|> https<|SEP|> www<|SEP|>*<|SEP|> *<|SEP|>***<|SEP|> ***<|SEP|><|endoftext|><|SEP|> I<|SEP|> Me<|SEP|> Mine<|SEP|> My<|SEP|> me<|SEP|> mine<|SEP|> my<|SEP|>\n<|SEP|>\n\n<|SEP|>(<|SEP|> (
+topP=0.98
+T-shirt with WTF on it description: A plain white T-shirt with nothing but the big letters "WTF" in front, written in black.
+Ancient dagger description: An ornate dagger with a straight sharp blade and golden hilt. The blade is faintly blue, etched with some rune-like markings.
+Stinger rocket launcher description: A hand-held rocket launching device consisting of a long tube and an orifice at the top for the rocket-propelled grenade. Cumbersome, yet very effective.
+Hipster sunglasses description: Stylish aviator sunglasses with mirrored lenses.
+Top hat description:
+eloworld debug: [' [', '[', '<', '>', ' http', ' https', ' www', '*', ' *', '***', ' ***', '<|endoftext|>', ' I', ' Me', ' Mine', ' My', ' me', ' mine', ' my', '\n', '\n\n', '(', ' (']
+eloworld gothere1
+1calling with temperature of 0.75 and max_length of 187 and do sample of True
+pipe server returning text:  A hat that's just a flat circle with a hole in it. Belonged to Oswald, now defunct.                           
+done writing
+done flushing
+waiting to read lines
+readLines2
+
+
+
+vqganLogStr: 
+
+
+/1 [00:03<00:00,  3.91s/it]
+eloworld gothere3, 40, 512, 512, C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5\247fd700-78eb-46b3-be68-14a8db8bde8f_unfinished.png, (Ultra HD Airbrushed Oil Painting) Secret lab: Gloom looks pretty damn bleak. There is a big metal gate with a heavy duty door attached. The door has a window made of solid black material with an eye shaped hole in it. 
+done with other stuffs0.
+done with other stuffs1.
+done with other stuffs9.
+Data shape for PLMS sampling is (1, 4, 64, 64)
+Running PLMS Sampling with 40 timesteps
+[e] PLMS Sampler:   0%|          | 0/40 [00:00<?, ?it/s][A[A
+[e] PLMS Sampler:   2%|2         | 1/40 [00:00<00:07,  5.42it/s][A[A
+[e] PLMS Sampler:   8%|7         | 3/40 [00:00<00:04,  9.08it/s][A[A
+[e] PLMS Sampler:  12%|#2        | 5/40 [00:00<00:03, 10.23it/s][A[A
+[e] PLMS Sampler:  18%|#7        | 7/40 [00:00<00:03, 10.93it/s][A[A
+[e] PLMS Sampler:  22%|##2       | 9/40 [00:00<00:02, 11.17it/s][A[A
+[e] PLMS Sampler:  28%|##7       | 11/40 [00:01<00:02, 11.47it/s][A[A
+[e] PLMS Sampler:  32%|###2      | 13/40 [00:01<00:02, 11.47it/s][A[A
+[e] PLMS Sampler:  38%|###7      | 15/40 [00:01<00:02, 11.53it/s][A[A
+[e] PLMS Sampler:  42%|####2     | 17/40 [00:01<00:01, 11.66it/s][A[A
+[e] PLMS Sampler:  48%|####7     | 19/40 [00:01<00:01, 11.59it/s][A[A
+[e] PLMS Sampler:  52%|#####2    | 21/40 [00:02<00:02,  8.73it/s][A[A
+[e] PLMS Sampler:  57%|#####7    | 23/40 [00:02<00:01,  9.44it/s][A[A
+[e] PLMS Sampler:  62%|######2   | 25/40 [00:02<00:01, 10.00it/s][A[A
+[e] PLMS Sampler:  68%|######7   | 27/40 [00:02<00:01, 10.42it/s][A[A
+[e] PLMS Sampler:  72%|#######2  | 29/40 [00:02<00:01, 10.73it/s][A[A
+[e] PLMS Sampler:  78%|#######7  | 31/40 [00:02<00:00, 10.90it/s][A[A
+[e] PLMS Sampler:  82%|########2 | 33/40 [00:03<00:00, 11.10it/s][A[A
+[e] PLMS Sampler:  88%|########7 | 35/40 [00:03<00:00, 11.27it/s][A[A
+[e] PLMS Sampler:  92%|#########2| 37/40 [00:03<00:00, 11.29it/s][A[A
+save_img1 base_count: 1
+[e] PLMS Sampler: 100%|##########| 40/40 [00:03<00:00, 10.73it/s]
+[e] data: 100%|##########| 1/1 [00:03<00:00,  3.93s/it][A
+finished generating: C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5\247fd700-78eb-46b3-be68-14a8db8bde8f_unfinished.png
+got here0 base_count: 2
+eloworld gothere3, 30, 512, 512, C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5\e77cf6f5-2891-4cf5-964d-83d02ad3129f_unfinished.png, (Ultra HD Airbrushed Oil Painting) Top Hat: A hat made to look like a bucket with a hole in the top for your head and a long tail attached. Funny item to wear in hot weather. Also acts as a parasol when you carry it. #winning#LOL.
+done with other stuffs0.
+[e] Sampling: 100%|##########| 1/1 [00:03<00:00,  3.93s/it]
+[e] Sampling:   0%|          | 0/1 [00:00<?, ?it/s]
+Data shape for PLMS sampling is (1, 4, 64, 64)
+Running PLMS Sampling with 31 timesteps
+[e] PLMS Sampler:   0%|          | 0/31 [00:00<?, ?it/s][A[A
+[e] PLMS Sampler:   3%|3         | 1/31 [00:00<00:05,  5.59it/s][A[A
+[e] PLMS Sampler:  10%|9         | 3/31 [00:00<00:03,  9.28it/s][A[A
+[e] PLMS Sampler:  16%|#6        | 5/31 [00:00<00:02, 10.54it/s][A[A
+[e] PLMS Sampler:  23%|##2       | 7/31 [00:00<00:02, 11.63it/s][A[A
+[e] PLMS Sampler:  29%|##9       | 9/31 [00:00<00:01, 12.23it/s][A[A
+[e] PLMS Sampler:  35%|###5      | 11/31 [00:00<00:01, 12.61it/s][A[A
+[e] PLMS Sampler:  42%|####1     | 13/31 [00:01<00:01, 12.99it/s][A[A
+[e] PLMS Sampler:  48%|####8     | 15/31 [00:01<00:01, 13.21it/s][A[A
+[e] PLMS Sampler:  55%|#####4    | 17/31 [00:01<00:01, 13.39it/s][A[A
+[e] PLMS Sampler:  61%|######1   | 19/31 [00:01<00:00, 13.53it/s][A[A
+[e] PLMS Sampler:  68%|######7   | 21/31 [00:01<00:00, 10.04it/s][A[A
+[e] PLMS Sampler:  74%|#######4  | 23/31 [00:01<00:00, 10.92it/s][A[A
+[e] PLMS Sampler:  81%|########  | 25/31 [00:02<00:00, 11.61it/s][A[A
+[e] PLMS Sampler:  87%|########7 | 27/31 [00:02<00:00, 12.14it/s][A[A
+[e] PLMS Sampler:  94%|#########3| 29/31 [00:02<00:00, 12.46it/s][A[A
+[e] PLMS Sampler: 100%|##########| 31/31 [00:02<00:00,  9.83it/s][A[A
+[e] PLMS Sampler: 100%|##########| 31/31 [00:02<00:00, 11.28it/s]
+[e] data: 100%|##########| 1/1 [00:02<00:00,  2.94s/it][A
+[e] data: 100%|##########| 1/1 [00:02<00:00,  2.94s/it]
+[e] Sampling: 100%|##########| 1/1 [00:02<00:00,  2.94s/it]
+eloworld gothere3, 40, 512, 512, C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5\72f9e2b5-92f5-4ad9-bacb-4a812fb9d588_unfinished.png, (Ultra HD Airbrushed Oil Painting) Gloom: The Gloom is a semi-secret underground headquarters for the Shadow Horde, a non-corporeal "race" of undead who have somehow managed to keep most of their necromantic powers while being bound to this realm. It is currently filled with a lethal mist that kills instantly.
+done with other stuffs0.
+done with other stuffs1.
+done with other stuffs9.
+[e] Sampling: 100%|##########| 1/1 [00:02<00:00,  2.94s/it]
+[e] Sampling:   0%|          | 0/1 [00:00<?, ?it/s]
+Data shape for PLMS sampling is (1, 4, 64, 64)
+Running PLMS Sampling with 40 timesteps
+[e] PLMS Sampler:   0%|          | 0/40 [00:00<?, ?it/s][A[A
+[e] PLMS Sampler:   2%|2         | 1/40 [00:00<00:06,  5.73it/s][A[A
+[e] PLMS Sampler:   8%|7         | 3/40 [00:00<00:03,  9.62it/s][A[A
+[e] PLMS Sampler:  12%|#2        | 5/40 [00:00<00:03, 11.24it/s][A[A
+[e] PLMS Sampler:  18%|#7        | 7/40 [00:00<00:02, 12.07it/s][A[A
+[e] PLMS Sampler:  22%|##2       | 9/40 [00:00<00:02, 12.45it/s][A[A
+[e] PLMS Sampler:  28%|##7       | 11/40 [00:00<00:02, 12.84it/s][A[A
+[e] PLMS Sampler:  32%|###2      | 13/40 [00:01<00:02, 12.97it/s][A[A
+[e] PLMS Sampler:  38%|###7      | 15/40 [00:01<00:01, 13.14it/s][A[A
+[e] PLMS Sampler:  42%|####2     | 17/40 [00:01<00:01, 13.10it/s][A[A
+[e] PLMS Sampler:  48%|####7     | 19/40 [00:01<00:01, 13.10it/s][A[A
+[e] PLMS Sampler:  52%|#####2    | 21/40 [00:01<00:02,  9.47it/s][A[A
+[e] PLMS Sampler:  57%|#####7    | 23/40 [00:02<00:01, 10.41it/s][A[A
+[e] PLMS Sampler:  62%|######2   | 25/40 [00:02<00:01, 11.06it/s][A[A
+[e] PLMS Sampler:  68%|######7   | 27/40 [00:02<00:01, 11.71it/s][A[A
+[e] PLMS Sampler:  72%|#######2  | 29/40 [00:02<00:00, 12.10it/s][A[A
+[e] PLMS Sampler:  78%|#######7  | 31/40 [00:02<00:00, 12.53it/s][A[A
+[e] PLMS Sampler:  82%|########2 | 33/40 [00:02<00:00, 12.79it/s][A[A
+[e] PLMS Sampler:  88%|########7 | 35/40 [00:02<00:00, 12.96it/s][A[A
+[e] PLMS Sampler:  92%|#########2| 37/40 [00:03<00:00, 13.11it/s][A[A
+[e] PLMS Sampler:  98%|#########7| 39/40 [00:03<00:00, 13.11it/s][A[A
+[e] PLMS Sampler: 100%|##########| 40/40 [00:03<00:00, 12.11it/s]
+[e] data: 100%|##########| 1/1 [00:03<00:00,  3.50s/it][A
+finished generating: C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5\72f9e2b5-92f5-4ad9-bacb-4a812fb9d588_unfinished.png
+got here0 base_count: 2
+eloworld gothere3, 30, 512, 512, C:\Users\Brad\AppData\LocalLow\MaxLoh\AI Roguelite\save\82db5021-1356-4cc5-9ac9-e3c18d2911b5\f0fba2b1-b466-4a31-bc6a-3bc39177fd80_unfinished.png, (Ultra HD Airbrushed Oil Painting) Top hat: A hat that's just a flat circle with a hole in it. Belonged to Oswald, now defunct.
+done with other stuffs0.
+[e] Sampling: 100%|##########| 1/1 [00:03<00:00,  3.50s/it]
+[e] Sampling:   0%|          | 0/1 [00:00<?, ?it/s]
+Data shape for PLMS sampling is (1, 4, 64, 64)
+Running PLMS Sampling with 31 timesteps
+[e] PLMS Sampler:   0%|          | 0/31 [00:00<?, ?it/s][A[A
+[e] PLMS Sampler:   3%|3         | 1/31 [00:00<00:05,  5.90it/s][A[A
+[e] PLMS Sampler:  10%|9         | 3/31 [00:00<00:02, 10.22it/s][A[A
+[e] PLMS Sampler:  16%|#6        | 5/31 [00:00<00:02, 11.71it/s][A[A
+[e] PLMS Sampler:  23%|##2       | 7/31 [00:00<00:01, 12.58it/s][A[A
+[e] PLMS Sampler:  29%|##9       | 9/31 [00:00<00:01, 12.99it/s][A[A
+[e] PLMS Sampler:  35%|###5      | 11/31 [00:00<00:01, 13.27it/s][A[A
+[e] PLMS Sampler:  42%|####1     | 13/31 [00:01<00:01, 13.43it/s][A[A
+[e] PLMS Sampler:  48%|####8     | 15/31 [00:01<00:01, 13.42it/s][A[A
+[e] PLMS Sampler:  55%|#####4    | 17/31 [00:01<00:01, 13.46it/s][A[A
+[e] PLMS Sampler:  61%|######1   | 19/31 [00:01<00:00, 13.55it/s][A[A
+[e] PLMS Sampler:  68%|######7   | 21/31 [00:01<00:00, 10.33it/s][A[A
+[e] PLMS Sampler:  74%|#######4  | 23/31 [00:01<00:00, 11.08it/s][A[A
+[e] PLMS Sampler:  81%|########  | 25/31 [00:02<00:00, 11.63it/s][A[A
+[e] PLMS Sampler:  87%|########7 | 27/31 [00:02<00:00, 12.22it/s][A[A
+[e] PLMS Sampler:  94%|#########3| 29/31 [00:02<00:00, 12.61it/s][A[A
+[e] PLMS Sampler: 100%|##########| 31/31 [00:02<00:00, 10.36it/s][A[A
+[e] PLMS Sampler: 100%|##########| 31/31 [00:02<00:00, 11.71it/s]
+[e] data: 100%|##########| 1/1 [00:02<00:00,  2.80s/it][A
+[e] data: 100%|##########| 1/1 [00:02<00:00,  2.80s/it]
+[e] Sampling: 100%|##########| 1/1 [00:02<00:00,  2.80s/it]
